@@ -1,0 +1,4297 @@
+fig|83333.1.peg.1483	b1496	GENE:yddA
+fig|83333.1.peg.938	b0953	GENE:rmf
+fig|83333.1.peg.433	b0436	GENE:tig
+fig|83333.1.peg.176	b0176	GENE:yaeL
+fig|83333.1.peg.3282	b3348	GENE:slyX
+fig|83333.1.peg.3523	b3589	GENE:yiaY
+fig|83333.1.peg.2172	b2198	GENE:ccmD
+fig|83333.1.peg.2652	b4542
+fig|83333.1.peg.3681	b3744	GENE:asnA
+fig|83333.1.peg.874	b0889	GENE:lrp
+fig|83333.1.peg.4085	b4175	GENE:hflC
+fig|83333.1.peg.2136	b2161	GENE:yeiJ
+fig|83333.1.peg.353	b0356	GENE:adhC
+fig|83333.1.peg.4260	b4349	GENE:hsdM
+fig|83333.1.peg.3826	b3905	GENE:rhaS
+fig|83333.1.peg.3535	b3600	GENE:mtlD
+fig|83333.1.peg.1347	b1357	GENE:ydaS
+fig|83333.1.peg.1521	b1534	GENE:ydeF
+fig|83333.1.peg.1172	b1186	GENE:nhaB
+fig|83333.1.peg.362	b0365	GENE:tauA
+fig|83333.1.peg.517	b0520	GENE:ylbF
+fig|83333.1.peg.614	b0613	GENE:citG
+fig|83333.1.peg.375	b0378	GENE:yaiW
+fig|83333.1.peg.4093	b4183	GENE:yjfK
+fig|83333.1.peg.846	b0860	GENE:artJ
+fig|83333.1.peg.2333	b2361
+fig|83333.1.peg.1038	b1053	GENE:yceE
+fig|83333.1.peg.1805	b1822	GENE:yebH
+fig|83333.1.peg.2466	b2497	GENE:uraA
+fig|83333.1.peg.3700	b3770	GENE:ilvE
+fig|83333.1.peg.2078	b2103	GENE:thiD
+fig|83333.1.peg.1610	b1624
+fig|83333.1.peg.1370	b1380	GENE:ldhA
+fig|83333.1.peg.157	b0156	GENE:yadR
+fig|83333.1.peg.3927	b4018	GENE:iclR
+fig|83333.1.peg.2862	b2910	GENE:ygfE
+fig|83333.1.peg.662	b0661	GENE:yleA
+fig|83333.1.peg.2938	b2988	GENE:gsp
+fig|83333.1.peg.3246	b3312	GENE:rpmC
+fig|83333.1.peg.2703	b2747	GENE:ygbP
+fig|83333.1.peg.3252	b3318	GENE:rplW
+fig|83333.1.peg.3082	b3137	GENE:agaY
+fig|83333.1.peg.3263	b3329	GENE:hofH
+fig|83333.1.peg.904	b0919
+fig|83333.1.peg.2992	b3044 LocusTag:yi215
+fig|83333.1.peg.1379	b1389	GENE:ynbF
+fig|83333.1.peg.1818	b1834
+fig|83333.1.peg.4307	b4399	GENE:creC
+fig|83333.1.peg.1844	b1860	GENE:ruvB
+fig|83333.1.peg.4079	b4169	GENE:amiB
+fig|83333.1.peg.2157	b2182	GENE:bcr
+fig|83333.1.peg.76	b0075	GENE:leuL
+fig|83333.1.peg.4305	b4397	GENE:creA
+fig|83333.1.peg.1001	b1013	GENE:ycdC
+fig|83333.1.peg.3382	b3449	GENE:ugpQ
+fig|83333.1.peg.3275	b3341	GENE:rpsG
+fig|83333.1.peg.1426	b1440
+fig|83333.1.peg.248	b0253	GENE:ykfA
+fig|83333.1.peg.709	b0717	GENE:ybgP
+fig|83333.1.peg.1789	b1806
+fig|83333.1.peg.4127	b4217	GENE:ytfK
+fig|83333.1.peg.3333	b3398	GENE:yrfF
+fig|83333.1.peg.184	b0184	GENE:dnaE
+fig|83333.1.peg.768	b0782	GENE:moaB
+fig|83333.1.peg.3572	b3636	GENE:rpmG
+fig|83333.1.peg.271	insA3	b0275
+fig|83333.1.peg.3231	b3297	GENE:rpsK
+fig|83333.1.peg.3342	b3407
+fig|83333.1.peg.2759	b2803	GENE:fucK
+fig|83333.1.peg.140	b0140
+fig|83333.1.peg.967	b0982	GENE:yccY
+fig|83333.1.peg.2606	b2643	GENE:yfjX
+fig|83333.1.peg.28	b0028	GENE:slpA
+fig|83333.1.peg.2258	b2284	GENE:nuoF
+fig|83333.1.peg.1280	b1292	GENE:sapC
+fig|83333.1.peg.2526	b2556	GENE:yfhK
+fig|83333.1.peg.988	b1001	GENE:yccE
+fig|83333.1.peg.95	b0094	GENE:ftsA
+fig|83333.1.peg.335	b0338	GENE:cynR
+fig|83333.1.peg.3412	b3479	GENE:nikD
+fig|83333.1.peg.4026	b4114	GENE:yjdB
+fig|83333.1.peg.2892	b2941	GENE:yqgD
+fig|83333.1.peg.1772	b1789	GENE:yeaL
+fig|83333.1.peg.855	b0869	GENE:ybjT
+fig|83333.1.peg.3441	b3508	GENE:yhiD
+fig|83333.1.peg.3002	b3054	GENE:ygiF
+fig|83333.1.peg.520	b0523	GENE:purE
+fig|83333.1.peg.1705	b1722
+fig|83333.1.peg.198	b0197	GENE:yaeC
+fig|83333.1.peg.3191	b3249	GENE:mreD
+fig|83333.1.peg.2476	b2506
+fig|83333.1.peg.3758	b3831	GENE:udp
+fig|83333.1.peg.1796	b1813	GENE:yeaB
+fig|83333.1.peg.70	b0069	GENE:yabN
+fig|83333.1.peg.4130	b4220	GENE:ytfM
+fig|83333.1.peg.2016	b2040	GENE:rfbD
+fig|83333.1.peg.948	b0963	GENE:mgsA
+fig|83333.1.peg.3897	b3985	GENE:rplJ
+fig|83333.1.peg.3037	b3090	GENE:ygjV
+fig|83333.1.peg.526	b0529	GENE:folD
+fig|83333.1.peg.3465	b3532	GENE:yhjN
+fig|83333.1.peg.186	b0186	GENE:ldcC
+fig|83333.1.peg.3578	b3642	GENE:pyrE
+fig|83333.1.peg.4034	b4122	GENE:fumB
+fig|83333.1.peg.4063	b4150	GENE:ampC
+fig|83333.1.peg.4172	b4262
+fig|83333.1.peg.2327	b2355	GENE:yfdL
+fig|83333.1.peg.1609	b1623	GENE:add
+fig|83333.1.peg.2747	b2791	GENE:yqcB
+fig|83333.1.peg.1894	b1914	GENE:uvrY
+fig|83333.1.peg.438	b0441	GENE:ybaU
+fig|83333.1.peg.3453	b3520	GENE:yhjB
+fig|83333.1.peg.2234	b2260	GENE:menE
+fig|83333.1.peg.1492	b1505
+fig|83333.1.peg.748	b0762
+fig|83333.1.peg.3049	b3102	GENE:yqjG
+fig|83333.1.peg.2303	b2329	GENE:aroC
+fig|83333.1.peg.4182	b4273 LocusTag:yi226
+fig|83333.1.peg.2966	b3019	GENE:parC
+fig|83333.1.peg.2071	b2096	GENE:gatY
+fig|83333.1.peg.4100	b4190	GENE:yjfP
+fig|83333.1.peg.1885	b1902	GENE:yecI
+fig|83333.1.peg.1640	b1654	GENE:ydhD
+fig|83333.1.peg.3377	insB6	b3445
+fig|83333.1.peg.2427	b2459
+fig|83333.1.peg.2522	b2552	GENE:hmpA
+fig|83333.1.peg.1538	b1550
+fig|83333.1.peg.3093	b3148	GENE:yraN
+fig|83333.1.peg.1552	b1564	GENE:relB
+fig|83333.1.peg.500	b0504	GENE:ybbS
+fig|83333.1.peg.297	b0300	GENE:ykgA
+fig|83333.1.peg.1479	b1492	GENE:xasA
+fig|83333.1.peg.1056	b1071	GENE:flgM
+fig|83333.1.peg.290	b0294	GENE:ykgK
+fig|83333.1.peg.1261	b1274	GENE:topA
+fig|83333.1.peg.3375	b3443	GENE:yrhA
+fig|83333.1.peg.1386	b1396
+fig|83333.1.peg.121	b0121	GENE:speE
+fig|83333.1.peg.926	b0941
+fig|83333.1.peg.4103	b4193
+fig|83333.1.peg.2431	b2463
+fig|83333.1.peg.1084	b1099	GENE:holB
+fig|83333.1.peg.2213	b2240	GENE:glpT
+fig|83333.1.peg.1332	b1343	GENE:dbpA
+fig|83333.1.peg.2610	b2647	GENE:ypjA
+fig|83333.1.peg.2182	b2208	GENE:napF
+fig|83333.1.peg.1409	b1423
+fig|83333.1.peg.1549	b1561	GENE:rem
+fig|83333.1.peg.1978	b2004	GENE:yeeU
+fig|83333.1.peg.1864	b1880	GENE:flhB
+fig|83333.1.peg.679	b0689	GENE:ybfP
+fig|83333.1.peg.4291	b4383	GENE:deoB
+fig|83333.1.peg.2757	b2801	GENE:fucP
+fig|83333.1.peg.4112	b4202	GENE:rpsR
+fig|83333.1.peg.3622	b3686	GENE:ibpB
+fig|83333.1.peg.1819	b1835	GENE:yebU
+fig|83333.1.peg.672	b0682	GENE:ybfN
+fig|83333.1.peg.1849	b1865	GENE:ntpA
+fig|83333.1.peg.3788	b3868	GENE:glnG
+fig|83333.1.peg.1266	b1279	GENE:yciS
+fig|83333.1.peg.3663	b3726	GENE:pstA
+fig|83333.1.peg.4284	b4376	GENE:osmY
+fig|83333.1.peg.3656	b3719	GENE:yieL
+fig|83333.1.peg.1857	b1873	GENE:yecK
+fig|83333.1.peg.1942	b1963
+fig|83333.1.peg.3120	b3177
+fig|83333.1.peg.2358	b2385
+fig|83333.1.peg.3736	b3810	GENE:yigA
+fig|83333.1.peg.714	b0722	GENE:sdhD
+fig|83333.1.peg.1248	b1261	GENE:trpB
+fig|83333.1.peg.3771	b3845	GENE:fadA
+fig|83333.1.peg.1155	b1169
+fig|83333.1.peg.575	b0577	GENE:ybdG
+fig|83333.1.peg.4225	b4315	GENE:fimI
+fig|83333.1.peg.3102	b3157	GENE:yhbT
+fig|83333.1.peg.2517	b2547	GENE:yphE
+fig|83333.1.peg.3143	b3200	GENE:yhbN
+fig|83333.1.peg.2050	b2074
+fig|83333.1.peg.1562	b1576	GENE:ydfD
+fig|83333.1.peg.3296	b3361	GENE:fic
+fig|83333.1.peg.695	b0704	GENE:ybfC
+fig|83333.1.peg.2818	b2866
+fig|83333.1.peg.2041	b2065	GENE:dcd
+fig|83333.1.peg.548	b0551	GENE:ybcQ
+fig|83333.1.peg.110	b0110	GENE:ampD
+fig|83333.1.peg.474	b0478	GENE:ybaL
+fig|83333.1.peg.2493	b2523
+fig|83333.1.peg.1621	b1635	GENE:gst
+fig|83333.1.peg.346	b0349	GENE:mhpC
+fig|83333.1.peg.1748	b1765	GENE:ydjA
+fig|83333.1.peg.3814	b3894	GENE:fdoG
+fig|83333.1.peg.332	b0335	GENE:prpE
+fig|83333.1.peg.3214	b3280	GENE:yrdB
+fig|83333.1.peg.3876	b3956	GENE:ppc
+fig|83333.1.peg.4003	b4091	GENE:phnQ
+fig|83333.1.peg.1953	b1974
+fig|83333.1.peg.1742	b1759
+fig|83333.1.peg.300	b0303	GENE:ykgI
+fig|83333.1.peg.1431	b1445
+fig|83333.1.peg.971	b0986	GENE:ymcC
+fig|83333.1.peg.3164	b3220	GENE:yhcG
+fig|83333.1.peg.3649	b3712	GENE:yieE
+fig|83333.1.peg.3057	b3111	GENE:yhaP
+fig|83333.1.peg.3198	b3256	GENE:accC
+fig|83333.1.peg.4245	b4334	GENE:yjiL
+fig|83333.1.peg.643	b0642	GENE:leuS
+fig|83333.1.peg.966	b0981	GENE:yccC
+fig|83333.1.peg.3991	b4080	GENE:yjcP
+fig|83333.1.peg.1852	b1868	GENE:yecE
+fig|83333.1.peg.3328	b3393	GENE:yrfB
+fig|83333.1.peg.1626	b1640
+fig|83333.1.peg.2223	b2250
+fig|83333.1.peg.615	b0614	GENE:ybdU
+fig|83333.1.peg.3132	b3189	GENE:murA
+fig|83333.1.peg.2195	b2220	GENE:atoC
+fig|83333.1.peg.219	b0224	GENE:yafK
+fig|83333.1.peg.4043	b4131	GENE:cadA
+fig|83333.1.peg.731	b0738	GENE:tolR
+fig|83333.1.peg.4009	b4097	GENE:phnK
+fig|83333.1.peg.1947	b1968	GENE:yedV
+fig|83333.1.peg.1681	b1697	GENE:ydiQ
+fig|83333.1.peg.42	b0041	GENE:fixA
+fig|83333.1.peg.2501	b2531
+fig|83333.1.peg.3027	b3080	GENE:ygjK
+fig|83333.1.peg.1181	b1195	GENE:ymgE
+fig|83333.1.peg.1191	b1205	GENE:ychH
+fig|83333.1.peg.2980	b3033	GENE:yqiB
+fig|83333.1.peg.1066	b1081	GENE:flgJ
+fig|83333.1.peg.3848	b3929	GENE:menG
+fig|83333.1.peg.1462	b1475	GENE:fdnH
+fig|83333.1.peg.361	b0364	GENE:yaiS
+fig|83333.1.peg.3909	b3996	GENE:yjaD
+fig|83333.1.peg.2413	b2445
+fig|83333.1.peg.1453	b1467	GENE:narY
+fig|83333.1.peg.3842	b3923	GENE:yiiT
+fig|83333.1.peg.1464	b1477	GENE:yddM
+fig|83333.1.peg.3618	b3681	GENE:glvG
+fig|83333.1.peg.1434	b1448
+fig|83333.1.peg.4015	b4103
+fig|83333.1.peg.3841	b3922	GENE:yiiS
+fig|83333.1.peg.3196	b3254
+fig|83333.1.peg.3691	b3753	GENE:rbsR
+fig|83333.1.peg.3139	b3196	GENE:yrbG
+fig|83333.1.peg.873	b0888	GENE:trxB
+fig|83333.1.peg.1275	b1287	GENE:yciW
+fig|83333.1.peg.3148	b3205	GENE:yhbJ
+fig|83333.1.peg.3596	b3660	GENE:yicL
+fig|83333.1.peg.750	b0764	GENE:modB
+fig|83333.1.peg.3729	b3804	GENE:hemD
+fig|83333.1.peg.3313	b3378	GENE:yhfU
+fig|83333.1.peg.1078	b1093	GENE:fabG
+fig|83333.1.peg.2926	b2976	GENE:glcB
+fig|83333.1.peg.4196	b4287	GENE:fecE
+fig|83333.1.peg.3237	b3303	GENE:rpsE
+fig|83333.1.peg.1221	b1234	GENE:ychK
+fig|83333.1.peg.3731	b3806	GENE:cyaA
+fig|83333.1.peg.3026	b3079	GENE:ygjJ
+fig|83333.1.peg.3833	b3912	GENE:cpxR
+fig|83333.1.peg.4239	b4329	GENE:yjiG
+fig|83333.1.peg.2112	b2137a	GENE:yohE
+fig|83333.1.peg.808	b0822
+fig|83333.1.peg.4257	b4346	GENE:mcrB
+fig|83333.1.peg.2010	b2034	GENE:wbbI
+fig|83333.1.peg.3672	b3735	GENE:atpH
+fig|83333.1.peg.2035	b2059	GENE:wcaA
+fig|83333.1.peg.2674	b2719	GENE:hycG
+fig|83333.1.peg.1503	b1516
+fig|83333.1.peg.4219	b4309	GENE:yjhS
+fig|83333.1.peg.590	b0590	GENE:fepD
+fig|83333.1.peg.1982	b2008	GENE:yeeA
+fig|83333.1.peg.4163	b4253	GENE:yjgL
+fig|83333.1.peg.4244	b4563
+fig|83333.1.peg.3673	b3736	GENE:atpF
+fig|83333.1.peg.3056	b3110	GENE:yhaO
+fig|83333.1.peg.2658	b2703	GENE:srlE
+fig|83333.1.peg.2878	b2927	GENE:epd
+fig|83333.1.peg.2920	b2970
+fig|83333.1.peg.2031	b2055	GENE:wcaE
+fig|83333.1.peg.4212	b4303	GENE:sgcQ
+fig|83333.1.peg.2840	b2888	GENE:ygfU
+fig|83333.1.peg.494	b0498	GENE:ybbC
+fig|83333.1.peg.1033	b1047	GENE:ymdD
+fig|83333.1.peg.1677	b1693	GENE:aroD
+fig|83333.1.peg.2390	b2422	GENE:cysA
+fig|83333.1.peg.254	b0259 LocusTag:trs51
+fig|83333.1.peg.2281	b2307	GENE:hisM
+fig|83333.1.peg.1520	b1533	GENE:ydeD
+fig|83333.1.peg.109	b0109	GENE:nadC
+fig|83333.1.peg.3594	b4551
+fig|83333.1.peg.2141	b2166	GENE:yeiC
+fig|83333.1.peg.392	b0395
+fig|83333.1.peg.1103	b1118	GENE:ycfW
+fig|83333.1.peg.1984	b2010	GENE:dacD
+fig|83333.1.peg.742	b0756	GENE:galM
+fig|83333.1.peg.3494	b4548
+fig|83333.1.peg.1071	b1086	GENE:yceC
+fig|83333.1.peg.4183	b4275	GENE:yjgX
+fig|83333.1.peg.653	b0652	GENE:gltL
+fig|83333.1.peg.2101	b4531
+fig|83333.1.peg.372	b0375	GENE:yaiV
+fig|83333.1.peg.2562	b2595
+fig|83333.1.peg.1543	b1555
+fig|83333.1.peg.1023	b1038	GENE:csgF
+fig|83333.1.peg.1578	b1592
+fig|83333.1.peg.2603	b4541
+fig|83333.1.peg.1994	b2019	GENE:hisG
+fig|83333.1.peg.1349	b1359	GENE:ydaU
+fig|83333.1.peg.154	b0153	GENE:fhuB
+fig|83333.1.peg.2904	b2953	GENE:yggU
+fig|83333.1.peg.3074	b3129	GENE:sohA
+fig|83333.1.peg.2623	b2662	GENE:gabT
+fig|83333.1.peg.1189	b1203	GENE:ychF
+fig|83333.1.peg.3914	b4001	GENE:yjaH
+fig|83333.1.peg.2809	b2856
+fig|83333.1.peg.1954	b1976
+fig|83333.1.peg.644	b0643	GENE:ybeL
+fig|83333.1.peg.3849	b3930	GENE:menA
+fig|83333.1.peg.2299	b2325
+fig|83333.1.peg.2733	b2777	GENE:ygcF
+fig|83333.1.peg.2072	b2097
+fig|83333.1.peg.2121	b2146
+fig|83333.1.peg.1158	b1172
+fig|83333.1.peg.3803	b3883	GENE:yihV
+fig|83333.1.peg.1029	b1043	GENE:csgC
+fig|83333.1.peg.1759	b1776
+fig|83333.1.peg.4154	b4244	GENE:pyrI
+fig|83333.1.peg.600	b0599	GENE:ybdH
+fig|83333.1.peg.3554	b3618	GENE:htrL
+fig|83333.1.peg.2241	b2267	GENE:elaA
+fig|83333.1.peg.3779	b3858	GENE:yihD
+fig|83333.1.peg.2773	b2820	GENE:recB
+fig|83333.1.peg.3366	b3432	GENE:glgB
+fig|83333.1.peg.3946	b4037	GENE:malM
+fig|83333.1.peg.1927	b1947
+fig|83333.1.peg.794	b0808	GENE:ybiO
+fig|83333.1.peg.3429	b3496	GENE:yhiP
+fig|83333.1.peg.1966	b1992	GENE:cobS
+fig|83333.1.peg.3610	b3673	GENE:emrD
+fig|83333.1.peg.1141	b1156	GENE:ycfA
+fig|83333.1.peg.1589	b1603	GENE:pntA
+fig|83333.1.peg.3750	b3824	GENE:yigK
+fig|83333.1.peg.3398	b3465	GENE:yhhF
+fig|83333.1.peg.1196	b1210	GENE:hemA
+fig|83333.1.peg.633	b0632	GENE:dacA
+fig|83333.1.peg.597	b0597	GENE:ybdB
+fig|83333.1.peg.3498	b3564	GENE:xylB
+fig|83333.1.peg.1319	b1330
+fig|83333.1.peg.581	b0582 LocusTag:yi812
+fig|83333.1.peg.4152	b4242	GENE:mgtA
+fig|83333.1.peg.3983	b4073	GENE:nrfD
+fig|83333.1.peg.1114	b1129	GENE:phoQ
+fig|83333.1.peg.2341	b2368	GENE:emrK
+fig|83333.1.peg.2711	b2755
+fig|83333.1.peg.3065	b3119	GENE:tdcR
+fig|83333.1.peg.100	b0099	GENE:mutT
+fig|83333.1.peg.4258	b4347	GENE:yjiW
+fig|83333.1.peg.4299	b4391	GENE:yjjK
+fig|83333.1.peg.954	b0969	GENE:yccK
+fig|83333.1.peg.1231	b1244	GENE:oppB
+fig|83333.1.peg.2727	b2771	GENE:ygcS
+fig|83333.1.peg.3882	b3962	GENE:udhA
+fig|83333.1.peg.606	b0605	GENE:ahpC
+fig|83333.1.peg.434	b0437	GENE:clpP
+fig|83333.1.peg.1402	b1414	GENE:ydcF
+fig|83333.1.peg.1218	b1229	GENE:tpr
+fig|83333.1.peg.1908	b1928	GENE:yedD
+fig|83333.1.peg.3274	b3340	GENE:fusA
+fig|83333.1.peg.1876	b1892
+fig|83333.1.peg.624	b0623	GENE:cspE
+fig|83333.1.peg.3357	b3423	GENE:glpR
+fig|83333.1.peg.206	b0211	GENE:dniR
+fig|83333.1.peg.3507	b3573	GENE:yiaI
+fig|83333.1.peg.2023	b2047	GENE:wcaJ
+fig|83333.1.peg.31	b0031	GENE:dapB
+fig|83333.1.peg.3855	b3936	GENE:rpmE
+fig|83333.1.peg.405	b0408	GENE:secD
+fig|83333.1.peg.3016	b3068	GENE:ygjF
+fig|83333.1.peg.380	b0383	GENE:phoA
+fig|83333.1.peg.3434	b3501	GENE:arsR
+fig|83333.1.peg.2986	b3039	GENE:ygiD
+fig|83333.1.peg.1055	b1070	GENE:flgN
+fig|83333.1.peg.264	b0268	GENE:yagE
+fig|83333.1.peg.801	b0815	GENE:ybiP
+fig|83333.1.peg.1893	b1913
+fig|83333.1.peg.3521	b3587	GENE:yiaW
+fig|83333.1.peg.1517	b1530	GENE:marR
+fig|83333.1.peg.1472	b1485
+fig|83333.1.peg.2881	b2930	GENE:yggF
+fig|83333.1.peg.3265	b3331	GENE:yheI
+fig|83333.1.peg.751	b0765	GENE:modC
+fig|83333.1.peg.1722	b1739	GENE:osmE
+fig|83333.1.peg.202	b0207	GENE:yafB
+fig|83333.1.peg.3544	b3608	GENE:gpsA
+fig|83333.1.peg.3950	b4040	GENE:ubiA
+fig|83333.1.peg.1709	b1726
+fig|83333.1.peg.4147	b4237	GENE:nrdG
+fig|83333.1.peg.2555	b2584	GENE:yfiQ
+fig|83333.1.peg.856	b0870	GENE:ybjU
+fig|83333.1.peg.1446	b1460	GENE:ydcC
+fig|83333.1.peg.2441	b4537
+fig|83333.1.peg.2190	b2215	GENE:ompC
+fig|83333.1.peg.3100	b3155	GENE:yhbQ
+fig|83333.1.peg.3216	b3282	GENE:yrdC
+fig|83333.1.peg.2282	b2308	GENE:hisQ
+fig|83333.1.peg.2749	b2793	GENE:syd
+fig|83333.1.peg.1387	b1397
+fig|83333.1.peg.2740	b2784	GENE:relA
+fig|83333.1.peg.99	b0098	GENE:secA
+fig|83333.1.peg.129	b0129	GENE:yadI
+fig|83333.1.peg.2635	b2674	GENE:nrdI
+fig|83333.1.peg.1795	b1812	GENE:pabB
+fig|83333.1.peg.1941	b1962	GENE:yedJ
+fig|83333.1.peg.2094	b2121	GENE:yehP
+fig|83333.1.peg.2910	b2959
+fig|83333.1.peg.2344	b2371	GENE:yfdE
+fig|83333.1.peg.831	b0845
+fig|83333.1.peg.3902	b3990	GENE:thiH
+fig|83333.1.peg.1595	b1609	GENE:rstB
+fig|83333.1.peg.2273	b2299
+fig|83333.1.peg.329	b0332
+fig|83333.1.peg.545	b0549	GENE:ybcO
+fig|83333.1.peg.2899	b2948
+fig|83333.1.peg.3608	b3671	GENE:ilvB
+fig|83333.1.peg.149	b4501
+fig|83333.1.peg.3567	b3631	GENE:rfaG
+fig|83333.1.peg.847	b0861	GENE:artM
+fig|83333.1.peg.977	b0991	GENE:sfa
+fig|83333.1.peg.1130	b1145
+fig|83333.1.peg.359	b0362
+fig|83333.1.peg.119	b0119	GENE:yacL
+fig|83333.1.peg.1394	b1406	GENE:ydbC
+fig|83333.1.peg.2850	b2898	GENE:ygfZ
+fig|83333.1.peg.2566	b2599	GENE:pheA
+fig|83333.1.peg.449	b0452	GENE:tesB
+fig|83333.1.peg.2313	b2340
+fig|83333.1.peg.3163	b3219	GENE:yhcF
+fig|83333.1.peg.1369	b1379	GENE:hslJ
+fig|83333.1.peg.2325	b2353
+fig|83333.1.peg.1417	b1431
+fig|83333.1.peg.2086	b2111	GENE:yehD
+fig|83333.1.peg.3562	b3626	GENE:rfaJ
+fig|83333.1.peg.3970	b4060
+fig|83333.1.peg.2829	b2877	GENE:ygfJ
+fig|83333.1.peg.727	b4513
+fig|83333.1.peg.2378	b4536
+fig|83333.1.peg.3532	b3597	GENE:yibH
+fig|83333.1.peg.2488	b2518	GENE:ndk
+fig|83333.1.peg.427	b0430	GENE:cyoC
+fig|83333.1.peg.1113	b1128	GENE:ycfD
+fig|83333.1.peg.2951	b3003	GENE:yghA
+fig|83333.1.peg.1308	b1320	GENE:ycjW
+fig|83333.1.peg.4208	b4299	GENE:yjhI
+fig|83333.1.peg.1653	b1669
+fig|83333.1.peg.1312	b1324	GENE:tpx
+fig|83333.1.peg.3764	b3838
+fig|83333.1.peg.340	b0343	GENE:lacY
+fig|83333.1.peg.296	b0299 LocusTag:tra55
+fig|83333.1.peg.1361	b1371
+fig|83333.1.peg.2872	b2921
+fig|83333.1.peg.4044	b4132	GENE:cadB
+fig|83333.1.peg.2686	b2731	GENE:fhlA
+fig|83333.1.peg.2015	b2039	GENE:rfbA
+fig|83333.1.peg.1573	b1587
+fig|83333.1.peg.553	b0555	GENE:ybcS
+fig|83333.1.peg.2682	b2727	GENE:hypB
+fig|83333.1.peg.2331	b2359
+fig|83333.1.peg.1861	b1877
+fig|83333.1.peg.981	b0994	GENE:torT
+fig|83333.1.peg.1037	b1051	GENE:msyB
+fig|83333.1.peg.1042	b1057
+fig|83333.1.peg.3650	b3713	GENE:yieF
+fig|83333.1.peg.2532	b2562	GENE:yfhL
+fig|83333.1.peg.682	b0692	GENE:potE
+fig|83333.1.peg.1126	b1141
+fig|83333.1.peg.122	b0122	GENE:yacC
+fig|83333.1.peg.1568	b1582
+fig|83333.1.peg.4287	b4379	GENE:yjjW
+fig|83333.1.peg.3957	b4047	GENE:yjbL
+fig|83333.1.peg.1695	b1711	GENE:btuC
+fig|83333.1.peg.1247	b1260	GENE:trpA
+fig|83333.1.peg.2439	b2471	GENE:yffB
+fig|83333.1.peg.3717	b3788	GENE:rffG
+fig|83333.1.peg.2943	b2993	GENE:hybD
+fig|83333.1.peg.2742	b2786	GENE:barA
+fig|83333.1.peg.3205	b3263	GENE:yhdU
+fig|83333.1.peg.939	b0954	GENE:fabA
+fig|83333.1.peg.3151	b3208	GENE:mtgA
+fig|83333.1.peg.3555	b3619	GENE:rfaD
+fig|83333.1.peg.779	b0793	GENE:ybhS
+fig|83333.1.peg.2547	b2576	GENE:srmB
+fig|83333.1.peg.1357	b1367
+fig|83333.1.peg.1294	b1306	GENE:pspC
+fig|83333.1.peg.1048	b1063	GENE:yceB
+fig|83333.1.peg.4278	b4367	GENE:fhuF
+fig|83333.1.peg.588	b0588	GENE:fepC
+fig|83333.1.peg.2698	b2742	GENE:nlpD
+fig|83333.1.peg.2947	b2997
+fig|83333.1.peg.4055	b4143	GENE:mopA
+fig|83333.1.peg.3487	b3555	GENE:yiaG
+fig|83333.1.peg.2762	b2806	GENE:ygdE
+fig|83333.1.peg.1259	b1272	GENE:sohB
+fig|83333.1.peg.3390	b3457	GENE:livH
+fig|83333.1.peg.1637	b1651	GENE:gloA
+fig|83333.1.peg.607	b0606	GENE:ahpF
+fig|83333.1.peg.1719	b1736	GENE:celC
+fig|83333.1.peg.3305	b3370	GENE:yhfM
+fig|83333.1.peg.3253	b3319	GENE:rplD
+fig|83333.1.peg.2803	b2850	GENE:ygeF
+fig|83333.1.peg.3693	yiePs	b3755
+fig|83333.1.peg.167	b0167	GENE:glnD
+fig|83333.1.peg.2359	b2386
+fig|83333.1.peg.4	b0004	GENE:thrC
+fig|83333.1.peg.2643	b2684	GENE:emrR
+fig|83333.1.peg.4126	b4216	GENE:ytfJ
+fig|83333.1.peg.50	b0049	GENE:apaH
+fig|83333.1.peg.2057	b2081	GENE:yegQ
+fig|83333.1.peg.639	b0638	GENE:phpB
+fig|83333.1.peg.64	b0063	GENE:araB
+fig|83333.1.peg.509	b0513	GENE:ybbY
+fig|83333.1.peg.311	b0314	GENE:betT
+fig|83333.1.peg.3800	b3880	GENE:yihS
+fig|83333.1.peg.3464	b3531	GENE:yhjM
+fig|83333.1.peg.3573	b3637	GENE:rpmB
+fig|83333.1.peg.1281	b1293	GENE:sapB
+fig|83333.1.peg.301	b0304	GENE:ykgC
+fig|83333.1.peg.185	b0185	GENE:accA
+fig|83333.1.peg.830	b0844
+fig|83333.1.peg.543	b0547	GENE:ybcN
+fig|83333.1.peg.3142	b3199	GENE:yrbK
+fig|83333.1.peg.1611	b1625
+fig|83333.1.peg.708	b0716	GENE:ybgO
+fig|83333.1.peg.1652	b1668
+fig|83333.1.peg.2365	b2392
+fig|83333.1.peg.3276	b3342	GENE:rpsL
+fig|83333.1.peg.96	b0095	GENE:ftsZ
+fig|83333.1.peg.2296	b2322
+fig|83333.1.peg.3413	b3480	GENE:nikE
+fig|83333.1.peg.230	b0235
+fig|83333.1.peg.3644	b3707	GENE:tnaL
+fig|83333.1.peg.2480	b2510
+fig|83333.1.peg.3138	b3195	GENE:yrbF
+fig|83333.1.peg.3978	b4068	GENE:yjcH
+fig|83333.1.peg.1584	b1598
+fig|83333.1.peg.968	b0983	GENE:yccZ
+fig|83333.1.peg.334	b0337	GENE:codA
+fig|83333.1.peg.319	b0322	GENE:yahH
+fig|83333.1.peg.2607	b2644	GENE:yfjY
+fig|83333.1.peg.3230	b3296	GENE:rpsD
+fig|83333.1.peg.247	b0252	GENE:yafZ
+fig|83333.1.peg.3615	b3678	GENE:yidJ
+fig|83333.1.peg.2062	b2086
+fig|83333.1.peg.696	b4512
+fig|83333.1.peg.3085	b3140	GENE:agaD
+fig|83333.1.peg.3003	b3055	GENE:ygiM
+fig|83333.1.peg.3981	b4071	GENE:nrfB
+fig|83333.1.peg.3934	b4025	GENE:pgi
+fig|83333.1.peg.4065	b4152	GENE:frdC
+fig|83333.1.peg.1419	b1433
+fig|83333.1.peg.521	b0524	GENE:ybbF
+fig|83333.1.peg.1810	b4526
+fig|83333.1.peg.2196	b2221	GENE:atoD
+fig|83333.1.peg.1222	b1235	GENE:hnr
+fig|83333.1.peg.1432	b1446
+fig|83333.1.peg.854	b0868
+fig|83333.1.peg.1716	b1733	GENE:ydjC
+fig|83333.1.peg.78	b0077m	GENE:ilvI
+fig|83333.1.peg.2673	b2718	GENE:hycH
+fig|83333.1.peg.656	b0655	GENE:ybeJ
+fig|83333.1.peg.4306	b4398	GENE:creB
+fig|83333.1.peg.3862	b3943
+fig|83333.1.peg.636	b0635	GENE:mrdA
+fig|83333.1.peg.37	b0036	GENE:caiD
+fig|83333.1.peg.867	b0881	GENE:yljA
+fig|83333.1.peg.1423	b1437
+fig|83333.1.peg.75	b0074	GENE:leuA
+fig|83333.1.peg.1843	b1859	GENE:yebI
+fig|83333.1.peg.879	b0894	GENE:dmsA
+fig|83333.1.peg.2049	b2073
+fig|83333.1.peg.2407	b2439
+fig|83333.1.peg.1797	b1814	GENE:sdaA
+fig|83333.1.peg.195	b0194	GENE:proS
+fig|83333.1.peg.2784	b2831	GENE:mutH
+fig|83333.1.peg.350	b0353	GENE:mhpT
+fig|83333.1.peg.2165	b2191
+fig|83333.1.peg.1102	b1117	GENE:ycfV
+fig|83333.1.peg.3840	b3921	GENE:yiiR
+fig|83333.1.peg.2183	b2209	GENE:eco
+fig|83333.1.peg.1269	b1282	GENE:yciH
+fig|83333.1.peg.6	b0006	GENE:yaaA
+fig|83333.1.peg.4308	b4400	GENE:creD
+fig|83333.1.peg.2722	b2766
+fig|83333.1.peg.1536	b1548	GENE:nohA
+fig|83333.1.peg.2967	b3020
+fig|83333.1.peg.2545	b2574	GENE:nadB
+fig|83333.1.peg.4285	b4377	GENE:yjjU
+fig|83333.1.peg.374	b0377	GENE:sbmA
+fig|83333.1.peg.2795	b2842	GENE:kduD
+fig|83333.1.peg.2895	b2944	GENE:sprT
+fig|83333.1.peg.1751	b1768	GENE:ydjB
+fig|83333.1.peg.1773	b1790	GENE:yeaM
+fig|83333.1.peg.1016	b1028
+fig|83333.1.peg.2428	b2460
+fig|83333.1.peg.2138	b2163
+fig|83333.1.peg.11	b0011
+fig|83333.1.peg.1999	b2024	GENE:hisA
+fig|83333.1.peg.3912	b3999	GENE:yjaG
+fig|83333.1.peg.1089	b1104	GENE:ycfL
+fig|83333.1.peg.1173	b1187	GENE:fadR
+fig|83333.1.peg.169	b0169	GENE:rpsB
+fig|83333.1.peg.1484	b1497
+fig|83333.1.peg.1529	b1541
+fig|83333.1.peg.2449	b2480	GENE:bcp
+fig|83333.1.peg.499	b0503	GENE:ybbB
+fig|83333.1.peg.3689	b3751	GENE:rbsB
+fig|83333.1.peg.177	b0177	GENE:yaeT
+fig|83333.1.peg.2863	b2912
+fig|83333.1.peg.827	b0841	GENE:ybjG
+fig|83333.1.peg.1830	b1846	GENE:yebE
+fig|83333.1.peg.3926	b4017	GENE:arp
+fig|83333.1.peg.283	b0287	GENE:yagU
+fig|83333.1.peg.3207	b3265	GENE:acrE
+fig|83333.1.peg.407	b0410	GENE:yajD
+fig|83333.1.peg.2455	b2486	GENE:hyfF
+fig|83333.1.peg.2467	b2498	GENE:upp
+fig|83333.1.peg.3162	b4545
+fig|83333.1.peg.4180	b4271	GENE:intB
+fig|83333.1.peg.1675	b1691
+fig|83333.1.peg.1981	b2007
+fig|83333.1.peg.3557	b3621	GENE:rfaC
+fig|83333.1.peg.2565	b2598	GENE:pheL
+fig|83333.1.peg.1548	b1560
+fig|83333.1.peg.1997	b2022
+fig|83333.1.peg.503	b0507	GENE:gcl
+fig|83333.1.peg.2690	b2734	GENE:pphB
+fig|83333.1.peg.1924	b1944	GENE:fliL
+fig|83333.1.peg.111	b0111	GENE:ampE
+fig|83333.1.peg.4056	b4144	GENE:yjeI
+fig|83333.1.peg.1664	b1680
+fig|83333.1.peg.642	b0641	GENE:rlpB
+fig|83333.1.peg.707	b0715	GENE:abrB
+fig|83333.1.peg.2663	b2708
+fig|83333.1.peg.4035	b4123	GENE:dcuB
+fig|83333.1.peg.1786	b1803	GENE:yeaX
+fig|83333.1.peg.3103	b3158	GENE:yhbU
+fig|83333.1.peg.2817	b2865
+fig|83333.1.peg.2420	b2452	GENE:eutH
+fig|83333.1.peg.616	b0615	GENE:citF
+fig|83333.1.peg.3751	b4554
+fig|83333.1.peg.3311	b3376	GENE:yhfS
+fig|83333.1.peg.3199	b3257	GENE:yhdT
+fig|83333.1.peg.2730	b2774
+fig|83333.1.peg.2939	b2989
+fig|83333.1.peg.1648	b1662	GENE:ribE
+fig|83333.1.peg.2357	b2384
+fig|83333.1.peg.2704	b2748
+fig|83333.1.peg.4137	b4227	GENE:ytfQ
+fig|83333.1.peg.3442	b3509	GENE:hdeB
+fig|83333.1.peg.2040	b2064	GENE:asmA
+fig|83333.1.peg.1154	b4519
+fig|83333.1.peg.2240	b2266	GENE:elaB
+fig|83333.1.peg.1094	b1109	GENE:ndh
+fig|83333.1.peg.2214	b2241	GENE:glpA
+fig|83333.1.peg.1563	b1577	GENE:ydfE
+fig|83333.1.peg.1952	b1973
+fig|83333.1.peg.3299	b3364	GENE:yhfC
+fig|83333.1.peg.3637	b3701	GENE:dnaN
+fig|83333.1.peg.1167	b1181	GENE:ycgN
+fig|83333.1.peg.4124	b4214	GENE:cysQ
+fig|83333.1.peg.1392	b1403 LocusTag:yi212
+fig|83333.1.peg.2527	b2557	GENE:purL
+fig|83333.1.peg.2117	b2142	GENE:yohK
+fig|83333.1.peg.565	b0567	GENE:ybcH
+fig|83333.1.peg.1811	b1827
+fig|83333.1.peg.3341	b3406m	GENE:greB
+fig|83333.1.peg.3960	b4050
+fig|83333.1.peg.2478	b2508	GENE:guaB
+fig|83333.1.peg.1627	b1641	GENE:slyB
+fig|83333.1.peg.3197	b3255	GENE:accB
+fig|83333.1.peg.4229	b4319	GENE:fimG
+fig|83333.1.peg.3884	b3964	GENE:yijD
+fig|83333.1.peg.2492	b2522
+fig|83333.1.peg.574	b0576	GENE:pheP
+fig|83333.1.peg.715	b0723	GENE:sdhA
+fig|83333.1.peg.2735	b2779	GENE:eno
+fig|83333.1.peg.970	b0985	GENE:ymcB
+fig|83333.1.peg.872	b0887	GENE:cydD
+fig|83333.1.peg.3829	b3908
+fig|83333.1.peg.3759	b3832	GENE:yigN
+fig|83333.1.peg.1443	b1457	GENE:ydcD
+fig|83333.1.peg.3727	b3802	GENE:hemY
+fig|83333.1.peg.953	b0968
+fig|83333.1.peg.1199	b1213
+fig|83333.1.peg.3776	b3850	GENE:hemG
+fig|83333.1.peg.156	b0155	GENE:yadQ
+fig|83333.1.peg.2383	b2415	GENE:ptsH
+fig|83333.1.peg.3092	b3147	GENE:yraM
+fig|83333.1.peg.3215	b3281	GENE:aroE
+fig|83333.1.peg.3778	b3857	GENE:mobA
+fig|83333.1.peg.457	b0461	GENE:ybaJ
+fig|83333.1.peg.3410	b3477	GENE:nikB
+fig|83333.1.peg.4008	b4096	GENE:phnL
+fig|83333.1.peg.1463	b1476	GENE:fdnI
+fig|83333.1.peg.1272	b4523
+fig|83333.1.peg.1826	b1842	GENE:holE
+fig|83333.1.peg.3692	b3754	GENE:yieO
+fig|83333.1.peg.3281	b3347	GENE:fkpA
+fig|83333.1.peg.2981	b3034	GENE:yqiE
+fig|83333.1.peg.2110	b2136	GENE:yohD
+fig|83333.1.peg.2502	b2532
+fig|83333.1.peg.4027	b4115	GENE:yjdE
+fig|83333.1.peg.43	b0042	GENE:fixB
+fig|83333.1.peg.1239	b1252	GENE:tonB
+fig|83333.1.peg.3740	b4566
+fig|83333.1.peg.3799	b3879
+fig|83333.1.peg.1334	b1345
+fig|83333.1.peg.4014	b4102	GENE:phnF
+fig|83333.1.peg.2051	b2075	GENE:yegN
+fig|83333.1.peg.363	b0366	GENE:tauB
+fig|83333.1.peg.2928	b2978	GENE:glcF
+fig|83333.1.peg.2235	b2261	GENE:menC
+fig|83333.1.peg.3077	b3132	GENE:agaZ
+fig|83333.1.peg.414	b0417	GENE:thiL
+fig|83333.1.peg.2477	b2507	GENE:guaA
+fig|83333.1.peg.2531	b2561	GENE:yfhH
+fig|83333.1.peg.3116	b3172	GENE:argG
+fig|83333.1.peg.1890	b1907	GENE:tyrP
+fig|83333.1.peg.2367	b2394 LocusTag:yi813
+fig|83333.1.peg.187	b0187	GENE:yaeR
+fig|83333.1.peg.1518	b1531	GENE:marA
+fig|83333.1.peg.3664	b3727	GENE:pstC
+fig|83333.1.peg.3329	b3394	GENE:yrfC
+fig|83333.1.peg.947	b0962	GENE:helD
+fig|83333.1.peg.4290	b4382	GENE:deoA
+fig|83333.1.peg.435	b0438	GENE:clpX
+fig|83333.1.peg.3579	b3643	GENE:rph
+fig|83333.1.peg.1745	b1762
+fig|83333.1.peg.4071	b4158	GENE:yjeO
+fig|83333.1.peg.25	b0025	GENE:ribF
+fig|83333.1.peg.685	b0694	GENE:kdpE
+fig|83333.1.peg.2334	b2362
+fig|83333.1.peg.2079	b2104	GENE:thiM
+fig|83333.1.peg.1321	b1332	GENE:ynaJ
+fig|83333.1.peg.1410	b1424	GENE:ydcG
+fig|83333.1.peg.4099	b4189
+fig|83333.1.peg.3966	b4056	GENE:yjbQ
+fig|83333.1.peg.3062	b3116	GENE:tdcC
+fig|83333.1.peg.1404	b1418	GENE:cybB
+fig|83333.1.peg.1456	b1470
+fig|83333.1.peg.4298	b4390	GENE:nadR
+fig|83333.1.peg.4171	b4261	GENE:yjgP
+fig|83333.1.peg.2775	b2822	GENE:recC
+fig|83333.1.peg.3358	b3424	GENE:glpG
+fig|83333.1.peg.2205	b2232	GENE:ubiG
+fig|83333.1.peg.3651	b3714	GENE:yieG
+fig|83333.1.peg.2507	b2537	GENE:hcaR
+fig|83333.1.peg.1401	b1413	GENE:hrpA
+fig|83333.1.peg.3504	b3570	GENE:bax
+fig|83333.1.peg.135	b0135	GENE:yadC
+fig|83333.1.peg.1310	b1322	GENE:ycjF
+fig|83333.1.peg.3822	b3901	GENE:yiiL
+fig|83333.1.peg.120	b0120	GENE:speD
+fig|83333.1.peg.3385	b3452	GENE:ugpA
+fig|83333.1.peg.2571	b2604	GENE:yfiN
+fig|83333.1.peg.1188	b1202
+fig|83333.1.peg.1806	b1823	GENE:cspC
+fig|83333.1.peg.671	b0681	GENE:ybfM
+fig|83333.1.peg.687	b0696	GENE:kdpC
+fig|83333.1.peg.3374	b3442	GENE:yhhZ
+fig|83333.1.peg.3334	b3399
+fig|83333.1.peg.1331	b1342
+fig|83333.1.peg.1537	b1549	GENE:ydfO
+fig|83333.1.peg.3896	b3984	GENE:rplA
+fig|83333.1.peg.4317
+fig|83333.1.peg.2304	b2330
+fig|83333.1.peg.4062	b4149	GENE:blc
+fig|83333.1.peg.1785	b1802	GENE:yeaW
+fig|83333.1.peg.2774	b2821	GENE:ptr
+fig|83333.1.peg.1009	b1021	GENE:ycdP
+fig|83333.1.peg.2328	b2356
+fig|83333.1.peg.3680	b3743	GENE:asnC
+fig|83333.1.peg.2611	b2648
+fig|83333.1.peg.2160	b2185	GENE:rplY
+fig|83333.1.peg.1083	b1098	GENE:tmk
+fig|83333.1.peg.442	b0445	GENE:ybaE
+fig|83333.1.peg.3172	b3228	GENE:sspB
+fig|83333.1.peg.1478	b1491
+fig|83333.1.peg.767	b0781	GENE:moaA
+fig|83333.1.peg.3655	b3718
+fig|83333.1.peg.3320	b3385	GENE:gph
+fig|83333.1.peg.4115	b4205	GENE:ytfA
+fig|83333.1.peg.1260	b1273	GENE:yciN
+fig|83333.1.peg.4153	b4243	GENE:yjgF
+fig|83333.1.peg.2373	b2406	GENE:xapB
+fig|83333.1.peg.4132	b4222	GENE:ytfP
+fig|83333.1.peg.3787	b3867	GENE:hemN
+fig|83333.1.peg.14	b0014	GENE:dnaK
+fig|83333.1.peg.1115	b1130	GENE:phoP
+fig|83333.1.peg.450	b0453	GENE:ybaY
+fig|83333.1.peg.3245	b3311	GENE:rpsQ
+fig|83333.1.peg.1689	b1705	GENE:ydiE
+fig|83333.1.peg.1149	b1164	GENE:ycgZ
+fig|83333.1.peg.1616	b1630	GENE:ydgO
+fig|83333.1.peg.4070	b4157	GENE:yjeN
+fig|83333.1.peg.3943	b4034	GENE:malE
+fig|83333.1.peg.4002	b4090	GENE:rpiB
+fig|83333.1.peg.2350	b2377
+fig|83333.1.peg.580	b4510
+fig|83333.1.peg.3152	b3209	GENE:yhbL
+fig|83333.1.peg.1758	b1775
+fig|83333.1.peg.3273	b3339	GENE:tufA
+fig|83333.1.peg.3556	b3620	GENE:rfaF
+fig|83333.1.peg.3428	b3495	GENE:uspA
+fig|83333.1.peg.1362	b1372
+fig|83333.1.peg.1655	b1671
+fig|83333.1.peg.190	b4502
+fig|83333.1.peg.1912	b1932	GENE:yedL
+fig|83333.1.peg.782	b0796	GENE:ybiH
+fig|83333.1.peg.1965	b1991	GENE:cobT
+fig|83333.1.peg.3982	b4072	GENE:nrfC
+fig|83333.1.peg.3497	b3563	GENE:yiaB
+fig|83333.1.peg.269	b0273	GENE:argF
+fig|83333.1.peg.101	b0101	GENE:yacG
+fig|83333.1.peg.4151	b4241	GENE:treR
+fig|83333.1.peg.2073	b2098	GENE:yegT
+fig|83333.1.peg.3367	b3433	GENE:asd
+fig|83333.1.peg.1875	b1891	GENE:flhC
+fig|83333.1.peg.3376	insA6	b3444
+fig|83333.1.peg.1346	b1356	GENE:ydaR
+fig|83333.1.peg.1784	b1801	GENE:yeaV
+fig|83333.1.peg.263	b0267	GENE:yagA
+fig|83333.1.peg.3883	b3963	GENE:yijC
+fig|83333.1.peg.32	b0032	GENE:carA
+fig|83333.1.peg.4259	b4348	GENE:hsdS
+fig|83333.1.peg.4164	b4254	GENE:argI
+fig|83333.1.peg.468	b0472	GENE:recR
+fig|83333.1.peg.2660	b2705	GENE:srlD
+fig|83333.1.peg.4032	b4120	GENE:melB
+fig|83333.1.peg.1619	b1633	GENE:nth
+fig|83333.1.peg.3520	b3586	GENE:yiaV
+fig|83333.1.peg.552	b0554	GENE:ybcR
+fig|83333.1.peg.3435	b3502
+fig|83333.1.peg.2590	b2625	GENE:yfjI
+fig|83333.1.peg.2289	b2315	GENE:folC
+fig|83333.1.peg.3266	b3332	GENE:yheJ
+fig|83333.1.peg.3400	b3467	GENE:yhhM
+fig|83333.1.peg.2683	b2728	GENE:hypC
+fig|83333.1.peg.1471	b1484
+fig|83333.1.peg.2987	b3040	GENE:ygiE
+fig|83333.1.peg.544	b0548	GENE:ninE
+fig|83333.1.peg.1230	b1243	GENE:oppA
+fig|83333.1.peg.800	b0814	GENE:ompX
+fig|83333.1.peg.605	b0604	GENE:dsbG
+fig|83333.1.peg.241	b4504
+fig|83333.1.peg.930	b0945	GENE:pyrD
+fig|83333.1.peg.356	b0359
+fig|83333.1.peg.3741	b3816	GENE:corA
+fig|83333.1.peg.3605	b3668
+fig|83333.1.peg.2927	b2977	GENE:glcG
+fig|83333.1.peg.439	b0442	GENE:ybaV
+fig|83333.1.peg.4272	b4361	GENE:dnaC
+fig|83333.1.peg.1676	b1692	GENE:ydiB
+fig|83333.1.peg.51	b0050	GENE:apaG
+fig|83333.1.peg.1764	b1781
+fig|83333.1.peg.591	b0591	GENE:ybdA
+fig|83333.1.peg.3832	b3911	GENE:cpxA
+fig|83333.1.peg.3671	b3734	GENE:atpA
+fig|83333.1.peg.282	b0286	GENE:yagT
+fig|83333.1.peg.2748	b2792
+fig|83333.1.peg.2111	b2137	GENE:yohF
+fig|83333.1.peg.1040	b1055	GENE:yceA
+fig|83333.1.peg.2879	b2928	GENE:yggC
+fig|83333.1.peg.2030	b2054	GENE:wcaF
+fig|83333.1.peg.1388	b1398
+fig|83333.1.peg.828	b0842	GENE:cmr
+fig|83333.1.peg.4197	b4288	GENE:fecD
+fig|83333.1.peg.4080	b4170	GENE:mutL
+fig|83333.1.peg.4228	b4318	GENE:fimF
+fig|83333.1.peg.3875	b3955	GENE:yijP
+fig|83333.1.peg.2391	b2423m	GENE:cysW
+fig|83333.1.peg.323	b0326	GENE:yahL
+fig|83333.1.peg.1560	b1573	GENE:ydfC
+fig|83333.1.peg.1680	b1696
+fig|83333.1.peg.4213	b4304	GENE:sgcC
+fig|83333.1.peg.839	b0853	GENE:ybjN
+fig|83333.1.peg.46	b0045	GENE:yaaU
+fig|83333.1.peg.2142	b2167	GENE:fruA
+fig|83333.1.peg.807	b0821	GENE:ybiU
+fig|83333.1.peg.2280	b2306	GENE:hisP
+fig|83333.1.peg.3236	b3302	GENE:rpmD
+fig|83333.1.peg.989	b1002	GENE:agp
+fig|83333.1.peg.2177	b2203
+fig|83333.1.peg.2414	b2446
+fig|83333.1.peg.983	b0996	GENE:torC
+fig|83333.1.peg.2343	b2370	GENE:evgS
+fig|83333.1.peg.3593	b3657
+fig|83333.1.peg.3798	b3878	GENE:yihQ
+fig|83333.1.peg.2941	b2991	GENE:hybF
+fig|83333.1.peg.3915	b4002	GENE:yjaI
+fig|83333.1.peg.3566	b3630	GENE:rfaP
+fig|83333.1.peg.3493	b3560	GENE:glyQ
+fig|83333.1.peg.1072	b1087	GENE:yceF
+fig|83333.1.peg.1753	b1770
+fig|83333.1.peg.2806	b2853
+fig|83333.1.peg.1570	b1584	GENE:speG
+fig|83333.1.peg.760	b0774	GENE:bioA
+fig|83333.1.peg.2102	b2128	GENE:yehW
+fig|83333.1.peg.1542	b1554
+fig|83333.1.peg.2491	b2521
+fig|83333.1.peg.3869	b3949	GENE:frwC
+fig|83333.1.peg.2851	b2899
+fig|83333.1.peg.3595	b3659	GENE:yicK
+fig|83333.1.peg.1838	b1854	GENE:pykA
+fig|83333.1.peg.2561	b2594	GENE:sfhB
+fig|83333.1.peg.3337	b3402	GENE:yhgE
+fig|83333.1.peg.2554	b2583
+fig|83333.1.peg.3117	b3173
+fig|83333.1.peg.1723	b1740	GENE:nadE
+fig|83333.1.peg.508	b0512	GENE:ybbX
+fig|83333.1.peg.728	b0735	GENE:ybgE
+fig|83333.1.peg.3726	b3801	GENE:aslA
+fig|83333.1.peg.3730	b3805	GENE:hemC
+fig|83333.1.peg.3811	b3891	GENE:fdhE
+fig|83333.1.peg.2907	b2956	GENE:yggM
+fig|83333.1.peg.1485	b1498
+fig|83333.1.peg.3561	b3625	GENE:rfaY
+fig|83333.1.peg.1109	b1124	GENE:potC
+fig|83333.1.peg.2736	b2780	GENE:pyrG
+fig|83333.1.peg.2034	b2058	GENE:wcaB
+fig|83333.1.peg.2309	b2335
+fig|83333.1.peg.1979	b2005	GENE:yeeV
+fig|83333.1.peg.1579	b1593
+fig|83333.1.peg.995	b1007
+fig|83333.1.peg.2139	b2164	GENE:yeiM
+fig|83333.1.peg.1324	b1335	GENE:ogt
+fig|83333.1.peg.2120	b2145
+fig|83333.1.peg.236	b0241	GENE:phoE
+fig|83333.1.peg.2821	b2869	GENE:ygeV
+fig|83333.1.peg.1696	b1712	GENE:himA
+fig|83333.1.peg.2917	b2966	GENE:yqgA
+fig|83333.1.peg.2783	b2830	GENE:ygdP
+fig|83333.1.peg.3553	b3617	GENE:kbl
+fig|83333.1.peg.441	b0444	GENE:ybaX
+fig|83333.1.peg.3017	b3070	GENE:yqjH
+fig|83333.1.peg.1204	b4522
+fig|83333.1.peg.982	b0995	GENE:torR
+fig|83333.1.peg.2974	b3027
+fig|83333.1.peg.2560	b2593	GENE:yfiH
+fig|83333.1.peg.880	b0895	GENE:dmsB
+fig|83333.1.peg.3204	b3262
+fig|83333.1.peg.1246	b1259	GENE:yciG
+fig|83333.1.peg.1948	b1969	GENE:yedW
+fig|83333.1.peg.141	b0141	GENE:yadN
+fig|83333.1.peg.1060	b1075	GENE:flgD
+fig|83333.1.peg.1300	b1312	GENE:ycjP
+fig|83333.1.peg.2600	b2636
+fig|83333.1.peg.253	b0258	GENE:ykfC
+fig|83333.1.peg.1502	b1515	GENE:ydeZ
+fig|83333.1.peg.4235	b4325
+fig|83333.1.peg.3228	b3294	GENE:rplQ
+fig|83333.1.peg.1203	b4521
+fig|83333.1.peg.3515	b3581	GENE:sgbH
+fig|83333.1.peg.3391	b3458	GENE:livK
+fig|83333.1.peg.1140	b1155
+fig|83333.1.peg.2942	b2992	GENE:hybE
+fig|83333.1.peg.4279	b4371	GENE:yjjT
+fig|83333.1.peg.63	b0062	GENE:araA
+fig|83333.1.peg.1736	b1753	GENE:ynjA
+fig|83333.1.peg.2546	b2575	GENE:yfiC
+fig|83333.1.peg.5	b0005
+fig|83333.1.peg.1067	b1082	GENE:flgK
+fig|83333.1.peg.891	b0906	GENE:ycaP
+fig|83333.1.peg.2481	b2511
+fig|83333.1.peg.734	b0741	GENE:pal
+fig|83333.1.peg.3486	b3554	GENE:yiaF
+fig|83333.1.peg.3184	b3240	GENE:yhcP
+fig|83333.1.peg.312	b0315	GENE:yahA
+fig|83333.1.peg.2918	b2968	GENE:yghD
+fig|83333.1.peg.2332	b2360
+fig|83333.1.peg.797	b0811	GENE:glnH
+fig|83333.1.peg.2518	b2548	GENE:yphF
+fig|83333.1.peg.3956	b4046
+fig|83333.1.peg.2109	b2135	GENE:yohC
+fig|83333.1.peg.1219	b1232	GENE:purU
+fig|83333.1.peg.2671	b2716	GENE:ascB
+fig|83333.1.peg.706	b0714	GENE:nei
+fig|83333.1.peg.3485	b3553	GENE:yiaE
+fig|83333.1.peg.2767	b2811	GENE:ygdK
+fig|83333.1.peg.3123	b3180	GENE:yhbY
+fig|83333.1.peg.1307	b1319	GENE:ompG
+fig|83333.1.peg.1569	b1583
+fig|83333.1.peg.4148	b4238	GENE:nrdD
+fig|83333.1.peg.3181	b3237	GENE:argR
+fig|83333.1.peg.2699	b2743	GENE:pcm
+fig|83333.1.peg.3277	b3343	GENE:yheL
+fig|83333.1.peg.2946	b2996	GENE:hybA
+fig|83333.1.peg.1127	b1142	GENE:ymfH
+fig|83333.1.peg.1807	b1824
+fig|83333.1.peg.1665	b1681	GENE:ynhC
+fig|83333.1.peg.2272	b2298	GENE:yfcC
+fig|83333.1.peg.2581	b2615	GENE:yfjB
+fig|83333.1.peg.262	b0266	GENE:yagB
+fig|83333.1.peg.3220	b3287	GENE:def
+fig|83333.1.peg.1186	b1200
+fig|83333.1.peg.1708	b1725
+fig|83333.1.peg.3903	b3991
+fig|83333.1.peg.2095	b2122
+fig|83333.1.peg.2597	b2632
+fig|83333.1.peg.667	b0677	GENE:nagA
+fig|83333.1.peg.201	b0200	GENE:yaeD
+fig|83333.1.peg.3046	b3099	GENE:yqjE
+fig|83333.1.peg.426	b0429	GENE:cyoD
+fig|83333.1.peg.404	b0407	GENE:yajC
+fig|83333.1.peg.1286	b1298	GENE:ycjL
+fig|83333.1.peg.2326	b2354
+fig|83333.1.peg.1493	b1506
+fig|83333.1.peg.2489	b2519	GENE:pbpC
+fig|83333.1.peg.916	b0931	GENE:pncB
+fig|83333.1.peg.341	b0344	GENE:lacZ
+fig|83333.1.peg.1643	b1657
+fig|83333.1.peg.2440	b2472	GENE:dapE
+fig|83333.1.peg.759	b0773	GENE:ybhB
+fig|83333.1.peg.1393	b1404 LocusTag:tra82
+fig|83333.1.peg.535	b0539
+fig|83333.1.peg.2262	b2288
+fig|83333.1.peg.2202	b2229
+fig|83333.1.peg.3767	b4556
+fig|83333.1.peg.4250	b4339	GENE:yjiQ
+fig|83333.1.peg.4238	b4328	GENE:iadA
+fig|83333.1.peg.2314	b2341
+fig|83333.1.peg.1636	b1650	GENE:nemA
+fig|83333.1.peg.393	b0396	GENE:araJ
+fig|83333.1.peg.4209	b4300	GENE:sgcR
+fig|83333.1.peg.2894	b2943	GENE:galP
+fig|83333.1.peg.1297	b1309	GENE:ycjM
+fig|83333.1.peg.4200	b4291	GENE:fecA
+fig|83333.1.peg.2158	b2183	GENE:rsuA
+fig|83333.1.peg.758	b0772	GENE:ybhC
+fig|83333.1.peg.4311	b4403	GENE:lasT
+fig|83333.1.peg.3821	b3900	GENE:frvA
+fig|83333.1.peg.2087	b2112	GENE:yehE
+fig|83333.1.peg.2622	b2661	GENE:gabD
+fig|83333.1.peg.743	b0757	GENE:galK
+fig|83333.1.peg.2377	b2410	GENE:yfeH
+fig|83333.1.peg.946	b0961	GENE:yccF
+fig|83333.1.peg.1371	b1381	GENE:ydbH
+fig|83333.1.peg.1003	b1015	GENE:putP
+fig|83333.1.peg.2858	b2906	GENE:visC
+fig|83333.1.peg.2712	b2756
+fig|83333.1.peg.3479	b3547	GENE:yhjX
+fig|83333.1.peg.146	b0146	GENE:sfsA
+fig|83333.1.peg.3714	b3785	GENE:wzzE
+fig|83333.1.peg.475	b0479	GENE:fsr
+fig|83333.1.peg.3739	b3813	GENE:uvrD
+fig|83333.1.peg.295	b0298
+fig|83333.1.peg.2950	b3002	GENE:yqhA
+fig|83333.1.peg.2898	b2947	GENE:gshB
+fig|83333.1.peg.2632	b2671	GENE:ygaC
+fig|83333.1.peg.3217	b3283	GENE:yrdD
+fig|83333.1.peg.2524	b2554	GENE:yfhA
+fig|83333.1.peg.674	b0684	GENE:fldA
+fig|83333.1.peg.3169	b3225	GENE:nanA
+fig|83333.1.peg.3782	b3861
+fig|83333.1.peg.3533	b3598	GENE:yibI
+fig|83333.1.peg.3918	b4005	GENE:purD
+fig|83333.1.peg.2368	b2395
+fig|83333.1.peg.3095	b3150	GENE:yraP
+fig|83333.1.peg.1101	b1116	GENE:ycfU
+fig|83333.1.peg.1500	b1513
+fig|83333.1.peg.3373	b3441	GENE:yhhY
+fig|83333.1.peg.3965	b4055	GENE:aphA
+fig|83333.1.peg.1991	b4528
+fig|83333.1.peg.824	b0838	GENE:yliJ
+fig|83333.1.peg.3781	b3860	GENE:dsbA
+fig|83333.1.peg.4286	b4378m	GENE:yjjV
+fig|83333.1.peg.1555	b1568
+fig|83333.1.peg.527	b0530	GENE:sfmA
+fig|83333.1.peg.3025	b3078	GENE:ygjI
+fig|83333.1.peg.3389	b3456	GENE:livM
+fig|83333.1.peg.1862	b1878	GENE:flhE
+fig|83333.1.peg.3115	b3170
+fig|83333.1.peg.143	b0143	GENE:pcnB
+fig|83333.1.peg.3749	b3823	GENE:yigJ
+fig|83333.1.peg.3629	b3693	GENE:dgoK
+fig|83333.1.peg.2968	b3021
+fig|83333.1.peg.4188	b4280	GENE:yjhC
+fig|83333.1.peg.3108	b3163	GENE:yhbM
+fig|83333.1.peg.1628	b1642	GENE:slyA
+fig|83333.1.peg.2508	hcaA1	b2538
+fig|83333.1.peg.3455	b3522	GENE:yhjD
+fig|83333.1.peg.4010	b4098	GENE:phnJ
+fig|83333.1.peg.2329	b2357	GENE:yfdN
+fig|83333.1.peg.2776	b2823	GENE:ppdC
+fig|83333.1.peg.956	b0972	GENE:hyaA
+fig|83333.1.peg.168	b0168	GENE:map
+fig|83333.1.peg.4165	b4255	GENE:yjgD
+fig|83333.1.peg.3326	b3391	GENE:hofQ
+fig|83333.1.peg.134	b0134	GENE:panB
+fig|83333.1.peg.1900	b1920	GENE:fliY
+fig|83333.1.peg.2305	b2331
+fig|83333.1.peg.1193	b1207	GENE:prsA
+fig|83333.1.peg.1076	b1091	GENE:fabH
+fig|83333.1.peg.112	b0112	GENE:aroP
+fig|83333.1.peg.1514	b1527
+fig|83333.1.peg.2454	b2485	GENE:hyfE
+fig|83333.1.peg.2159	b2184	GENE:yejH
+fig|83333.1.peg.1477	b1490
+fig|83333.1.peg.1403	b1415	GENE:ald
+fig|83333.1.peg.196	b0195	GENE:yaeB
+fig|83333.1.peg.3762	b3835	GENE:yigR
+fig|83333.1.peg.1015	b1027
+fig|83333.1.peg.1268	b1281	GENE:pyrF
+fig|83333.1.peg.2009	b2033	GENE:wbbJ
+fig|83333.1.peg.1082	b1097	GENE:yceG
+fig|83333.1.peg.601	b0600	GENE:ybdL
+fig|83333.1.peg.4234	b4324	GENE:uxuR
+fig|83333.1.peg.1161	b1175	GENE:minD
+fig|83333.1.peg.4117	b4207
+fig|83333.1.peg.2982	b3035	GENE:tolC
+fig|83333.1.peg.1292	b1304	GENE:pspA
+fig|83333.1.peg.1460	b1474	GENE:fdnG
+fig|83333.1.peg.2263	b2289	GENE:lrhA
+fig|83333.1.peg.3631	b3695	GENE:yidW
+fig|83333.1.peg.502	b0506	GENE:ybbU
+fig|83333.1.peg.681	b0691	GENE:ybfH
+fig|83333.1.peg.1541	b1553
+fig|83333.1.peg.2577	b2610	GENE:ffh
+fig|83333.1.peg.291	b0295	GENE:ykgL
+fig|83333.1.peg.898	b0913	GENE:ycaI
+fig|83333.1.peg.3627	b3691
+fig|83333.1.peg.3457	b3524	GENE:yhjG
+fig|83333.1.peg.2184	b2210	GENE:yojH
+fig|83333.1.peg.556	b0558	GENE:ybcV
+fig|83333.1.peg.1892	b1912	GENE:pgsA
+fig|83333.1.peg.4105	b4195	GENE:ptxA
+fig|83333.1.peg.1741	b1758
+fig|83333.1.peg.2382	b2414	GENE:cysK
+fig|83333.1.peg.4222	b4312	GENE:fimB
+fig|83333.1.peg.4192	b4284 LocusTag:tra83
+fig|83333.1.peg.3175	b3231	GENE:rplM
+fig|83333.1.peg.476	b0480	GENE:ushA
+fig|83333.1.peg.1333	b1344	GENE:ydaO
+fig|83333.1.peg.2429	b2461
+fig|83333.1.peg.2297	b2323	GENE:fabB
+fig|83333.1.peg.3592	b3656	GENE:yicI
+fig|83333.1.peg.3291	b3356	GENE:yhfA
+fig|83333.1.peg.2530	b2560
+fig|83333.1.peg.3773	b3847	GENE:pepQ
+fig|83333.1.peg.406	b0409	GENE:secF
+fig|83333.1.peg.3122	b3179	GENE:ftsJ
+fig|83333.1.peg.530	b0533	GENE:sfmH
+fig|83333.1.peg.4045	b4133	GENE:cadC
+fig|83333.1.peg.3643	b3706	GENE:thdF
+fig|83333.1.peg.2838	b2886
+fig|83333.1.peg.1600	b1614	GENE:ydgA
+fig|83333.1.peg.712	b0720	GENE:gltA
+fig|83333.1.peg.577	b0579	GENE:ybdF
+fig|83333.1.peg.2301	b2327	GENE:yfcA
+fig|83333.1.peg.1949	b1970
+fig|83333.1.peg.2601	b2637	GENE:yfjT
+fig|83333.1.peg.302	b0305	GENE:ykgD
+fig|83333.1.peg.1623	b1637	GENE:tyrS
+fig|83333.1.peg.3409	b3476	GENE:nikA
+fig|83333.1.peg.2063	b2088
+fig|83333.1.peg.519	b0522	GENE:purK
+fig|83333.1.peg.4013	b4101	GENE:phnG
+fig|83333.1.peg.1782	b1799	GENE:yeaT
+fig|83333.1.peg.2515	b2545	GENE:yphC
+fig|83333.1.peg.2227	b2254
+fig|83333.1.peg.1812	b1828
+fig|83333.1.peg.221	b0226	GENE:dinJ
+fig|83333.1.peg.1139	b1154	GENE:ycfK
+fig|83333.1.peg.1452	b1466	GENE:narW
+fig|83333.1.peg.4125	b4215	GENE:ytfI
+fig|83333.1.peg.4129	b4219	GENE:msrA
+fig|83333.1.peg.3298	b3363	GENE:ppiA
+fig|83333.1.peg.2215	b2242	GENE:glpB
+fig|83333.1.peg.3935	b4026	GENE:yjbE
+fig|83333.1.peg.2052	b2076	GENE:yegO
+fig|83333.1.peg.1670	b1686
+fig|83333.1.peg.2687	b2732	GENE:ygbA
+fig|83333.1.peg.4019	b4107	GENE:phnB
+fig|83333.1.peg.2099	b2126	GENE:yehU
+fig|83333.1.peg.2225	b2252	GENE:ais
+fig|83333.1.peg.3495	b3561	GENE:yiaH
+fig|83333.1.peg.2033	b2057	GENE:wcaC
+fig|83333.1.peg.4293	b4385	GENE:yjjJ
+fig|83333.1.peg.3411	b3478	GENE:nikC
+fig|83333.1.peg.38	b0037	GENE:caiC
+fig|83333.1.peg.1756	b1773
+fig|83333.1.peg.3636	b3700	GENE:recF
+fig|83333.1.peg.1166	b1180
+fig|83333.1.peg.2494	b2524	GENE:yfhJ
+fig|83333.1.peg.463	b0467	GENE:priC
+fig|83333.1.peg.278	b0282	GENE:yagP
+fig|83333.1.peg.1869	b1885	GENE:tap
+fig|83333.1.peg.3043	b3096	GENE:yqjB
+fig|83333.1.peg.4247	b4336	GENE:yjiN
+fig|83333.1.peg.1010	b1022	GENE:ycdQ
+fig|83333.1.peg.415	b0418	GENE:pgpA
+fig|83333.1.peg.2672	b2717	GENE:hycI
+fig|83333.1.peg.448	b0451	GENE:amtB
+fig|83333.1.peg.4205	b4296	GENE:yjhF
+fig|83333.1.peg.2855	b2903	GENE:gcvP
+fig|83333.1.peg.1883	b1900	GENE:araG
+fig|83333.1.peg.745	b0759	GENE:galE
+fig|83333.1.peg.733	b0740	GENE:tolB
+fig|83333.1.peg.214	b0219	GENE:yafV
+fig|83333.1.peg.1693	b1709	GENE:btuD
+fig|83333.1.peg.584	b0585	GENE:fes
+fig|83333.1.peg.1939	b1960	GENE:vsr
+fig|83333.1.peg.2589	b2624	GENE:alpA
+fig|83333.1.peg.4181	b4272 LocusTag:yi216
+fig|83333.1.peg.1998	b2023	GENE:hisH
+fig|83333.1.peg.4262	b4351	GENE:mrr
+fig|83333.1.peg.1774	b1791	GENE:yeaN
+fig|83333.1.peg.2669	b2714	GENE:ascG
+fig|83333.1.peg.2274	b2300
+fig|83333.1.peg.2798	b2845
+fig|83333.1.peg.52	b0051	GENE:ksgA
+fig|83333.1.peg.1469	b1482	GENE:osmC
+fig|83333.1.peg.3505	b3571	GENE:malS
+fig|83333.1.peg.1119	b1134
+fig|83333.1.peg.3703	b3773	GENE:ilvY
+fig|83333.1.peg.4087	b4177	GENE:purA
+fig|83333.1.peg.2339	b2366	GENE:dsdA
+fig|83333.1.peg.377	b0380
+fig|83333.1.peg.60	b0059	GENE:hepA
+fig|83333.1.peg.339	b0342	GENE:lacA
+fig|83333.1.peg.876	b0891	GENE:lolA
+fig|83333.1.peg.1658	b1674
+fig|83333.1.peg.259	insB2	b0264
+fig|83333.1.peg.4084	b4174	GENE:hflK
+fig|83333.1.peg.174	b0174	GENE:yaeS
+fig|83333.1.peg.2752	b2796	GENE:sdaC
+fig|83333.1.peg.1710	b1727	GENE:yniC
+fig|83333.1.peg.2692	b2736
+fig|83333.1.peg.773	b0787	GENE:ybhM
+fig|83333.1.peg.3359	b3425	GENE:glpE
+fig|83333.1.peg.3418	b3485
+fig|83333.1.peg.1630	b1644
+fig|83333.1.peg.1535	b1547
+fig|83333.1.peg.885	b0900	GENE:ycaN
+fig|83333.1.peg.2389	b2421	GENE:cysM
+fig|83333.1.peg.1787	b1804	GENE:rnd
+fig|83333.1.peg.4057	b4145	GENE:yjeJ
+fig|83333.1.peg.1359	b1369
+fig|83333.1.peg.3084	b3139	GENE:agaC
+fig|83333.1.peg.3925	b4016	GENE:aceK
+fig|83333.1.peg.1123	b1138	GENE:ymfE
+fig|83333.1.peg.2691	b2735	GENE:ygbI
+fig|83333.1.peg.2395	b2427	GENE:yfeT
+fig|83333.1.peg.4168	b4258	GENE:valS
+fig|83333.1.peg.3467	b3534	GENE:yhjQ
+fig|83333.1.peg.2068	b2093	GENE:gatB
+fig|83333.1.peg.1170	b1184	GENE:umuC
+fig|83333.1.peg.2166	b2192 LocusTag:trs58
+fig|83333.1.peg.2024	b2048	GENE:cpsG
+fig|83333.1.peg.2470	b2501	GENE:ppk
+fig|83333.1.peg.3363	b3429	GENE:glgA
+fig|83333.1.peg.3009	b3061	GENE:ttdA
+fig|83333.1.peg.1996	b2021	GENE:hisC
+fig|83333.1.peg.1730	b1747
+fig|83333.1.peg.3874	b3954	GENE:yijO
+fig|83333.1.peg.1980	b2006	GENE:yeeW
+fig|83333.1.peg.1612	b1626
+fig|83333.1.peg.3340	b3405	GENE:ompR
+fig|83333.1.peg.3173	b3229	GENE:sspA
+fig|83333.1.peg.1377	b1387	GENE:maoC
+fig|83333.1.peg.3606	b3669	GENE:uhpA
+fig|83333.1.peg.1528	b1540	GENE:ydfH
+fig|83333.1.peg.3272	b3338	GENE:yheB
+fig|83333.1.peg.182	b0182	GENE:lpxB
+fig|83333.1.peg.1647	b1661	GENE:cfa
+fig|83333.1.peg.1365	b1375	GENE:ynaE
+fig|83333.1.peg.1282	b1294	GENE:sapA
+fig|83333.1.peg.1765	b1782	GENE:yeaF
+fig|83333.1.peg.664	b0674	GENE:asnB
+fig|83333.1.peg.3860	b3941	GENE:metF
+fig|83333.1.peg.1651	b1667
+fig|83333.1.peg.2366	b2393	GENE:nupC
+fig|83333.1.peg.1913	b1933
+fig|83333.1.peg.3752	b3825	GENE:pldB
+fig|83333.1.peg.65	b0064	GENE:araC
+fig|83333.1.peg.1143	b1158	GENE:pin
+fig|83333.1.peg.2760	b2804	GENE:fucU
+fig|83333.1.peg.74	b0073	GENE:leuB
+fig|83333.1.peg.4303	b4395	GENE:gpmB
+fig|83333.1.peg.2636	b2675	GENE:nrdE
+fig|83333.1.peg.318	b0321	GENE:yahG
+fig|83333.1.peg.2418	b2450
+fig|83333.1.peg.2193	b2218	GENE:rcsC
+fig|83333.1.peg.3940	b4031	GENE:xylE
+fig|83333.1.peg.2014	b2038	GENE:rfbC
+fig|83333.1.peg.635	b0634	GENE:mrdB
+fig|83333.1.peg.2421	b2453   GENE:eutG
+fig|83333.1.peg.2790	b2837	GENE:galR
+fig|83333.1.peg.4318
+fig|83333.1.peg.1791	b1808
+fig|83333.1.peg.2995	b3047
+fig|83333.1.peg.4174	b4264	GENE:idnR
+fig|83333.1.peg.2479	b2509	GENE:xseA
+fig|83333.1.peg.4028	b4116	GENE:adiY
+fig|83333.1.peg.1825	b1841
+fig|83333.1.peg.93	b0092	GENE:ddlB
+fig|83333.1.peg.2251	b2277	GENE:nuoM
+fig|83333.1.peg.566	b0568	GENE:nfrA
+fig|83333.1.peg.2252	b2278	GENE:nuoL
+fig|83333.1.peg.1703	b1719	GENE:thrS
+fig|83333.1.peg.650	b0649	GENE:ybeV
+fig|83333.1.peg.1238	b1251	GENE:yciI
+fig|83333.1.peg.941	b0956	GENE:ycbG
+fig|83333.1.peg.3110	b3165	GENE:rpsO
+fig|83333.1.peg.1375	b1385	GENE:feaB
+fig|83333.1.peg.3399	b3466	GENE:yhhL
+fig|83333.1.peg.2714	b2758
+fig|83333.1.peg.3443	b3510	GENE:hdeA
+fig|83333.1.peg.1688	b1704	GENE:aroH
+fig|83333.1.peg.1725	b1742
+fig|83333.1.peg.10	b0010	GENE:yaaH
+fig|83333.1.peg.1565	b1579
+fig|83333.1.peg.127	b0127	GENE:yadG
+fig|83333.1.peg.2397	b2429
+fig|83333.1.peg.2738	b2782	GENE:chpA
+fig|83333.1.peg.866	b0880	GENE:cspD
+fig|83333.1.peg.2315	b2342
+fig|83333.1.peg.4020	b4108	GENE:phnA
+fig|83333.1.peg.549	b4509
+fig|83333.1.peg.2096	b2123	GENE:yehR
+fig|83333.1.peg.2713	b2757
+fig|83333.1.peg.1920	b1940	GENE:fliH
+fig|83333.1.peg.3267	b3333	GENE:yheK
+fig|83333.1.peg.66	b0065	GENE:yabI
+fig|83333.1.peg.347	b0350	GENE:mhpD
+fig|83333.1.peg.1367	b1377
+fig|83333.1.peg.485	b0489	GENE:ybbK
+fig|83333.1.peg.399	b0402	GENE:proY
+fig|83333.1.peg.155	b0154	GENE:hemL
+fig|83333.1.peg.1317	b1328	GENE:ycjZ
+fig|83333.1.peg.1342	b1352	GENE:ydaD
+fig|83333.1.peg.3218	b3284	GENE:smg
+fig|83333.1.peg.2113	b2138	GENE:yohG
+fig|83333.1.peg.1597	b1611	GENE:fumC
+fig|83333.1.peg.3866	b3947	GENE:ptsA
+fig|83333.1.peg.686	b0695	GENE:kdpD
+fig|83333.1.peg.2849	b2897	GENE:ygfY
+fig|83333.1.peg.1943	b1964
+fig|83333.1.peg.909	b0924	GENE:mukB
+fig|83333.1.peg.1487	b1500
+fig|83333.1.peg.97	b0096	GENE:lpxC
+fig|83333.1.peg.1494	b1507	GENE:hipA
+fig|83333.1.peg.2925	b2975	GENE:yghK
+fig|83333.1.peg.2870	b2919
+fig|83333.1.peg.524	b0527	GENE:ybcI
+fig|83333.1.peg.705	b0713	GENE:ybgL
+fig|83333.1.peg.2953	b3005	GENE:exbD
+fig|83333.1.peg.447	b0450	GENE:glnK
+fig|83333.1.peg.1448	b1462
+fig|83333.1.peg.1396	b1408
+fig|83333.1.peg.770	b0784	GENE:moaD
+fig|83333.1.peg.425	b0428	GENE:cyoE
+fig|83333.1.peg.2520	b2550
+fig|83333.1.peg.3718	b3789	GENE:rffH
+fig|83333.1.peg.1832	b1848	GENE:yebG
+fig|83333.1.peg.845	b0859	GENE:ybjF
+fig|83333.1.peg.3478	b3546	GENE:yhjW
+fig|83333.1.peg.4114	b4204	GENE:yjfZ
+fig|83333.1.peg.2940	b2990	GENE:hybG
+fig|83333.1.peg.2916	b2965
+fig|83333.1.peg.1631	b1645
+fig|83333.1.peg.2088	b2113
+fig|83333.1.peg.92	b0091	GENE:murC
+fig|83333.1.peg.3304	b3369	GENE:yhfL
+fig|83333.1.peg.175	b0175	GENE:cdsA
+fig|83333.1.peg.1724	b1741
+fig|83333.1.peg.547	b4508
+fig|83333.1.peg.1202	b4520
+fig|83333.1.peg.4029	b4117	GENE:adiA
+fig|83333.1.peg.1228	b1241	GENE:adhE
+fig|83333.1.peg.984	b0997	GENE:torA
+fig|83333.1.peg.3141	b3198	GENE:yrbI
+fig|83333.1.peg.1190	b1204	GENE:pth
+fig|83333.1.peg.1661	b1677	GENE:lpp
+fig|83333.1.peg.2897	b2946
+fig|83333.1.peg.20	b0020	GENE:nhaR
+fig|83333.1.peg.1132	b1147	GENE:ymfL
+fig|83333.1.peg.1118	b1133	GENE:ycfB
+fig|83333.1.peg.2178	b2204	GENE:napH
+fig|83333.1.peg.3972	b4062	GENE:soxS
+fig|83333.1.peg.19	b0019	GENE:nhaA
+fig|83333.1.peg.3742	b3817	GENE:yigF
+fig|83333.1.peg.2553	b2582	GENE:trxC
+fig|83333.1.peg.2846	b2894	GENE:xerD
+fig|83333.1.peg.757	b0771	GENE:ybhJ
+fig|83333.1.peg.1707	b1724
+fig|83333.1.peg.676	b0686	GENE:ybfF
+fig|83333.1.peg.2688	b4543
+fig|83333.1.peg.2443	b2474	GENE:ypfI
+fig|83333.1.peg.89	b0088	GENE:murD
+fig|83333.1.peg.979	b0992	GENE:yccM
+fig|83333.1.peg.1735	b1752	GENE:ydjZ
+fig|83333.1.peg.469	b0473	GENE:htpG
+fig|83333.1.peg.252	b0257
+fig|83333.1.peg.172	b0172	GENE:frr
+fig|83333.1.peg.2540	b2569	GENE:lepA
+fig|83333.1.peg.838	b0852	GENE:rimK
+fig|83333.1.peg.2275	b2301	GENE:yfcF
+fig|83333.1.peg.3738	b3812	GENE:yigB
+fig|83333.1.peg.3959	b4049	GENE:yjbN
+fig|83333.1.peg.928	b0943
+fig|83333.1.peg.1775	b1792	GENE:yeaO
+fig|83333.1.peg.4145	b4235	GENE:pmbA
+fig|83333.1.peg.3406	b3473	GENE:yhhS
+fig|83333.1.peg.234	b0239	GENE:yafA
+fig|83333.1.peg.1124	b1139	GENE:lit
+fig|83333.1.peg.510	b0514	GENE:ybbZ
+fig|83333.1.peg.338	b0341	GENE:cynX
+fig|83333.1.peg.3251	b3317	GENE:rplB
+fig|83333.1.peg.1245	b1258	GENE:yciF
+fig|83333.1.peg.2482	b2512
+fig|83333.1.peg.886	b0901	GENE:ycaK
+fig|83333.1.peg.3581	b3645	GENE:dinD
+fig|83333.1.peg.2445	b2476	GENE:purC
+fig|83333.1.peg.3278	b3344	GENE:yheM
+fig|83333.1.peg.1093	b1108	GENE:ycfP
+fig|83333.1.peg.2045	b2069
+fig|83333.1.peg.2415	b2447
+fig|83333.1.peg.1209	b1220	GENE:ychP
+fig|83333.1.peg.1323	b1334	GENE:fnr
+fig|83333.1.peg.3	b0003	GENE:thrB
+fig|83333.1.peg.1641	b1655	GENE:ydhO
+fig|83333.1.peg.1049	b1064	GENE:grxB
+fig|83333.1.peg.1340	b1351	GENE:racC
+fig|83333.1.peg.1306	b1318	GENE:ycjV
+fig|83333.1.peg.2569	b2602	GENE:yfiL
+fig|83333.1.peg.2864	b2913	GENE:serA
+fig|83333.1.peg.2902	b2951	GENE:yggS
+fig|83333.1.peg.242	b0247	GENE:ykfG
+fig|83333.1.peg.1044	b1059	GENE:solA
+fig|83333.1.peg.920	b0935	GENE:ycbN
+fig|83333.1.peg.1713	b1730
+fig|83333.1.peg.1867	b1883	GENE:cheB
+fig|83333.1.peg.3856	b3937	GENE:yiiX
+fig|83333.1.peg.537	b0541 LocusTag:tra52
+fig|83333.1.peg.3889	b3973	GENE:birA
+fig|83333.1.peg.4274	b4363	GENE:yjjB
+fig|83333.1.peg.2666	b2711	GENE:ygbD
+fig|83333.1.peg.261	b4505
+fig|83333.1.peg.3350	b3415	GENE:gntT
+fig|83333.1.peg.2568	b2601	GENE:aroF
+fig|83333.1.peg.1508	b1521	GENE:uxaB
+fig|83333.1.peg.4289	b4381	GENE:deoC
+fig|83333.1.peg.1385	b1395	GENE:ydbU
+fig|83333.1.peg.298	b0301	GENE:ykgB
+fig|83333.1.peg.2549	b2578	GENE:yfiK
+fig|83333.1.peg.940	b0955
+fig|83333.1.peg.2564	b2597	GENE:yfiA
+fig|83333.1.peg.3699	b3769	GENE:ilvM
+fig|83333.1.peg.1842	b1858	GENE:yebM
+fig|83333.1.peg.1599	b1613	GENE:manA
+fig|83333.1.peg.571	b0573	GENE:ylcC
+fig|83333.1.peg.3952	b4042	GENE:dgkA
+fig|83333.1.peg.1303	b1315	GENE:ycjS
+fig|83333.1.peg.4273	b4362	GENE:dnaT
+fig|83333.1.peg.744	b0758	GENE:galT
+fig|83333.1.peg.2768	b2812	GENE:ygdL
+fig|83333.1.peg.578	b0580	GENE:ybdJ
+fig|83333.1.peg.351	b0354	GENE:yaiL
+fig|83333.1.peg.621	b0620	GENE:citB
+fig|83333.1.peg.3670	b3733	GENE:atpG
+fig|83333.1.peg.3146	b3203	GENE:yhbH
+fig|83333.1.peg.2037	b2061	GENE:wzb
+fig|83333.1.peg.1187	b1201
+fig|83333.1.peg.2582	b2616	GENE:recN
+fig|83333.1.peg.3599	b3662	GENE:yicM
+fig|83333.1.peg.211	b0217	GENE:yafT
+fig|83333.1.peg.2400	b2432
+fig|83333.1.peg.2656	b2701	GENE:mltB
+fig|83333.1.peg.390	b0393	GENE:yaiD
+fig|83333.1.peg.3203	b3261	GENE:fis
+fig|83333.1.peg.4095	b4185	GENE:yjfM
+fig|83333.1.peg.324	b0327	GENE:yahM
+fig|83333.1.peg.2839	b2887	GENE:ygfT
+fig|83333.1.peg.4194	b4285
+fig|83333.1.peg.389	b0392
+fig|83333.1.peg.2038	b2062	GENE:wza
+fig|83333.1.peg.1350	b1360
+fig|83333.1.peg.3679	b3742	GENE:mioC
+fig|83333.1.peg.3847	b3928	GENE:yiiU
+fig|83333.1.peg.555	b0557	GENE:ybcU
+fig|83333.1.peg.2432	b2464	GENE:talA
+fig|83333.1.peg.931	b0946	GENE:ycbW
+fig|83333.1.peg.2876	b2925	GENE:fba
+fig|83333.1.peg.602	b0601	GENE:ybdM
+fig|83333.1.peg.3948	b4038	GENE:yjbI
+fig|83333.1.peg.3616	b3679	GENE:yidK
+fig|83333.1.peg.4251	b4340	GENE:yjiR
+fig|83333.1.peg.4310	b4402	GENE:yjjY
+fig|83333.1.peg.1277	b1289	GENE:ycjD
+fig|83333.1.peg.1111	b1126	GENE:potA
+fig|83333.1.peg.3496	b3562	GENE:yiaA
+fig|83333.1.peg.3812	b3892	GENE:fdoI
+fig|83333.1.peg.303	b0306	GENE:ykgE
+fig|83333.1.peg.2649	b2690	GENE:yqaB
+fig|83333.1.peg.2150	b2175	GENE:spr
+fig|83333.1.peg.2174	b2200	GENE:ccmB
+fig|83333.1.peg.462	b0466	GENE:ybaM
+fig|83333.1.peg.3020	b3073
+fig|83333.1.peg.2852	b2900	GENE:yqfB
+fig|83333.1.peg.1750	b1767	GENE:ansA
+fig|83333.1.peg.3977	b4067	GENE:yjcG
+fig|83333.1.peg.646	b0645	GENE:ybeR
+fig|83333.1.peg.1938	b1959	GENE:yedA
+fig|83333.1.peg.4086	b4176	GENE:yjeT
+fig|83333.1.peg.3327	b3392
+fig|83333.1.peg.3839	b3920	GENE:yiiQ
+fig|83333.1.peg.2886	b2935	GENE:tktA
+fig|83333.1.peg.4073	b4160	GENE:psd
+fig|83333.1.peg.3364	b3430	GENE:glgC
+fig|83333.1.peg.2769	b2813	GENE:mltA
+fig|83333.1.peg.496	b0500	GENE:ybbD
+fig|83333.1.peg.1288	b1300	GENE:aldH
+fig|83333.1.peg.996	b1008
+fig|83333.1.peg.2598	b2633	GENE:yfjQ
+fig|83333.1.peg.1951	b1972
+fig|83333.1.peg.1855	b1871	GENE:yecP
+fig|83333.1.peg.268	b0272	GENE:yagI
+fig|83333.1.peg.3423	b3490	GENE:yhiL
+fig|83333.1.peg.4269	b4358	GENE:yjjN
+fig|83333.1.peg.3574	b3638	GENE:radC
+fig|83333.1.peg.451	b0454	GENE:ybaZ
+fig|83333.1.peg.2969	b3022
+fig|83333.1.peg.3388	b3455	GENE:livG
+fig|83333.1.peg.1108	b1123	GENE:potD
+fig|83333.1.peg.1878	insA5	b1894
+fig|83333.1.peg.875	b0890	GENE:ftsK
+fig|83333.1.peg.3226	b3292	GENE:yhdM
+fig|83333.1.peg.2832	b2880
+fig|83333.1.peg.3396	b3463	GENE:ftsE
+fig|83333.1.peg.3041	b3094	GENE:exuR
+fig|83333.1.peg.1662	b1678	GENE:ynhG
+fig|83333.1.peg.208	b0213	GENE:yafS
+fig|83333.1.peg.1326	b1337
+fig|83333.1.peg.1850	b1866	GENE:aspS
+fig|83333.1.peg.2782	b2829	GENE:ptsP
+fig|83333.1.peg.803	b0817
+fig|83333.1.peg.3522	b3588   GENE:aldB
+fig|83333.1.peg.3018	b3071	GENE:yqjI
+fig|83333.1.peg.791	b0805
+fig|83333.1.peg.1757	b1774	GENE:ydjJ
+fig|83333.1.peg.3514	b3580	GENE:lyxK
+fig|83333.1.peg.2988	b4544
+fig|83333.1.peg.4156	b4246	GENE:pyrL
+fig|83333.1.peg.3880	b3960	GENE:argH
+fig|83333.1.peg.848	b0862	GENE:artQ
+fig|83333.1.peg.2200	b2225
+fig|83333.1.peg.3180	b3236	GENE:mdh
+fig|83333.1.peg.2185	b2211	GENE:yojI
+fig|83333.1.peg.102	b0102	GENE:yacF
+fig|83333.1.peg.289	b0293	GENE:yagZ
+fig|83333.1.peg.817	b0831
+fig|83333.1.peg.784	b0798	GENE:ybiA
+fig|83333.1.peg.1515	b1528	GENE:ydeA
+fig|83333.1.peg.2827	b2875
+fig|83333.1.peg.3900	b3988	GENE:rpoC
+fig|83333.1.peg.892	b0907	GENE:serC
+fig|83333.1.peg.453	b0457	GENE:ylaB
+fig|83333.1.peg.3790	b3870	GENE:glnA
+fig|83333.1.peg.3630	b3694
+fig|83333.1.peg.1501	b1514	GENE:ydeY
+fig|83333.1.peg.2392	b2424	GENE:cysU
+fig|83333.1.peg.689	b0698	GENE:kdpA
+fig|83333.1.peg.3724	b3795	GENE:yifK
+fig|83333.1.peg.2271	b2297	GENE:pta
+fig|83333.1.peg.2812	b2859
+fig|83333.1.peg.796	b0810	GENE:glnP
+fig|83333.1.peg.3240	b3306	GENE:rpsH
+fig|83333.1.peg.2640	b2679	GENE:proX
+fig|83333.1.peg.3187	b3243	GENE:qseA
+fig|83333.1.peg.1057	b1072	GENE:flgA
+fig|83333.1.peg.3432	b3499	GENE:yhiR
+fig|83333.1.peg.1963	b1988	GENE:nac
+fig|83333.1.peg.583	b0584	GENE:fepA
+fig|83333.1.peg.3668	b3731	GENE:atpC
+fig|83333.1.peg.4210	b4301	GENE:sgcE
+fig|83333.1.peg.1470	b1483
+fig|83333.1.peg.2975	b3028	GENE:mdaB
+fig|83333.1.peg.1252	b1265	GENE:trpL
+fig|83333.1.peg.1964	b1990	GENE:erfK
+fig|83333.1.peg.3054	b3107	GENE:yhaL
+fig|83333.1.peg.3039	b3092	GENE:uxaC
+fig|83333.1.peg.913	b0928	GENE:aspC
+fig|83333.1.peg.2822	b2870	GENE:ygeW
+fig|83333.1.peg.3492	b3559	GENE:glyS
+fig|83333.1.peg.2351	b2378
+fig|83333.1.peg.3315	b3380	GENE:yhfW
+fig|83333.1.peg.2025	b2049	GENE:cpsB
+fig|83333.1.peg.3332	b3397	GENE:yrfE
+fig|83333.1.peg.3838	b3919	GENE:tpiA
+fig|83333.1.peg.2302	b2328	GENE:mepA
+fig|83333.1.peg.3653	b3716	GENE:yieI
+fig|83333.1.peg.1694	b1710	GENE:btuE
+fig|83333.1.peg.1336	b1347	GENE:ydaC
+fig|83333.1.peg.1646	b1660	GENE:ydhC
+fig|83333.1.peg.3165	b3221	GENE:yhcH
+fig|83333.1.peg.4193	b4562
+fig|83333.1.peg.3621	b3685	GENE:yidE
+fig|83333.1.peg.1950	b1971
+fig|83333.1.peg.3293	b3358	GENE:yhfK
+fig|83333.1.peg.576	b0578	GENE:nfnB
+fig|83333.1.peg.1451	b1465	GENE:narV
+fig|83333.1.peg.1783	b1800	GENE:yeaU
+fig|83333.1.peg.1749	b1766	GENE:sppA
+fig|83333.1.peg.2053	b2077	GENE:yegB
+fig|83333.1.peg.2702	b2746	GENE:ygbB
+fig|83333.1.peg.3898	b3986	GENE:rplL
+fig|83333.1.peg.1540	b1552	GENE:cspI
+fig|83333.1.peg.401	b0404	GENE:yajB
+fig|83333.1.peg.4223	b4313	GENE:fimE
+fig|83333.1.peg.1904	b1924	GENE:fliD
+fig|83333.1.peg.1358	b1368
+fig|83333.1.peg.3290	b3355	GENE:prkB
+fig|83333.1.peg.713	b0721	GENE:sdhC
+fig|83333.1.peg.1820	b1836
+fig|83333.1.peg.333	b0336	GENE:codB
+fig|83333.1.peg.3408	b3475	GENE:yhhU
+fig|83333.1.peg.2236	b2262	GENE:menB
+fig|83333.1.peg.3690	b3752	GENE:rbsK
+fig|83333.1.peg.1138	b1153
+fig|83333.1.peg.1156	b1170
+fig|83333.1.peg.4012	b4100	GENE:phnH
+fig|83333.1.peg.1433	b1447
+fig|83333.1.peg.1274	b1286	GENE:rnb
+fig|83333.1.peg.41	b0040	GENE:caiT
+fig|83333.1.peg.2360	b2387
+fig|83333.1.peg.4018	b4106	GENE:phnC
+fig|83333.1.peg.40	b0039	GENE:caiA
+fig|83333.1.peg.3831	b3910	GENE:yiiM
+fig|83333.1.peg.2259	b2285	GENE:nuoE
+fig|83333.1.peg.27	b0027	GENE:lspA
+fig|83333.1.peg.865	b0879	GENE:ybjZ
+fig|83333.1.peg.932	b0947
+fig|83333.1.peg.113	b0113	GENE:pdhR
+fig|83333.1.peg.2013	b2037	GENE:rfbX
+fig|83333.1.peg.2224	b2251	GENE:yfaO
+fig|83333.1.peg.2388	b2420
+fig|83333.1.peg.683	b0693	GENE:speF
+fig|83333.1.peg.853	b0867
+fig|83333.1.peg.1886	b1903
+fig|83333.1.peg.3820	b3899	GENE:frvB
+fig|83333.1.peg.1962	b1987	GENE:cbl
+fig|83333.1.peg.277	b0281	GENE:intF
+fig|83333.1.peg.1620	b1634	GENE:ydgR
+fig|83333.1.peg.1808	b1825
+fig|83333.1.peg.260	insA2	b0265
+fig|83333.1.peg.3133	b3190	GENE:yrbA
+fig|83333.1.peg.2679	b2724	GENE:hycB
+fig|83333.1.peg.2737	b2781	GENE:mazG
+fig|83333.1.peg.3052	b3105	GENE:yhaJ
+fig|83333.1.peg.1412	b1426	GENE:ydcH
+fig|83333.1.peg.2346	b2373
+fig|83333.1.peg.344	b0347	GENE:mhpA
+fig|83333.1.peg.2226	b2253
+fig|83333.1.peg.279	b0283	GENE:yagQ
+fig|83333.1.peg.1608	b1622	GENE:malY
+fig|83333.1.peg.2216	b2243	GENE:glpC
+fig|83333.1.peg.567	b0569	GENE:nfrB
+fig|83333.1.peg.1445	b1459
+fig|83333.1.peg.1414	b1428
+fig|83333.1.peg.1081	b1096	GENE:pabC
+fig|83333.1.peg.1348	b1358	GENE:ydaT
+fig|83333.1.peg.3024	b3077	GENE:ebgC
+fig|83333.1.peg.2684	b2729	GENE:hypD
+fig|83333.1.peg.3765	b3839	GENE:yigU
+fig|83333.1.peg.1080	b1095	GENE:fabF
+fig|83333.1.peg.3524	b3590	GENE:selB
+fig|83333.1.peg.4001	b4089
+fig|83333.1.peg.1901	b1921	GENE:fliZ
+fig|83333.1.peg.1088	b1103	GENE:ycfF
+fig|83333.1.peg.3780	b3859	GENE:yihE
+fig|83333.1.peg.4206	b4297	GENE:yjhG
+fig|83333.1.peg.560	b0562	GENE:ybcY
+fig|83333.1.peg.440	b0443	GENE:ybaW
+fig|83333.1.peg.3352	b3417	GENE:malP
+fig|83333.1.peg.4006	b4094	GENE:phnN
+fig|83333.1.peg.2525	b2555	GENE:yfhG
+fig|83333.1.peg.2306	b2332
+fig|83333.1.peg.148	b0148	GENE:hrpB
+fig|83333.1.peg.1990	b2016
+fig|83333.1.peg.3283	b3349	GENE:slyD
+fig|83333.1.peg.1743	b1760
+fig|83333.1.peg.955	b0970	GENE:yccA
+fig|83333.1.peg.2321	b2349	GENE:intC
+fig|83333.1.peg.1554	b1566	GENE:flxA
+fig|83333.1.peg.193	b0192	GENE:cutF
+fig|83333.1.peg.4064	b4151	GENE:frdD
+fig|83333.1.peg.1039	b1054	GENE:htrB
+fig|83333.1.peg.3372	b3440	GENE:yhhX
+fig|83333.1.peg.965	b0980	GENE:appA
+fig|83333.1.peg.365	b0368	GENE:tauD
+fig|83333.1.peg.1026	b4518
+fig|83333.1.peg.3109	b3164
+fig|83333.1.peg.3662	b3725	GENE:pstB
+fig|83333.1.peg.1740	b1757
+fig|83333.1.peg.2042	b2066	GENE:udk
+fig|83333.1.peg.890	b0905	GENE:ycaO
+fig|83333.1.peg.1192	b1206	GENE:ychM
+fig|83333.1.peg.3365	b3431	GENE:glgX
+fig|83333.1.peg.3456	b3523	GENE:yhjE
+fig|83333.1.peg.2770	b2817
+fig|83333.1.peg.899	b0914	GENE:msbA
+fig|83333.1.peg.3239	b3305	GENE:rplF
+fig|83333.1.peg.1406	b1420
+fig|83333.1.peg.3968	b4058	GENE:uvrA
+fig|83333.1.peg.222	b0227	GENE:yafL
+fig|83333.1.peg.2670	b2715	GENE:ascF
+fig|83333.1.peg.661	b0660	GENE:ybeZ
+fig|83333.1.peg.2578	b2611
+fig|83333.1.peg.2203	b2230
+fig|83333.1.peg.229	b0234	GENE:yafP
+fig|83333.1.peg.925	b0940	GENE:ycbS
+fig|83333.1.peg.3477	b3544	GENE:dppA
+fig|83333.1.peg.258	b0263
+fig|83333.1.peg.3682	b3745	GENE:yieM
+fig|83333.1.peg.1858	b1874m	GENE:cutC
+fig|83333.1.peg.673	b0683	GENE:fur
+fig|83333.1.peg.3792	b3872	GENE:yihL
+fig|83333.1.peg.1476	b1489
+fig|83333.1.peg.819	b0833
+fig|83333.1.peg.1160	b1174	GENE:minE
+fig|83333.1.peg.2008	b2032	GENE:wbbK
+fig|83333.1.peg.3753	b4555
+fig|83333.1.peg.3789	b3869	GENE:glnL
+fig|83333.1.peg.3945	b4036	GENE:lamB
+fig|83333.1.peg.317	b0320	GENE:yahF
+fig|83333.1.peg.1702	b1718	GENE:infC
+fig|83333.1.peg.1613	b1627
+fig|83333.1.peg.1601	b1615	GENE:uidC
+fig|83333.1.peg.2468	b2499	GENE:purM
+fig|83333.1.peg.3087	b3142	GENE:yraH
+fig|83333.1.peg.1726	b1743	GENE:spy
+fig|83333.1.peg.272	b0276	GENE:yagJ
+fig|83333.1.peg.1880	b1896	GENE:otsA
+fig|83333.1.peg.1910	b1930	GENE:yedF
+fig|83333.1.peg.4246	b4335	GENE:yjiM
+fig|83333.1.peg.493	b0497	GENE:rhsD
+fig|83333.1.peg.1376	b1386	GENE:tynA
+fig|83333.1.peg.73	b0072	GENE:leuC
+fig|83333.1.peg.3140	b3197	GENE:yrbH
+fig|83333.1.peg.68	b0067	GENE:yabK
+fig|83333.1.peg.3154	b3211	GENE:yhcC
+fig|83333.1.peg.3647	b3710	GENE:yidY
+fig|83333.1.peg.1425	b1439
+fig|83333.1.peg.4128	b4218	GENE:ytfL
+fig|83333.1.peg.305	b0308	GENE:ykgG
+fig|83333.1.peg.1315	b4524
+fig|83333.1.peg.4304	b4396	GENE:rob
+fig|83333.1.peg.3466	b3533
+fig|83333.1.peg.1283	b1295	GENE:ymjA
+fig|83333.1.peg.2422	b2454	GENE:eutJ
+fig|83333.1.peg.1428	b1442
+fig|83333.1.peg.3861	b3942	GENE:katG
+fig|83333.1.peg.4292	b4384	GENE:deoD
+fig|83333.1.peg.3383	b3450	GENE:ugpC
+fig|83333.1.peg.94	b0093	GENE:ftsQ
+fig|83333.1.peg.3401	b3468	GENE:yhhN
+fig|83333.1.peg.104	b0104	GENE:guaC
+fig|83333.1.peg.525	b0528	GENE:ybcJ
+fig|83333.1.peg.3951	b4041	GENE:plsB
+fig|83333.1.peg.3967	b4057	GENE:yjbR
+fig|83333.1.peg.613	b0612	GENE:ybdS
+fig|83333.1.peg.3064	b3118	GENE:tdcA
+fig|83333.1.peg.698	b0706	GENE:ybfD
+fig|83333.1.peg.2064	b2089 LocusTag:tra54
+fig|83333.1.peg.2316	b2343
+fig|83333.1.peg.1790	b1807	GENE:yeaZ
+fig|83333.1.peg.2409	b2441
+fig|83333.1.peg.249	b0254	GENE:perR
+fig|83333.1.peg.4173	b4263	GENE:yjgR
+fig|83333.1.peg.3454	b3521	GENE:yhjC
+fig|83333.1.peg.1794	b1811
+fig|83333.1.peg.2994	b3046	GENE:yqiG
+fig|83333.1.peg.1486	b1499
+fig|83333.1.peg.2194	b2219	GENE:atoS
+fig|83333.1.peg.3190	b3248	GENE:yhdE
+fig|83333.1.peg.1475	b1488
+fig|83333.1.peg.4189	b4281	GENE:yjhD
+fig|83333.1.peg.270	insB3	b0274
+fig|83333.1.peg.2250	b2276	GENE:nuoN
+fig|83333.1.peg.1841	b1857
+fig|83333.1.peg.3868	b4558
+fig|83333.1.peg.2779	b2826	GENE:ppdA
+fig|83333.1.peg.3525	b3591	GENE:selA
+fig|83333.1.peg.428	b0431	GENE:cyoB
+fig|83333.1.peg.2751	b2795	GENE:ygdH
+fig|83333.1.peg.1378	b1388	GENE:ydbO
+fig|83333.1.peg.360	b0363	GENE:yaiP
+fig|83333.1.peg.4131	b4221	GENE:ytfN
+fig|83333.1.peg.325	b0328	GENE:yahN
+fig|83333.1.peg.1731	b1748	GENE:cstC
+fig|83333.1.peg.2539	b2568	GENE:lepB
+fig|83333.1.peg.3702	b3772	GENE:ilvA
+fig|83333.1.peg.2797	b2844	GENE:yqeF
+fig|83333.1.peg.1891	b1908	GENE:yecA
+fig|83333.1.peg.3770	b3844	GENE:ubiB
+fig|83333.1.peg.3446	b3513	GENE:yhiU
+fig|83333.1.peg.2171	b2197	GENE:ccmE
+fig|83333.1.peg.376	b0379
+fig|83333.1.peg.3149	b3206	GENE:ptsO
+fig|83333.1.peg.3530	b3596	GENE:yibG
+fig|83333.1.peg.432	b0435	GENE:bolA
+fig|83333.1.peg.3936	b4027
+fig|83333.1.peg.3552	b3616	GENE:tdh
+fig|83333.1.peg.3094	b3149	GENE:yraO
+fig|83333.1.peg.2583	b2617	GENE:smpA
+fig|83333.1.peg.2668	b2713	GENE:hydN
+fig|83333.1.peg.1629	b1643
+fig|83333.1.peg.3603	b3666	GENE:uhpT
+fig|83333.1.peg.35	b0034	GENE:caiF
+fig|83333.1.peg.825	b0839	GENE:dacC
+fig|83333.1.peg.3582	b3646
+fig|83333.1.peg.3419	b3486	GENE:yhiH
+fig|83333.1.peg.2693	b2737
+fig|83333.1.peg.3153	b3210	GENE:arcB
+fig|83333.1.peg.4094	b4184	GENE:yjfL
+fig|83333.1.peg.4051	b4139a	GENE:yjeG
+fig|83333.1.peg.3850	b3931	GENE:hslU
+fig|83333.1.peg.949	b0964
+fig|83333.1.peg.1216	b1227	GENE:narI
+fig|83333.1.peg.2471	b2502	GENE:ppx
+fig|83333.1.peg.3119	b3176	GENE:mrsA
+fig|83333.1.peg.4058	b4146	GENE:yjeK
+fig|83333.1.peg.2659	b2704	GENE:srlB
+fig|83333.1.peg.905	b0920	GENE:ycbC
+fig|83333.1.peg.2661	b2706	GENE:gutM
+fig|83333.1.peg.1148	b1163
+fig|83333.1.peg.2130	b2155	GENE:cirA
+fig|83333.1.peg.2552	b2581	GENE:yfiF
+fig|83333.1.peg.1171	b1185	GENE:dsbB
+fig|83333.1.peg.1527	b1539	GENE:ydfG
+fig|83333.1.peg.2317	b2344	GENE:fadL
+fig|83333.1.peg.837	b0851	GENE:mdaA
+fig|83333.1.peg.511	b0515	GENE:ylbA
+fig|83333.1.peg.2874	b2923	GENE:yggA
+fig|83333.1.peg.1201	b1215	GENE:kdsA
+fig|83333.1.peg.843	b0857	GENE:potI
+fig|83333.1.peg.762	b0776	GENE:bioF
+fig|83333.1.peg.3924	b4015	GENE:aceA
+fig|83333.1.peg.3259	b3325
+fig|83333.1.peg.1633	b1647
+fig|83333.1.peg.1650	b1664
+fig|83333.1.peg.4033	b4121	GENE:yjdF
+fig|83333.1.peg.4102	b4192	GENE:yjfR
+fig|83333.1.peg.4078	b4168	GENE:yjeE
+fig|83333.1.peg.2266	b2292	GENE:yfbS
+fig|83333.1.peg.3247	b3313	GENE:rplP
+fig|83333.1.peg.2277	b2303	GENE:folX
+fig|83333.1.peg.3250	b3316	GENE:rpsS
+fig|83333.1.peg.1663	b1679	GENE:ynhA
+fig|83333.1.peg.205	b0210	GENE:yafE
+fig|83333.1.peg.3802	b3882	GENE:yihU
+fig|83333.1.peg.1970	b1996 LocusTag:yi223
+fig|83333.1.peg.251	b0256 LocusTag:tra81
+fig|83333.1.peg.2765	b2809
+fig|83333.1.peg.1092	b1107	GENE:ycfO
+fig|83333.1.peg.3958	b4048	GENE:yjbM
+fig|83333.1.peg.570	b0572	GENE:ylcB
+fig|83333.1.peg.3531	b4549
+fig|83333.1.peg.3351	b3416	GENE:malQ
+fig|83333.1.peg.2905	b2954	GENE:yggV
+fig|83333.1.peg.836	b0850	GENE:ybjC
+fig|83333.1.peg.659	b0658	GENE:ybeX
+fig|83333.1.peg.1734	b1751	GENE:ydjY
+fig|83333.1.peg.459	b0463	GENE:acrA
+fig|83333.1.peg.424	b0427	GENE:yajR
+fig|83333.1.peg.163	b0162	GENE:yaeG
+fig|83333.1.peg.887	b0902	GENE:pflA
+fig|83333.1.peg.233	b0238	GENE:gpt
+fig|83333.1.peg.2026	b2050	GENE:wcaI
+fig|83333.1.peg.2330	b2358	GENE:yfdO
+fig|83333.1.peg.429	b0432	GENE:cyoA
+fig|83333.1.peg.2044	b2068	GENE:alkA
+fig|83333.1.peg.972	b0987	GENE:ymcD
+fig|83333.1.peg.4237	b4327	GENE:yjiE
+fig|83333.1.peg.2865	b2914	GENE:rpiA
+fig|83333.1.peg.423	b0426	GENE:yajQ
+fig|83333.1.peg.1208	b1219	GENE:ychN
+fig|83333.1.peg.3279	b3345	GENE:yheN
+fig|83333.1.peg.1142	b1157
+fig|83333.1.peg.1295	b1307	GENE:pspD
+fig|83333.1.peg.3469	b3536	GENE:yhjS
+fig|83333.1.peg.2416	b2448
+fig|83333.1.peg.3249	b3315	GENE:rplV
+fig|83333.1.peg.4122	b4212
+fig|83333.1.peg.1868	b1884	GENE:cheR
+fig|83333.1.peg.893	b0908	GENE:aroA
+fig|83333.1.peg.1217	b1228
+fig|83333.1.peg.4146	b4236
+fig|83333.1.peg.3502	b3568	GENE:xylH
+fig|83333.1.peg.4275	b4364	GENE:yjjP
+fig|83333.1.peg.1921	b1941	GENE:fliI
+fig|83333.1.peg.1454	b1468	GENE:narZ
+fig|83333.1.peg.310	b0313	GENE:betI
+fig|83333.1.peg.3444	b3511	GENE:hdeD
+fig|83333.1.peg.1065	b1080	GENE:flgI
+fig|83333.1.peg.133	b0133	GENE:panC
+fig|83333.1.peg.4050	b4139
+fig|83333.1.peg.3183	b3239	GENE:yhcO
+fig|83333.1.peg.3857	b3938	GENE:metJ
+fig|83333.1.peg.2433	b2465	GENE:tktB
+fig|83333.1.peg.2804	b2851	GENE:ygeG
+fig|83333.1.peg.3551	b3615	GENE:yibD
+fig|83333.1.peg.1809	b1826
+fig|83333.1.peg.2781	b2828	GENE:lgt
+fig|83333.1.peg.536	b0540
+fig|83333.1.peg.388	b0391	GENE:yaiE
+fig|83333.1.peg.3125	b3182	GENE:dacB
+fig|83333.1.peg.669	b0679	GENE:nagE
+fig|83333.1.peg.1058	b1073	GENE:flgB
+fig|83333.1.peg.1305	b1317	GENE:ycjU
+fig|83333.1.peg.1125	b1140	GENE:intE
+fig|83333.1.peg.3488	b3556	GENE:cspA
+fig|83333.1.peg.3186	b3242	GENE:yhcR
+fig|83333.1.peg.2453	b2484	GENE:hyfD
+fig|83333.1.peg.2516	b2546	GENE:yphD
+fig|83333.1.peg.1047	b1062	GENE:pyrC
+fig|83333.1.peg.2548	b2577
+fig|83333.1.peg.2270	b2296	GENE:ackA
+fig|83333.1.peg.2642	b2683	GENE:ygaH
+fig|83333.1.peg.2567	b2600	GENE:tyrA
+fig|83333.1.peg.90	b0089	GENE:ftsW
+fig|83333.1.peg.623	b0622	GENE:crcA
+fig|83333.1.peg.2483	b2513
+fig|83333.1.peg.3545	b3609	GENE:secB
+fig|83333.1.peg.1318	b1329
+fig|83333.1.peg.128	b0128	GENE:yadH
+fig|83333.1.peg.1368	b1378	GENE:ydbK
+fig|83333.1.peg.608	b0607	GENE:ybdQ
+fig|83333.1.peg.736	b0750	GENE:nadA
+fig|83333.1.peg.2634	b2673	GENE:nrdH
+fig|83333.1.peg.697	b0705	GENE:ybfL
+fig|83333.1.peg.675	b0685	GENE:ybfE
+fig|83333.1.peg.1041	b1056	GENE:yceI
+fig|83333.1.peg.3314	b3379	GENE:yhfV
+fig|83333.1.peg.2369	b2398	GENE:yfeC
+fig|83333.1.peg.98	b0097	GENE:yacA
+fig|83333.1.peg.1341	b1351a	GENE:ydaE
+fig|83333.1.peg.3846	b3927	GENE:glpF
+fig|83333.1.peg.1649	b1663	GENE:ydhE
+fig|83333.1.peg.3491	t150	b3558
+fig|83333.1.peg.2628	b2667
+fig|83333.1.peg.908	b0923	GENE:mukE
+fig|83333.1.peg.1176	b1190	GENE:dadX
+fig|83333.1.peg.2442	b2473	GENE:ypfH
+fig|83333.1.peg.3881	b3961	GENE:oxyR
+fig|83333.1.peg.2283	b2309	GENE:hisJ
+fig|83333.1.peg.771	b0785	GENE:moaE
+fig|83333.1.peg.398	b0401	GENE:brnQ
+fig|83333.1.peg.3589	b3653	GENE:gltS
+fig|83333.1.peg.1395	b1407	GENE:ydbD
+fig|83333.1.peg.704	b0712	GENE:ybgK
+fig|83333.1.peg.1050	b1065	GENE:yceL
+fig|83333.1.peg.2741	b2785	GENE:ygcA
+fig|83333.1.peg.1706	b1723	GENE:pfkB
+fig|83333.1.peg.244	b0249	GENE:ykfF
+fig|83333.1.peg.3962	b4052	GENE:dnaB
+fig|83333.1.peg.655	b0654	GENE:gltJ
+fig|83333.1.peg.2320	b2347	GENE:yfdC
+fig|83333.1.peg.2952	b3004
+fig|83333.1.peg.914	b0929	GENE:ompF
+fig|83333.1.peg.2379	b2411	GENE:lig
+fig|83333.1.peg.2719	b2763	GENE:cysI
+fig|83333.1.peg.1594	b1608	GENE:rstA
+fig|83333.1.peg.769	b0783	GENE:moaC
+fig|83333.1.peg.3660	b3723	GENE:bglG
+fig|83333.1.peg.2754	b2798
+fig|83333.1.peg.844	b0858	GENE:ybjO
+fig|83333.1.peg.2097	b2124	GENE:yehS
+fig|83333.1.peg.2444	b2475
+fig|83333.1.peg.2637	b2676	GENE:nrdF
+fig|83333.1.peg.919	b0934	GENE:ycbM
+fig|83333.1.peg.2915	b2964
+fig|83333.1.peg.1198	b1212	GENE:hemK
+fig|83333.1.peg.2089	b2114	GENE:metG
+fig|83333.1.peg.3048	b3101	GENE:yqjF
+fig|83333.1.peg.546	b0550	GENE:rus
+fig|83333.1.peg.3170	b3226
+fig|83333.1.peg.1229	b1242	GENE:ychE
+fig|83333.1.peg.3719	b3790	GENE:wecD
+fig|83333.1.peg.3971	b4061	GENE:yjcC
+fig|83333.1.peg.3075	b3130	GENE:yhaV
+fig|83333.1.peg.3642	b3705	GENE:yidC
+fig|83333.1.peg.3517	b3583	GENE:sgbE
+fig|83333.1.peg.2896	b2945	GENE:endA
+fig|83333.1.peg.756	b0770	GENE:ybhI
+fig|83333.1.peg.2318	b2345
+fig|83333.1.peg.3569	b3633	GENE:kdtA
+fig|83333.1.peg.3716	b3787	GENE:wecC
+fig|83333.1.peg.1831	b1847	GENE:yebF
+fig|83333.1.peg.2210	b2237	GENE:inaA
+fig|83333.1.peg.619	b0618	GENE:citC
+fig|83333.1.peg.1572	b1586
+fig|83333.1.peg.2538	b4539
+fig|83333.1.peg.267	b0271	GENE:yagH
+fig|83333.1.peg.812	b0826	GENE:moeB
+fig|83333.1.peg.2983	b3036	GENE:ygiA
+fig|83333.1.peg.3725	b3800	GENE:aslB
+fig|83333.1.peg.1926	b1946	GENE:fliN
+fig|83333.1.peg.1557	b1570	GENE:dicA
+fig|83333.1.peg.173	b0173	GENE:yaeM
+fig|83333.1.peg.1516	b1529	GENE:ydeB
+fig|83333.1.peg.2685	b2730	GENE:hypE
+fig|83333.1.peg.582	b0583	GENE:entD
+fig|83333.1.peg.2264	b2290
+fig|83333.1.peg.1588	b1602	GENE:pntB
+fig|83333.1.peg.1237	b1250	GENE:kch
+fig|83333.1.peg.3613	b3676	GENE:yidH
+fig|83333.1.peg.3628	b3692	GENE:dgoA
+fig|83333.1.peg.3036	b3089	GENE:ygjU
+fig|83333.1.peg.1586	b1600
+fig|83333.1.peg.1099	b1114	GENE:mfd
+fig|83333.1.peg.454	b0458	GENE:ylaC
+fig|83333.1.peg.1325	b1336	GENE:ydaH
+fig|83333.1.peg.3227	b3293	GENE:yhdN
+fig|83333.1.peg.1877	insB5	b1893
+fig|83333.1.peg.2989	b3041	GENE:ribB
+fig|83333.1.peg.3210	b3269
+fig|83333.1.peg.3397	b3464	GENE:ftsY
+fig|83333.1.peg.933	b0948	GENE:ycbY
+fig|83333.1.peg.3591	b3655	GENE:yicH
+fig|83333.1.peg.1687	b1703	GENE:ydiA
+fig|83333.1.peg.452	b0456	GENE:ybaA
+fig|83333.1.peg.802	b0816
+fig|83333.1.peg.778	b0792	GENE:ybhR
+fig|83333.1.peg.2032	b2056	GENE:wcaD
+fig|83333.1.peg.2641	b2682
+fig|83333.1.peg.826	b0840	GENE:deoR
+fig|83333.1.peg.1263	b1276	GENE:acnA
+fig|83333.1.peg.30	b0030	GENE:yaaF
+fig|83333.1.peg.3705	b3775	GENE:ppiC
+fig|83333.1.peg.4155	b4245	GENE:pyrB
+fig|83333.1.peg.2043	b2067	GENE:yegE
+fig|83333.1.peg.2186	b2212	GENE:alkB
+fig|83333.1.peg.849	b0863	GENE:artI
+fig|83333.1.peg.381	b0384	GENE:psiF
+fig|83333.1.peg.4216	b4306	GENE:yjhP
+fig|83333.1.peg.3433	b3500	GENE:gor
+fig|83333.1.peg.1905	b1925	GENE:fliS
+fig|83333.1.peg.3558	b3622	GENE:rfaL
+fig|83333.1.peg.1718	b1735	GENE:celD
+fig|83333.1.peg.2728	b2772
+fig|83333.1.peg.630	b0629	GENE:ybeF
+fig|83333.1.peg.4134	b4224	GENE:chpS
+fig|83333.1.peg.2580	b2614	GENE:grpE
+fig|83333.1.peg.785	b0799	GENE:dinG
+fig|83333.1.peg.4261	b4350	GENE:hsdR
+fig|83333.1.peg.2811	b2858m	GENE:ygeN
+fig|83333.1.peg.3901	b3989	GENE:htrC
+fig|83333.1.peg.4000	b4088	GENE:yjcX
+fig|83333.1.peg.2877	b2926	GENE:pgk
+fig|83333.1.peg.1509	b1522
+fig|83333.1.peg.103	b0103	GENE:yacE
+fig|83333.1.peg.1253	b1266	GENE:yciV
+fig|83333.1.peg.818	b0832
+fig|83333.1.peg.3238	b3304	GENE:rplR
+fig|83333.1.peg.3791	b3871	GENE:yihK
+fig|83333.1.peg.2393	b2425	GENE:cysP
+fig|83333.1.peg.1077	b1092	GENE:fabD
+fig|83333.1.peg.486	b0490	GENE:ybbL
+fig|83333.1.peg.2352	b2379
+fig|83333.1.peg.589	b0589	GENE:fepG
+fig|83333.1.peg.809	b0823	GENE:ybiW
+fig|83333.1.peg.4268	b4357	GENE:yjjM
+fig|83333.1.peg.2701	b2745	GENE:ygbO
+fig|83333.1.peg.4166	b4256
+fig|83333.1.peg.1070	b1085
+fig|83333.1.peg.3989	b4079	GENE:fdhF
+fig|83333.1.peg.3654	b3717	GENE:yieJ
+fig|83333.1.peg.2179	b2205	GENE:napG
+fig|83333.1.peg.2401	b2433
+fig|83333.1.peg.1762	b1779	GENE:gapA
+fig|83333.1.peg.4211	b4302	GENE:sgcA
+fig|83333.1.peg.3661	b3724	GENE:phoU
+fig|83333.1.peg.2036	b2060
+fig|83333.1.peg.461	b0465	GENE:aefA
+fig|83333.1.peg.2563	b2596
+fig|83333.1.peg.2871	b2920	GENE:ygfH
+fig|83333.1.peg.3867	b3948	GENE:yijI
+fig|83333.1.peg.3827	b3906	GENE:rhaR
+fig|83333.1.peg.2853	b2901	GENE:bglA
+fig|83333.1.peg.280	b0284	GENE:yagR
+fig|83333.1.peg.1220	b1233	GENE:ychJ
+fig|83333.1.peg.2163	b2188	GENE:yejM
+fig|83333.1.peg.1526	b1538	GENE:dcp
+fig|83333.1.peg.212	b4503
+fig|83333.1.peg.1488	b1501
+fig|83333.1.peg.3732	b3807	GENE:cyaY
+fig|83333.1.peg.554	b0556	GENE:ybcT
+fig|83333.1.peg.3678	b3741	GENE:gidA
+fig|83333.1.peg.1100	b1115	GENE:ycfT
+fig|83333.1.peg.1360	b1370 LocusTag:trs55
+fig|83333.1.peg.239	b0245
+fig|83333.1.peg.516	b0519	GENE:ylbE
+fig|83333.1.peg.4195	b4286
+fig|83333.1.peg.3101	b3156	GENE:yhbS
+fig|83333.1.peg.3873	b3953	GENE:frwD
+fig|83333.1.peg.1828	b1844
+fig|83333.1.peg.4046	b4135	GENE:yjdC
+fig|83333.1.peg.2848	b2896
+fig|83333.1.peg.1131	b1146
+fig|83333.1.peg.2126	b2151	GENE:galS
+fig|83333.1.peg.596	b0596	GENE:entA
+fig|83333.1.peg.1468	b1481
+fig|83333.1.peg.1411	b1425
+fig|83333.1.peg.1157	b1171
+fig|83333.1.peg.2841	b2889
+fig|83333.1.peg.3563	b3627	GENE:rfaI
+fig|83333.1.peg.3021	b3074	GENE:ygjH
+fig|83333.1.peg.1289	b1301	GENE:ordL
+fig|83333.1.peg.645	b0644	GENE:ybeQ
+fig|83333.1.peg.3743	b3818	GENE:yigG
+fig|83333.1.peg.3422	b3489	GENE:yhiK
+fig|83333.1.peg.358	b0361 LocusTag:yi221
+fig|83333.1.peg.978	b4515
+fig|83333.1.peg.2337	b2364	GENE:dsdC
+fig|83333.1.peg.2828	b2876
+fig|83333.1.peg.726	b0734	GENE:cydB
+fig|83333.1.peg.622	b0621	GENE:dcuC
+fig|83333.1.peg.3202	b3260	GENE:yhdG
+fig|83333.1.peg.2887	b2936	GENE:yggG
+fig|83333.1.peg.1244	b1257	GENE:yciE
+fig|83333.1.peg.1618	b1632	GENE:ydgQ
+fig|83333.1.peg.3980	b4070	GENE:nrfA
+fig|83333.1.peg.2689	b2733	GENE:mutS
+fig|83333.1.peg.2151	b2176	GENE:rtn
+fig|83333.1.peg.1112	b1127	GENE:pepT
+fig|83333.1.peg.3568	b3632	GENE:rfaQ
+fig|83333.1.peg.2796	b2843	GENE:kduI
+fig|83333.1.peg.304	b0307	GENE:ykgF
+fig|83333.1.peg.4207	b4298
+fig|83333.1.peg.2140	b2165	GENE:yeiN
+fig|83333.1.peg.2345	b2372
+fig|83333.1.peg.594	b0594	GENE:entE
+fig|83333.1.peg.2402	b2434
+fig|83333.1.peg.648	b0647	GENE:ybeT
+fig|83333.1.peg.2164	b2190	GENE:yejO
+fig|83333.1.peg.1098	b1113	GENE:ycfS
+fig|83333.1.peg.2814	b2861 LocusTag:yi214
+fig|83333.1.peg.2678	b2723	GENE:hycC
+fig|83333.1.peg.2647	b2688	GENE:gshA
+fig|83333.1.peg.3447	b3514	GENE:yhiV
+fig|83333.1.peg.1827	b1843
+fig|83333.1.peg.2825	b2873
+fig|83333.1.peg.3353	b3418	GENE:malT
+fig|83333.1.peg.2105	b2131	GENE:yehZ
+fig|83333.1.peg.1936	b1957
+fig|83333.1.peg.3677	b3740	GENE:gidB
+fig|83333.1.peg.1507	b1520
+fig|83333.1.peg.257	b0262	GENE:afuC
+fig|83333.1.peg.2267	b2293	GENE:yfbT
+fig|83333.1.peg.3019	b3072	GENE:aer
+fig|83333.1.peg.1632	b1646	GENE:sodC
+fig|83333.1.peg.3201	b3259	GENE:prmA
+fig|83333.1.peg.1533	b1545
+fig|83333.1.peg.1270	b1283	GENE:osmB
+fig|83333.1.peg.2909	b2958	GENE:yggN
+fig|83333.1.peg.790	b0804	GENE:ybiX
+fig|83333.1.peg.2399	b2431
+fig|83333.1.peg.3851	b3932	GENE:hslV
+fig|83333.1.peg.2513	b2543
+fig|83333.1.peg.2100	b2127	GENE:yehV
+fig|83333.1.peg.3604	b3667	GENE:uhpC
+fig|83333.1.peg.1467	b1480	GENE:rpsV
+fig|83333.1.peg.1685	b1701	GENE:ydiD
+fig|83333.1.peg.3405	b3472
+fig|83333.1.peg.2107	b2133	GENE:dld
+fig|83333.1.peg.3648	b3711	GENE:yidZ
+fig|83333.1.peg.804	b0818	GENE:ybiR
+fig|83333.1.peg.2469	b2500	GENE:purN
+fig|83333.1.peg.2976	b3029	GENE:ygiN
+fig|83333.1.peg.3012	b3064	GENE:ygjD
+fig|83333.1.peg.3987	b4077	GENE:gltP
+fig|83333.1.peg.799	b0813	GENE:ybiF
+fig|83333.1.peg.3676	b3739	GENE:atpI
+fig|83333.1.peg.911	b0926	GENE:ycbK
+fig|83333.1.peg.1121	b1136	GENE:icdA
+fig|83333.1.peg.3118	b3175	GENE:secG
+fig|83333.1.peg.1495	b1508	GENE:hipB
+fig|83333.1.peg.3490	yi5A	b3557
+fig|83333.1.peg.409	b0412	GENE:yajI
+fig|83333.1.peg.3471	b3538	GENE:yhjU
+fig|83333.1.peg.1352	b1362
+fig|83333.1.peg.1497	b1510	GENE:ydeK
+fig|83333.1.peg.761	b0775	GENE:bioB
+fig|83333.1.peg.2371	b2400	GENE:gltX
+fig|83333.1.peg.2884	b2933	GENE:cmtA
+fig|83333.1.peg.2090	b2118	GENE:yehI
+fig|83333.1.peg.1107	b1122	GENE:ymfA
+fig|83333.1.peg.17	b0017	LocusTag:yi821
+fig|83333.1.peg.2664	b2709	GENE:ygaA
+fig|83333.1.peg.810	b0824	GENE:ybiY
+fig|83333.1.peg.1343	b1353	GENE:sieB
+fig|83333.1.peg.3394	b3461	GENE:rpoH
+fig|83333.1.peg.2276	b2302	GENE:yfcG
+fig|83333.1.peg.4220	b4310
+fig|83333.1.peg.3585	b3649	GENE:rpoZ
+fig|83333.1.peg.2246	b2272	GENE:yfbM
+fig|83333.1.peg.3233	b3299	GENE:rpmJ
+fig|83333.1.peg.1583	b1597	GENE:asr
+fig|83333.1.peg.2595	b2630	GENE:yfjN
+fig|83333.1.peg.3338	b3403	GENE:pckA
+fig|83333.1.peg.4241	b4331
+fig|83333.1.peg.2145	b2170	GENE:yeiO
+fig|83333.1.peg.105	b0106	GENE:hofC
+fig|83333.1.peg.3871	b3951	GENE:pflD
+fig|83333.1.peg.1911	b1931	GENE:yedK
+fig|83333.1.peg.2638	b2677	GENE:proV
+fig|83333.1.peg.2837	b2885	GENE:ygfR
+fig|83333.1.peg.3947	b4559
+fig|83333.1.peg.2551	b2580	GENE:ung
+fig|83333.1.peg.1923	b1943	GENE:fliK
+fig|83333.1.peg.2152	b2177
+fig|83333.1.peg.3806	b3886	GENE:rbn
+fig|83333.1.peg.1254	b1267	GENE:yciO
+fig|83333.1.peg.2353	b2380
+fig|83333.1.peg.3722	b3793	GENE:wecF
+fig|83333.1.peg.2875	b2924	GENE:yggB
+fig|83333.1.peg.722	b0730	GENE:farR
+fig|83333.1.peg.3508	b3574	GENE:yiaJ
+fig|83333.1.peg.3744	b3819	GENE:rarD
+fig|83333.1.peg.2460	b2491
+fig|83333.1.peg.2707	b2751	GENE:cysN
+fig|83333.1.peg.864	b0878
+fig|83333.1.peg.1025	b1040	GENE:csgD
+fig|83333.1.peg.1145	b1160	GENE:ycgW
+fig|83333.1.peg.2245	b2271	GENE:yfbL
+fig|83333.1.peg.3614	b3677	GENE:yidI
+fig|83333.1.peg.1727	b1744	GENE:ydjS
+fig|83333.1.peg.1957	b1980
+fig|83333.1.peg.540	b0544	GENE:ybcK
+fig|83333.1.peg.1754	b1771
+fig|83333.1.peg.3475	b3542	GENE:dppC
+fig|83333.1.peg.1110	b1125	GENE:potB
+fig|83333.1.peg.2970	b3023
+fig|83333.1.peg.3611	b3674	GENE:yidF
+fig|83333.1.peg.684	b0693a	GENE:ybfK
+fig|83333.1.peg.1235	b1248
+fig|83333.1.peg.3784	b3863	GENE:polA
+fig|83333.1.peg.3910	b3997	GENE:hemE
+fig|83333.1.peg.1051	b1066	GENE:rimJ
+fig|83333.1.peg.1567	b1581	GENE:rspA
+fig|83333.1.peg.4252	b4341	GENE:yjiS
+fig|83333.1.peg.719	b0727	GENE:sucB
+fig|83333.1.peg.2403	b2435	GENE:amiA
+fig|83333.1.peg.3425	b3492	GENE:yhiN
+fig|83333.1.peg.2726	b2770
+fig|83333.1.peg.3079	b3134	GENE:agaW
+fig|83333.1.peg.3106	b3161	GENE:mtr
+fig|83333.1.peg.4178	b4268	GENE:idnK
+fig|83333.1.peg.2631	b2670
+fig|83333.1.peg.775	b0789	GENE:ybhO
+fig|83333.1.peg.125	b0125	GENE:hpt
+fig|83333.1.peg.3942	b4033	GENE:malF
+fig|83333.1.peg.1020	b1035	GENE:ycdY
+fig|83333.1.peg.1184	b1198	GENE:ycgC
+fig|83333.1.peg.2593	b2628	GENE:yfjL
+fig|83333.1.peg.1961	b1985	GENE:yeeO
+fig|83333.1.peg.3704	b3774	GENE:ilvC
+fig|83333.1.peg.568	b0570	GENE:ybcZ
+fig|83333.1.peg.786	b0800	GENE:ybiB
+fig|83333.1.peg.1489	b1502
+fig|83333.1.peg.2348	b2375
+fig|83333.1.peg.4158	b4248	GENE:yjgH
+fig|83333.1.peg.67	b0066	GENE:yabJ
+fig|83333.1.peg.3060	b3114	GENE:tdcE
+fig|83333.1.peg.3760	b3833	GENE:ubiE
+fig|83333.1.peg.1087	b1102	GENE:fhuE
+fig|83333.1.peg.2913	b2962	GENE:yggX
+fig|83333.1.peg.2955	b3007
+fig|83333.1.peg.1214	b1225	GENE:narH
+fig|83333.1.peg.2452	b2483
+fig|83333.1.peg.586	b0586	GENE:entF
+fig|83333.1.peg.3426	b3493	GENE:pitA
+fig|83333.1.peg.3804	b3884	GENE:yihW
+fig|83333.1.peg.2019	b2043	GENE:wcaM
+fig|83333.1.peg.3527	b3593	GENE:rhsA
+fig|83333.1.peg.4203	insA7	b4294
+fig|83333.1.peg.2322	b2350
+fig|83333.1.peg.997	b1009
+fig|83333.1.peg.3858	b3939	GENE:metB
+fig|83333.1.peg.894	b0909	GENE:ycaL
+fig|83333.1.peg.1030	b1044
+fig|83333.1.peg.1251	b1264	GENE:trpE
+fig|83333.1.peg.690	b0698a	GENE:kdpF
+fig|83333.1.peg.445	b0448	GENE:mdlA
+fig|83333.1.peg.558	b0560	GENE:nohB
+fig|83333.1.peg.132	b0132	GENE:yadD
+fig|83333.1.peg.2484	b2514	GENE:hisS
+fig|83333.1.peg.1714	b1731
+fig|83333.1.peg.2286	b2312	GENE:purF
+fig|83333.1.peg.53	b0052	GENE:pdxA
+fig|83333.1.peg.3189	b3247	GENE:cafA
+fig|83333.1.peg.1834	b1850	GENE:eda
+fig|83333.1.peg.345	b0348	GENE:mhpB
+fig|83333.1.peg.36	b0035	GENE:caiE
+fig|83333.1.peg.4067	b4154	GENE:frdA
+fig|83333.1.peg.1	b0001	GENE:thrL
+fig|83333.1.peg.2788	b2835	GENE:ygeD
+fig|83333.1.peg.487	b0491	GENE:ybbM
+fig|83333.1.peg.628	b0627	GENE:ybeC
+fig|83333.1.peg.1200	b1214	GENE:ychA
+fig|83333.1.peg.3997	b4085	GENE:yjcU
+fig|83333.1.peg.83	b0082	GENE:yabC
+fig|83333.1.peg.2984	b3037	GENE:ygiB
+fig|83333.1.peg.3511	b3577	GENE:yiaM
+fig|83333.1.peg.1074	b1089	GENE:rpmF
+fig|83333.1.peg.232	b0237	GENE:pepD
+fig|83333.1.peg.1413	b1427	GENE:rimL
+fig|83333.1.peg.1668	b1684	GENE:ydiC
+fig|83333.1.peg.678	b0688	GENE:pgm
+fig|83333.1.peg.4141	b4231	GENE:yjfF
+fig|83333.1.peg.906	b0921	GENE:smtA
+fig|83333.1.peg.724	b0732	GENE:ybgG
+fig|83333.1.peg.3268	b3334	GENE:pshM
+fig|83333.1.peg.2914	b2963	GENE:mltC
+fig|83333.1.peg.3550	b3614
+fig|83333.1.peg.3906	b3993	GENE:thiE
+fig|83333.1.peg.3516	b3582	GENE:sgbU
+fig|83333.1.peg.3633	b3697	GENE:yidA
+fig|83333.1.peg.3069	b3124
+fig|83333.1.peg.8	b0008	GENE:talB
+fig|83333.1.peg.391	b0394	GENE:yajF
+fig|83333.1.peg.1383	b1393	GENE:ydbS
+fig|83333.1.peg.1865	b1881	GENE:cheZ
+fig|83333.1.peg.2830	b2878
+fig|83333.1.peg.4047	b4136	GENE:dsbD
+fig|83333.1.peg.1285	b1297
+fig|83333.1.peg.1512	b1525
+fig|83333.1.peg.385	b0388	GENE:aroL
+fig|83333.1.peg.57	b0056	GENE:yabP
+fig|83333.1.peg.400	b0403	GENE:malZ
+fig|83333.1.peg.2574	b2607	GENE:trmD
+fig|83333.1.peg.4040	b4128	GENE:yjdK
+fig|83333.1.peg.2766	b2810
+fig|83333.1.peg.1135	b1150	GENE:ymfR
+fig|83333.1.peg.4276	b4365	GENE:yjjQ
+fig|83333.1.peg.1243	b1256	GENE:yciD
+fig|83333.1.peg.2763	b2807	GENE:ygdD
+fig|83333.1.peg.3224	b3291	GENE:mscL
+fig|83333.1.peg.1304	b1316	GENE:ycjT
+fig|83333.1.peg.2888	b2937	GENE:speB
+fig|83333.1.peg.87	b0086	GENE:murF
+fig|83333.1.peg.1059	b1074	GENE:flgC
+fig|83333.1.peg.3954	b4044	GENE:dinF
+fig|83333.1.peg.1733	b1750	GENE:ydjX
+fig|83333.1.peg.29	b0029	GENE:lytB
+fig|83333.1.peg.2866	b2915	GENE:yqfE
+fig|83333.1.peg.3559	b3623	GENE:rfaK
+fig|83333.1.peg.1814	b1830	GENE:prc
+fig|83333.1.peg.3058	b3112	GENE:yhaQ
+fig|83333.1.peg.1210	b1221	GENE:narL
+fig|83333.1.peg.3007	b3059	GENE:ygiH
+fig|83333.1.peg.3961	b4051	GENE:qor
+fig|83333.1.peg.3538	b3602	GENE:yibL
+fig|83333.1.peg.3825	b3904	GENE:rhaB
+fig|83333.1.peg.1590	b1604
+fig|83333.1.peg.4143	b4233	GENE:yjfG
+fig|83333.1.peg.250	b0255 yi91a
+fig|83333.1.peg.162	b0161	GENE:htrA
+fig|83333.1.peg.747	b0761	GENE:modE
+fig|83333.1.peg.4138	b4228	GENE:ytfR
+fig|83333.1.peg.852	b0866
+fig|83333.1.peg.2542	b2571	GENE:rseB
+fig|83333.1.peg.2237	b2263	GENE:yfbB
+fig|83333.1.peg.3223	b3290	GENE:trkA
+fig|83333.1.peg.1544	b1556
+fig|83333.1.peg.2065	b4530
+fig|83333.1.peg.2446	b2477	GENE:nlpB
+fig|83333.1.peg.3923	b4014	GENE:aceB
+fig|83333.1.peg.3481	b3549	GENE:tag
+fig|83333.1.peg.2618	b2657
+fig|83333.1.peg.539	b0543	GENE:emrE
+fig|83333.1.peg.2002	b2027
+fig|83333.1.peg.69	b0068	GENE:tbpA
+fig|83333.1.peg.2715	b2759	GENE:ygcK
+fig|83333.1.peg.2900	b2949	GENE:yqgF
+fig|83333.1.peg.2857	b2905	GENE:gcvT
+fig|83333.1.peg.2792	b2839	GENE:lysR
+fig|83333.1.peg.1678	b1694	GENE:ydiF
+fig|83333.1.peg.2434	b2466
+fig|83333.1.peg.2844	b2892	GENE:recJ
+fig|83333.1.peg.456	b0460	GENE:hha
+fig|83333.1.peg.1063	b1078	GENE:flgG
+fig|83333.1.peg.3974	b4064	GENE:yjcD
+fig|83333.1.peg.3597	b3661	GENE:nlpA
+fig|83333.1.peg.397	b0400	GENE:phoR
+fig|83333.1.peg.4123	b4213	GENE:cpdB
+fig|83333.1.peg.2047	b2071
+fig|83333.1.peg.3590	b3654	GENE:yicE
+fig|83333.1.peg.465	b0469	GENE:apt
+fig|83333.1.peg.3482	b3550	GENE:yiaC
+fig|83333.1.peg.2310	b2336	GENE:yfcS
+fig|83333.1.peg.3032	b3085	GENE:ygjP
+fig|83333.1.peg.985	b0998	GENE:torD
+fig|83333.1.peg.1316	b1327
+fig|83333.1.peg.387	b0390	GENE:aroM
+fig|83333.1.peg.3937	b4028	GENE:yjbG
+fig|83333.1.peg.2626	b2665	GENE:ygaU
+fig|83333.1.peg.3793	b3873	GENE:yihM
+fig|83333.1.peg.481	b0485	GENE:ybaS
+fig|83333.1.peg.2585	b2619
+fig|83333.1.peg.326	b0329	GENE:yahO
+fig|83333.1.peg.480	b0484	GENE:ybaR
+fig|83333.1.peg.1848	b1864	GENE:yebC
+fig|83333.1.peg.3707	b3779	GENE:gppA
+fig|83333.1.peg.3988	b4078	GENE:yjcO
+fig|83333.1.peg.1763	b1780	GENE:yeaD
+fig|83333.1.peg.396	b0399	GENE:phoB
+fig|83333.1.peg.2584	b2618
+fig|83333.1.peg.3112	b3167	GENE:rbfA
+fig|83333.1.peg.1898	b1918	GENE:yecS
+fig|83333.1.peg.2148	b2173	GENE:yeiR
+fig|83333.1.peg.4162	b4252
+fig|83333.1.peg.1602	b1616	GENE:uidB
+fig|83333.1.peg.3503	b3569	GENE:xylR
+fig|83333.1.peg.2039	b2063
+fig|83333.1.peg.4038	b4126	GENE:yjdI
+fig|83333.1.peg.1580	b1594	GENE:mlc
+fig|83333.1.peg.3208	b3266	GENE:acrF
+fig|83333.1.peg.47	b0046	GENE:yabF
+fig|83333.1.peg.4082	b4172	GENE:hfq
+fig|83333.1.peg.3872	b3952	GENE:pflC
+fig|83333.1.peg.4075	b4162
+fig|83333.1.peg.2254	b2280	GENE:nuoJ
+fig|83333.1.peg.2187	b2213	GENE:ada
+fig|83333.1.peg.2930	b2980	GENE:glcC
+fig|83333.1.peg.3774	b3848
+fig|83333.1.peg.215	b0220	GENE:ykfE
+fig|83333.1.peg.3837	b3918	GENE:cdh
+fig|83333.1.peg.1480	b1493	GENE:gadB
+fig|83333.1.peg.4139	b4229	GENE:ytfS
+fig|83333.1.peg.963	b0979	GENE:appB
+fig|83333.1.peg.3386	b3453	GENE:ugpB
+fig|83333.1.peg.958	b0974	GENE:hyaC
+fig|83333.1.peg.2176	b2202	GENE:napC
+fig|83333.1.peg.2012	b2036	GENE:glf
+fig|83333.1.peg.691	b0699	GENE:ybfA
+fig|83333.1.peg.3347	b3412	GENE:bioH
+fig|83333.1.peg.153	b0152	GENE:fhuD
+fig|83333.1.peg.3979	b4069	GENE:acs
+fig|83333.1.peg.1250	b1263	GENE:trpD
+fig|83333.1.peg.4081	b4171	GENE:miaA
+fig|83333.1.peg.2265	b2291
+fig|83333.1.peg.2677	b2722	GENE:hycD
+fig|83333.1.peg.2799	b2846	GENE:yqeH
+fig|83333.1.peg.144	b0144	GENE:yadB
+fig|83333.1.peg.842	b0856	GENE:potH
+fig|83333.1.peg.3325	b3390m	GENE:aroK
+fig|83333.1.peg.986	b0999	GENE:yccD
+fig|83333.1.peg.1374	b1384	GENE:feaR
+fig|83333.1.peg.2523	b2553	GENE:glnB
+fig|83333.1.peg.2131	b2156	GENE:lysP
+fig|83333.1.peg.903	b0918	GENE:kdsB
+fig|83333.1.peg.788	b0802	GENE:ybiJ
+fig|83333.1.peg.1792	b1809
+fig|83333.1.peg.990	b1003	GENE:yccJ
+fig|83333.1.peg.2997	b3049	GENE:glgS
+fig|83333.1.peg.658	b0657	GENE:lnt
+fig|83333.1.peg.3211	b3270	GENE:yhdY
+fig|83333.1.peg.4169	b4259	GENE:holC
+fig|83333.1.peg.974	insB4	b0988
+fig|83333.1.peg.1437	b1451
+fig|83333.1.peg.3761	b3834	GENE:yigP
+fig|83333.1.peg.4301	b4393	GENE:trpR
+fig|83333.1.peg.2338	b2365	GENE:dsdX
+fig|83333.1.peg.2958	b3010	GENE:yqhC
+fig|83333.1.peg.71	b0070	GENE:yabM
+fig|83333.1.peg.4133	b4223	GENE:yjfA
+fig|83333.1.peg.1290	b1302	GENE:goaG
+fig|83333.1.peg.1236	b1249	GENE:cls
+fig|83333.1.peg.1686	b1702	GENE:ppsA
+fig|83333.1.peg.1776	b1793	GENE:yoaF
+fig|83333.1.peg.243	b0248	GENE:yafX
+fig|83333.1.peg.1344	b1353a	GENE:ydaF
+fig|83333.1.peg.4265	b4354	GENE:yjiY
+fig|83333.1.peg.934	b0949	GENE:uup
+fig|83333.1.peg.3155	b3212	GENE:gltB
+fig|83333.1.peg.306	b0309
+fig|83333.1.peg.4236	b4326
+fig|83333.1.peg.815	b0829
+fig|83333.1.peg.2537	b2567	GENE:rnc
+fig|83333.1.peg.33	b0033	GENE:carB
+fig|83333.1.peg.4097	b4187
+fig|83333.1.peg.1474	b1487
+fig|83333.1.peg.666	b0676	GENE:nagC
+fig|83333.1.peg.3182	b3238	GENE:yhcN
+fig|83333.1.peg.2723	b2767	GENE:ygcO
+fig|83333.1.peg.3666	b3729	GENE:glmS
+fig|83333.1.peg.703	b0711	GENE:ybgJ
+fig|83333.1.peg.1211	b1222	GENE:narX
+fig|83333.1.peg.3006	b3058	GENE:ygiG
+fig|83333.1.peg.1813	b1829	GENE:htpX
+fig|83333.1.peg.3360	b3426	GENE:glpD
+fig|83333.1.peg.3459	b3526	GENE:kdgK
+fig|83333.1.peg.4022	b4110
+fig|83333.1.peg.1525	b1537	GENE:ydeJ
+fig|83333.1.peg.1006	b1018	GENE:ycdO
+fig|83333.1.peg.921	b0936	GENE:ycbO
+fig|83333.1.peg.2614	b2651
+fig|83333.1.peg.1853	b1869
+fig|83333.1.peg.610	b0609
+fig|83333.1.peg.15	b0015	GENE:dnaJ
+fig|83333.1.peg.2074	b2099
+fig|83333.1.peg.3323	b3388	GENE:damX
+fig|83333.1.peg.183	b0183	GENE:rnhB
+fig|83333.1.peg.293	b0296	GENE:ykgM
+fig|83333.1.peg.223	b0228	GENE:yafM
+fig|83333.1.peg.1177	b1191
+fig|83333.1.peg.4176	b4266	GENE:idnO
+fig|83333.1.peg.2923	b2973
+fig|83333.1.peg.3044	b3097	GENE:yqjC
+fig|83333.1.peg.1872	b1888	GENE:cheA
+fig|83333.1.peg.2209	b2236	GENE:yfaE
+fig|83333.1.peg.3845	b3926	GENE:glpK
+fig|83333.1.peg.1747	b1764	GENE:selD
+fig|83333.1.peg.4295	b4387	GENE:smp
+fig|83333.1.peg.2819	b2867	GENE:ygeT
+fig|83333.1.peg.2381	b2413	GENE:cysZ
+fig|83333.1.peg.3445	b3512	GENE:yhiE
+fig|83333.1.peg.1974	b2000
+fig|83333.1.peg.3865	b3946	GENE:talC
+fig|83333.1.peg.3257	b3323	GENE:yheD
+fig|83333.1.peg.1644	b1658	GENE:purR
+fig|83333.1.peg.3546	b3610	GENE:grxC
+fig|83333.1.peg.4017	b4105	GENE:phnD
+fig|83333.1.peg.699	b0707	GENE:ybgA
+fig|83333.1.peg.3995	b4083	GENE:yjcS
+fig|83333.1.peg.287	b0291	GENE:yagX
+fig|83333.1.peg.3073	b3128	GENE:yhaG
+fig|83333.1.peg.2093	b2120	GENE:yehM
+fig|83333.1.peg.4186	b4278 LocusTag:yi41
+fig|83333.1.peg.1800	b1817	GENE:manX
+fig|83333.1.peg.2575	b2608
+fig|83333.1.peg.4248	b4337	GENE:yjiO
+fig|83333.1.peg.3893	b3981	GENE:secE
+fig|83333.1.peg.4116	b4206	GENE:ytfB
+fig|83333.1.peg.532	b0535	GENE:fimZ
+fig|83333.1.peg.1262	b1275	GENE:cysB
+fig|83333.1.peg.718	b0726	GENE:sucA
+fig|83333.1.peg.1163	b1177	GENE:ycgJ
+fig|83333.1.peg.3620	b3684	GENE:yidP
+fig|83333.1.peg.3794	b3874	GENE:yihN
+fig|83333.1.peg.943	b0958	GENE:sulA
+fig|83333.1.peg.2651	b2697	GENE:alaS
+fig|83333.1.peg.3476	b3543	GENE:dppB
+fig|83333.1.peg.1768	b1785	GENE:yeaI
+fig|83333.1.peg.3066	b3120	GENE:yhaB
+fig|83333.1.peg.3601	b3664	GENE:yicO
+fig|83333.1.peg.1902	b1922
+fig|83333.1.peg.2244	b2270	GENE:yfbK
+fig|83333.1.peg.1012	b1024	GENE:ycdS
+fig|83333.1.peg.3023	b3076
+fig|83333.1.peg.139	b0139	GENE:htrE
+fig|83333.1.peg.859	b0873	GENE:ybjW
+fig|83333.1.peg.2199	b2224	GENE:atoB
+fig|83333.1.peg.1989	b2015
+fig|83333.1.peg.1128	b1143	GENE:ymfI
+fig|83333.1.peg.1916	b1936
+fig|83333.1.peg.3450	b3517	GENE:gadA
+fig|83333.1.peg.3641	b3704a	GENE:yidD
+fig|83333.1.peg.863	b0877	GENE:ybjX
+fig|83333.1.peg.2753	b2797	GENE:sdaB
+fig|83333.1.peg.3302	b3367m	GENE:nirC
+fig|83333.1.peg.3330	b3395
+fig|83333.1.peg.3917	b4004	GENE:hydG
+fig|83333.1.peg.962	b0978	GENE:appC
+fig|83333.1.peg.2505	b2535	GENE:csiE
+fig|83333.1.peg.21	insB1	b0021
+fig|83333.1.peg.2777	b2824
+fig|83333.1.peg.2115	b2140	GENE:yohI
+fig|83333.1.peg.2169	b2195	GENE:dsbE
+fig|83333.1.peg.561	b0563	GENE:ylcE
+fig|83333.1.peg.4190	b4282	GENE:yjhE
+fig|83333.1.peg.1298	b1310
+fig|83333.1.peg.1971	b1997 LocusTag:yi213
+fig|83333.1.peg.3090	b3145	GENE:yraK
+fig|83333.1.peg.2220	b2247
+fig|83333.1.peg.4280	b4372	GENE:holD
+fig|83333.1.peg.2960	b3012
+fig|83333.1.peg.1091	b1106	GENE:ycfN
+fig|83333.1.peg.3887	b3967	GENE:murI
+fig|83333.1.peg.2423	b2455	GENE:eutE
+fig|83333.1.peg.1547	b1559
+fig|83333.1.peg.2211	b2238	GENE:yfaH
+fig|83333.1.peg.1625	b1639	GENE:ydhA
+fig|83333.1.peg.1335	b1346	GENE:ydaQ
+fig|83333.1.peg.3754	b3827	GENE:yigM
+fig|83333.1.peg.1534	b1546	GENE:ydfM
+fig|83333.1.peg.2512	b2542	GENE:hcaD
+fig|83333.1.peg.3171	b3227	GENE:yhcL
+fig|83333.1.peg.1672	b1688
+fig|83333.1.peg.170	b0170	GENE:tsf
+fig|83333.1.peg.1881	b1897	GENE:otsB
+fig|83333.1.peg.2229	b2256
+fig|83333.1.peg.2386	b2418	GENE:pdxK
+fig|83333.1.peg.1780	b1797	GENE:yeaR
+fig|83333.1.peg.2376	b2409	GENE:yfeR
+fig|83333.1.peg.3317	b3382	GENE:yhfY
+fig|83333.1.peg.3684	b3746	GENE:yieN
+fig|83333.1.peg.237	b0242	GENE:proB
+fig|83333.1.peg.1279	b1291	GENE:sapD
+fig|83333.1.peg.3292	b3357	GENE:crp
+fig|83333.1.peg.158	b0157	GENE:yadS
+fig|83333.1.peg.410	b0413	GENE:ybaD
+fig|83333.1.peg.4106	b4196	GENE:sgaH
+fig|83333.1.peg.2500	b2530
+fig|83333.1.peg.1062	b1077	GENE:flgF
+fig|83333.1.peg.2962	b3014	GENE:yqhH
+fig|83333.1.peg.3583	b3647	GENE:yicF
+fig|83333.1.peg.3285	b3350	GENE:kefB
+fig|83333.1.peg.3941	b4032	GENE:malG
+fig|83333.1.peg.416	b0419	GENE:yajO
+fig|83333.1.peg.114	b0114	GENE:aceE
+fig|83333.1.peg.1556	b1569	GENE:dicC
+fig|83333.1.peg.883	b0898	GENE:ycaD
+fig|83333.1.peg.3468	b3535	GENE:yhjR
+fig|83333.1.peg.3078	b3133
+fig|83333.1.peg.256	b0261	GENE:yagD
+fig|83333.1.peg.2934	b2984	GENE:yghR
+fig|83333.1.peg.3830	b3909	GENE:kdgT
+fig|83333.1.peg.3625	b3689	GENE:yidR
+fig|83333.1.peg.1018	b1033	GENE:ycdW
+fig|83333.1.peg.3124	b3181
+fig|83333.1.peg.366	b0369	GENE:hemB
+fig|83333.1.peg.3135	b3192	GENE:yrbC
+fig|83333.1.peg.3686	b3748	GENE:rbsD
+fig|83333.1.peg.2308	b2334
+fig|83333.1.peg.3248	b3314	GENE:rpsC
+fig|83333.1.peg.4090	b4180	GENE:yjfH
+fig|83333.1.peg.2290	b2316	GENE:accD
+fig|83333.1.peg.2294	b2320	GENE:pdxB
+fig|83333.1.peg.2410	b2442
+fig|83333.1.peg.316	b0319	GENE:yahE
+fig|83333.1.peg.2080	b2105	GENE:yohL
+fig|83333.1.peg.1338	b1349	GENE:recT
+fig|83333.1.peg.240	b0246	GENE:yafW
+fig|83333.1.peg.3097	b3152	GENE:yraR
+fig|83333.1.peg.2058	b2082	GENE:ogrK
+fig|83333.1.peg.2361	b2388	GENE:glk
+fig|83333.1.peg.1822	b1838
+fig|83333.1.peg.2238	b2264	GENE:menD
+fig|83333.1.peg.3177	b3233	GENE:yhcB
+fig|83333.1.peg.1151	b1166	GENE:ymgB
+fig|83333.1.peg.2496	b2526	GENE:hscA
+fig|83333.1.peg.3053	b3106	GENE:yhaK
+fig|83333.1.peg.735	b0742	GENE:ybgF
+fig|83333.1.peg.1801	b1818	GENE:manY
+fig|83333.1.peg.505	b0509	GENE:ybbQ
+fig|83333.1.peg.276	b0280	GENE:yagN
+fig|83333.1.peg.3819	b3898	GENE:frvX
+fig|83333.1.peg.2596	b2631	GENE:yfjO
+fig|83333.1.peg.246	b0251	GENE:yafY
+fig|83333.1.peg.3232	b3298	GENE:rpsM
+fig|83333.1.peg.3381	b3448	GENE:yhhA
+fig|83333.1.peg.3723	b3794	GENE:wecG
+fig|83333.1.peg.2654	b2699	GENE:recA
+fig|83333.1.peg.2404	b2436	GENE:hemF
+fig|83333.1.peg.3745	b3820	GENE:yigI
+fig|83333.1.peg.489	b0493	GENE:ybbO
+fig|83333.1.peg.3144	b3201	GENE:yhbG
+fig|83333.1.peg.3907	b3994	GENE:thiC
+fig|83333.1.peg.3953	b4043	GENE:lexA
+fig|83333.1.peg.490	b0494	GENE:tesA
+fig|83333.1.peg.1185	b1199
+fig|83333.1.peg.2300	b2326
+fig|83333.1.peg.3225	b3291a	GENE:yhdL
+fig|83333.1.peg.531	b0534	GENE:sfmF
+fig|83333.1.peg.299	b0302
+fig|83333.1.peg.1255	b1268	GENE:yciQ
+fig|83333.1.peg.3059	b3113	GENE:yhaR
+fig|83333.1.peg.3519	b3585	GENE:yiaU
+fig|83333.1.peg.4177	b4267	GENE:idnD
+fig|83333.1.peg.3564	b3628	GENE:rfaB
+fig|83333.1.peg.3242	b3308	GENE:rplE
+fig|83333.1.peg.2708	b2752	GENE:cysD
+fig|83333.1.peg.1933	b1953
+fig|83333.1.peg.723	b0731	GENE:hrsA
+fig|83333.1.peg.3509	b3575	GENE:yiaK
+fig|83333.1.peg.4240	b4330	GENE:yjiH
+fig|83333.1.peg.1234	b1247	GENE:oppF
+fig|83333.1.peg.2619	b2658
+fig|83333.1.peg.4066	b4153	GENE:frdB
+fig|83333.1.peg.464	b0468	GENE:ybaN
+fig|83333.1.peg.2129	b2154	GENE:yeiG
+fig|83333.1.peg.2417	b2449
+fig|83333.1.peg.4253	b4342	GENE:yjiT
+fig|83333.1.peg.1564	b1578
+fig|83333.1.peg.4136	b4226	GENE:ppa
+fig|83333.1.peg.2725	b2769
+fig|83333.1.peg.3424	b3491	GENE:yhiM
+fig|83333.1.peg.2461	b2492	GENE:focB
+fig|83333.1.peg.3042	b3095	GENE:yqjA
+fig|83333.1.peg.3474	b3541	GENE:dppD
+fig|83333.1.peg.1575	b1589
+fig|83333.1.peg.213	b0218	GENE:yafU
+fig|83333.1.peg.3061	b3115	GENE:tdcD
+fig|83333.1.peg.4157	b4247	GENE:yjgG
+fig|83333.1.peg.2347	b2374
+fig|83333.1.peg.2594	b2629	GENE:yfjM
+fig|83333.1.peg.2284	b2310	GENE:argT
+fig|83333.1.peg.3404	b3471	GENE:yhhQ
+fig|83333.1.peg.3720	b3791	GENE:wecE
+fig|83333.1.peg.4088	b4178	GENE:yjeB
+fig|83333.1.peg.2279	b2305	GENE:yfcI
+fig|83333.1.peg.877	b0892	GENE:ycaJ
+fig|83333.1.peg.2020	b2044	GENE:wcaL
+fig|83333.1.peg.595	b0595	GENE:entB
+fig|83333.1.peg.2732	b2776	GENE:ygcE
+fig|83333.1.peg.1506	b1519
+fig|83333.1.peg.1481	b1494	GENE:pqqL
+fig|83333.1.peg.647	b0646	GENE:ybeS
+fig|83333.1.peg.4096	b4186	GENE:yjfC
+fig|83333.1.peg.2133	b2158	GENE:yeiH
+fig|83333.1.peg.2813	b2860 LocusTag:yi224
+fig|83333.1.peg.4083	b4173	GENE:hflX
+fig|83333.1.peg.1227	b1240
+fig|83333.1.peg.2268	b2294
+fig|83333.1.peg.811	b0825	GENE:mipB
+fig|83333.1.peg.2108	b2134	GENE:pbpG
+fig|83333.1.peg.4294	b4386	GENE:lplA
+fig|83333.1.peg.1271	b1284
+fig|83333.1.peg.2173	b2199	GENE:ccmC
+fig|83333.1.peg.3096	b3151	GENE:yraQ
+fig|83333.1.peg.2027	b2051	GENE:wcaH
+fig|83333.1.peg.754	b0768	GENE:ybhD
+fig|83333.1.peg.2125	b2150	GENE:mglB
+fig|83333.1.peg.1106	b1121
+fig|83333.1.peg.2808	b2855	GENE:ygeK
+fig|83333.1.peg.3859	b3940	GENE:metL
+fig|83333.1.peg.912	b0927	GENE:ycbL
+fig|83333.1.peg.1524	b1536	GENE:ydeI
+fig|83333.1.peg.2720	b2764	GENE:cysJ
+fig|83333.1.peg.2820	b2868
+fig|83333.1.peg.4254	b4343	GENE:yjiU
+fig|83333.1.peg.2744	b2788	GENE:ygcY
+fig|83333.1.peg.2826	b2874	GENE:yqeA
+fig|83333.1.peg.3922	b4013	GENE:metA
+fig|83333.1.peg.1960	b1983
+fig|83333.1.peg.2978	b3031	GENE:yqiA
+fig|83333.1.peg.3911	b3998	GENE:nfi
+fig|83333.1.peg.2998	b3050
+fig|83333.1.peg.3200	b3258
+fig|83333.1.peg.1739	b1756
+fig|83333.1.peg.2977	b3030	GENE:parE
+fig|83333.1.peg.1328	b1339	GENE:ydaK
+fig|83333.1.peg.609	b0608	GENE:ybdR
+fig|83333.1.peg.1659	b1675
+fig|83333.1.peg.2908	b2957	GENE:ansB
+fig|83333.1.peg.2001	b2026	GENE:hisI
+fig|83333.1.peg.477	b0481	GENE:ybaK
+fig|83333.1.peg.629	b0628	GENE:lipA
+fig|83333.1.peg.4160	b4251
+fig|83333.1.peg.171	b0171	GENE:pyrH
+fig|83333.1.peg.2885	b2934	GENE:cmtB
+fig|83333.1.peg.3586	b3650	GENE:spoT
+fig|83333.1.peg.1351	b1361	GENE:ydaW
+fig|83333.1.peg.3986	b4076	GENE:nrfG
+fig|83333.1.peg.793	b0807	GENE:ybiN
+fig|83333.1.peg.1496	b1509
+fig|83333.1.peg.798	b0812	GENE:dps
+fig|83333.1.peg.2764	b2808	GENE:gcvA
+fig|83333.1.peg.2648	b2689
+fig|83333.1.peg.2985	b3038	GENE:ygiC
+fig|83333.1.peg.841	b0855	GENE:potG
+fig|83333.1.peg.3439	b3506
+fig|83333.1.peg.1513	b1526	GENE:yneJ
+fig|83333.1.peg.2394	b2426
+fig|83333.1.peg.3013	b3065	GENE:rpsU
+fig|83333.1.peg.3316	b3381	GENE:yhfX
+fig|83333.1.peg.2069	b2094	GENE:gatA
+fig|83333.1.peg.2991	b3043	GENE:ygiL
+fig|83333.1.peg.2106	b2132	GENE:bglX
+fig|83333.1.peg.408	b0411	GENE:tsx
+fig|83333.1.peg.3255	b3321	GENE:rpsJ
+fig|83333.1.peg.3448	b3515	GENE:yhiW
+fig|83333.1.peg.430	b0433	GENE:ampG
+fig|83333.1.peg.4072	b4159	GENE:yjeP
+fig|83333.1.peg.611	b0610	GENE:rnk
+fig|83333.1.peg.764	b0778	GENE:bioD
+fig|83333.1.peg.2801	b2848
+fig|83333.1.peg.620	b0619	GENE:citA
+fig|83333.1.peg.835	b0849	GENE:grxA
+fig|83333.1.peg.1293	b1305	GENE:pspB
+fig|83333.1.peg.4221	b4311	GENE:yjhA
+fig|83333.1.peg.652	b0651	GENE:ybeK
+fig|83333.1.peg.991	b1004	GENE:wrbA
+fig|83333.1.peg.3126	b3183	GENE:yhbZ
+fig|83333.1.peg.4217	b4307	GENE:yjhQ
+fig|83333.1.peg.2867	b2916	GENE:iciA
+fig|83333.1.peg.3050	b3103	GENE:yhaH
+fig|83333.1.peg.3540	b3604	GENE:lldR
+fig|83333.1.peg.4144	b4234	GENE:yjgA
+fig|83333.1.peg.917	b0932	GENE:pepN
+fig|83333.1.peg.1144	b1159	GENE:mcrA
+fig|83333.1.peg.3735	b3809	GENE:dapF
+fig|83333.1.peg.1866	b1882	GENE:cheY
+fig|83333.1.peg.4277	b4366	GENE:bglJ
+fig|83333.1.peg.1134	b1149	GENE:ymfN
+fig|83333.1.peg.4191	b4283
+fig|83333.1.peg.3480	b3548
+fig|83333.1.peg.1732	b1749	GENE:xthA
+fig|83333.1.peg.1242	b1255	GENE:yciC
+fig|83333.1.peg.3807	b3887	GENE:yihZ
+fig|83333.1.peg.3632	b3696	GENE:yidX
+fig|83333.1.peg.1207	b1218	GENE:chaC
+fig|83333.1.peg.3675	b3738	GENE:atpB
+fig|83333.1.peg.3539	b3603	GENE:lldP
+fig|83333.1.peg.3697	b3766	GENE:ilvL
+fig|83333.1.peg.1043	b1058	GENE:yceO
+fig|83333.1.peg.1182	b1196	GENE:ycgY
+fig|83333.1.peg.3536	b3601	GENE:mtlR
+fig|83333.1.peg.4041	b4129	GENE:lysU
+fig|83333.1.peg.730	b0737	GENE:tolQ
+fig|83333.1.peg.2153	b2178	GENE:yejB
+fig|83333.1.peg.518	b0521	GENE:arcC
+fig|83333.1.peg.331	b0334	GENE:prpD
+fig|83333.1.peg.4142	b4232	GENE:fbp
+fig|83333.1.peg.1956	b1979
+fig|83333.1.peg.1598	b1612	GENE:fumA
+fig|83333.1.peg.1972	b1998
+fig|83333.1.peg.737	b0751	GENE:pnuC
+fig|83333.1.peg.3489	b3556a	GENE:yiaZ
+fig|83333.1.peg.1591	b1605
+fig|83333.1.peg.216	b0221	GENE:yafH
+fig|83333.1.peg.58	b0057	GENE:yabQ
+fig|83333.1.peg.3510	b3576	GENE:yiaL
+fig|83333.1.peg.2319	b2346	GENE:vacJ
+fig|83333.1.peg.2495	b2525	GENE:fdx
+fig|83333.1.peg.2146	b2171
+fig|83333.1.peg.3033	b3086	GENE:ygjQ
+fig|83333.1.peg.1064	b1079	GENE:flgH
+fig|83333.1.peg.384	b0387	GENE:yaiI
+fig|83333.1.peg.538	b0542
+fig|83333.1.peg.2716	b2760
+fig|83333.1.peg.3785	b3865	GENE:yihA
+fig|83333.1.peg.2903	b2952	GENE:yggT
+fig|83333.1.peg.142	b0142	GENE:folK
+fig|83333.1.peg.1435	b1449	GENE:yncB
+fig|83333.1.peg.3879	b3959	GENE:argB
+fig|83333.1.peg.1052	b1067	GENE:yceH
+fig|83333.1.peg.403	b0406	GENE:tgt
+fig|83333.1.peg.1671	b1687	GENE:ydiJ
+fig|83333.1.peg.2514	b2544	GENE:yphB
+fig|83333.1.peg.755	b0769	GENE:ybhH
+fig|83333.1.peg.4204	b4295	GENE:yjhU
+fig|83333.1.peg.320	b0323	GENE:yahI
+fig|83333.1.peg.3835	b3916	GENE:pfkA
+fig|83333.1.peg.482	b0486	GENE:ybaT
+fig|83333.1.peg.851	b0865	GENE:ybjP
+fig|83333.1.peg.895	b0910	GENE:cmk
+fig|83333.1.peg.1937	b1958	GENE:yedI
+fig|83333.1.peg.9	b0009	GENE:mog
+fig|83333.1.peg.942	b0957	GENE:ompA
+fig|83333.1.peg.1692	b1708	GENE:nlpC
+fig|83333.1.peg.2586	b2620	GENE:smpB
+fig|83333.1.peg.2046	b2070
+fig|83333.1.peg.3167	b3223	GENE:yhcJ
+fig|83333.1.peg.2191	b2216	GENE:yojN
+fig|83333.1.peg.787	b0801	GENE:ybiC
+fig|83333.1.peg.1929	b1949	GENE:fliQ
+fig|83333.1.peg.2435	b2467	GENE:yffH
+fig|83333.1.peg.266	b0270	GENE:yagG
+fig|83333.1.peg.2629	b2668	GENE:ygaP
+fig|83333.1.peg.2889	b2938	GENE:speA
+fig|83333.1.peg.2971	b3024	GENE:ygiW
+fig|83333.1.peg.386	b0389	GENE:yaiA
+fig|83333.1.peg.3748	b4568
+fig|83333.1.peg.1366	b1376	GENE:ynaF
+fig|83333.1.peg.2954	b3006	GENE:exbB
+fig|83333.1.peg.3258	b3324	GENE:yheE
+fig|83333.1.peg.2485	b2515	GENE:gcpE
+fig|83333.1.peg.3526	b3592	GENE:yibF
+fig|83333.1.peg.84	b0083	GENE:ftsL
+fig|83333.1.peg.1086	b1101	GENE:ptsG
+fig|83333.1.peg.2188	b4532
+fig|83333.1.peg.4263	b4352	GENE:yjiA
+fig|83333.1.peg.422	b0425	GENE:apbA
+fig|83333.1.peg.1711	b1728
+fig|83333.1.peg.2084	b2109	GENE:yehB
+fig|83333.1.peg.3805	b3885
+fig|83333.1.peg.2098	b2125
+fig|83333.1.peg.2559	b2592	GENE:clpB
+fig|83333.1.peg.2854	b2902	GENE:ygfF
+fig|83333.1.peg.3669	b3732	GENE:atpD
+fig|83333.1.peg.1384	b1394
+fig|83333.1.peg.3188	b3244	GENE:tldD
+fig|83333.1.peg.54	b0053	GENE:surA
+fig|83333.1.peg.3362	b3428	GENE:glgP
+fig|83333.1.peg.749	b0763	GENE:modA
+fig|83333.1.peg.3612	b3675	GENE:yidG
+fig|83333.1.peg.884	b0899
+fig|83333.1.peg.1215	b1226	GENE:narJ
+fig|83333.1.peg.1669	b1685
+fig|83333.1.peg.1320	b1331 LocusTag:trs54
+fig|83333.1.peg.3659	b3722	GENE:bglF
+fig|83333.1.peg.1551	b1563	GENE:relE
+fig|83333.1.peg.2558	b2587	GENE:kgtP
+fig|83333.1.peg.1416	b1430	GENE:tehB
+fig|83333.1.peg.488	b0492	GENE:ybbN
+fig|83333.1.peg.1596	b1610	GENE:tus
+fig|83333.1.peg.23	b0023	GENE:rpsT
+fig|83333.1.peg.88	b0087	GENE:mraY
+fig|83333.1.peg.670	b0680	GENE:glnS
+fig|83333.1.peg.2787	b2834
+fig|83333.1.peg.2912	b2961	GENE:mutY
+fig|83333.1.peg.1969	b1995
+fig|83333.1.peg.231	b0236	GENE:prfH
+fig|83333.1.peg.557	b0559	GENE:ybcW
+fig|83333.1.peg.3763	b3836
+fig|83333.1.peg.4230	b4320	GENE:fimH
+fig|83333.1.peg.3710	b3782	GENE:rhoL
+fig|83333.1.peg.1715	b1732	GENE:katE
+fig|83333.1.peg.927	b0942
+fig|83333.1.peg.2370	b2399	GENE:yfeD
+fig|83333.1.peg.1833	b1849	GENE:purT
+fig|83333.1.peg.1122	b1137	GENE:ymfD
+fig|83333.1.peg.2091	b2118a	GENE:yehK
+fig|83333.1.peg.2340	b2367	GENE:emrY
+fig|83333.1.peg.471	b0475	GENE:hemH
+fig|83333.1.peg.292	b4506
+fig|83333.1.peg.725	b0733	GENE:cydA
+fig|83333.1.peg.3547	b3611	GENE:yibN
+fig|83333.1.peg.2639	b2678	GENE:proW
+fig|83333.1.peg.2612	b2649
+fig|83333.1.peg.4167	b4257	GENE:yjgN
+fig|83333.1.peg.998	b1010
+fig|83333.1.peg.1397	b1409
+fig|83333.1.peg.3269	b3335	GENE:hofD
+fig|83333.1.peg.2006	b4529
+fig|83333.1.peg.677	b0687	GENE:seqA
+fig|83333.1.peg.3008	b3060	GENE:ygiP
+fig|83333.1.peg.307	b0310	GENE:ykgH
+fig|83333.1.peg.2996	b3048	GENE:yqiI
+fig|83333.1.peg.1420	b1434	GENE:ydcN
+fig|83333.1.peg.632	b0631	GENE:ybeD
+fig|83333.1.peg.4107	b4197	GENE:sgaU
+fig|83333.1.peg.1793	b1810
+fig|83333.1.peg.1032	b1046	GENE:ymdC
+fig|83333.1.peg.3156	b3213	GENE:gltD
+fig|83333.1.peg.4264	b4353	GENE:yjiX
+fig|83333.1.peg.2536	b2566	GENE:era
+fig|83333.1.peg.3038	b3091	GENE:uxaA
+fig|83333.1.peg.1691	b1707
+fig|83333.1.peg.3040	b3093	GENE:exuT
+fig|83333.1.peg.3407	b3474
+fig|83333.1.peg.3626	b3690	GENE:yidS
+fig|83333.1.peg.973	b4514
+fig|83333.1.peg.3081	b3136	GENE:agaS
+fig|83333.1.peg.371	b0374	GENE:yaiU
+fig|83333.1.peg.180	b0180	GENE:fabZ
+fig|83333.1.peg.4302	b4394	GENE:yjjX
+fig|83333.1.peg.2667	b2712	GENE:hypF
+fig|83333.1.peg.1903	b1923	GENE:fliC
+fig|83333.1.peg.4059	b4147	GENE:efp
+fig|83333.1.peg.657	b0656 LocusTag:trs53
+fig|83333.1.peg.2791	b2838	GENE:lysA
+fig|83333.1.peg.1473	b1486
+fig|83333.1.peg.2005	b2030 LocusTag:trs57
+fig|83333.1.peg.34	b0033a	GENE:yaaV
+fig|83333.1.peg.638	b0637	GENE:ybeB
+fig|83333.1.peg.1777	b1794	GENE:yeaP
+fig|83333.1.peg.2081	b2106	GENE:yohM
+fig|83333.1.peg.2253	b2279	GENE:nuoK
+fig|83333.1.peg.3067	b3121	GENE:yhaC
+fig|83333.1.peg.4021	b4109	GENE:yjdA
+fig|83333.1.peg.2075	b2100
+fig|83333.1.peg.816	b0830
+fig|83333.1.peg.1712	b1729
+fig|83333.1.peg.2161	b2186	GENE:yejK
+fig|83333.1.peg.823	b0837	GENE:yliI
+fig|83333.1.peg.935	b0950	GENE:pqiA
+fig|83333.1.peg.3416	b3483	GENE:yhhH
+fig|83333.1.peg.1427	b1441
+fig|83333.1.peg.1459	b1473	GENE:yddG
+fig|83333.1.peg.3134	b3191
+fig|83333.1.peg.663	b0662	GENE:yleB
+fig|83333.1.peg.922	b0937	GENE:ycbP
+fig|83333.1.peg.513	b0517	GENE:ylbC
+fig|83333.1.peg.3711	b3783	GENE:rho
+fig|83333.1.peg.3241	b3307	GENE:rpsN
+fig|83333.1.peg.3361	b3427
+fig|83333.1.peg.4231	b4321	GENE:gntP
+fig|83333.1.peg.789	b0803	GENE:ybiI
+fig|83333.1.peg.702	b0710	GENE:ybgI
+fig|83333.1.peg.1330	b1341
+fig|83333.1.peg.4175	b4265	GENE:idnT
+fig|83333.1.peg.1897	b1917	GENE:yecC
+fig|83333.1.peg.1389	b1399
+fig|83333.1.peg.199	b0198	GENE:yaeE
+fig|83333.1.peg.4061	b4148
+fig|83333.1.peg.3029	b3082	GENE:ygjM
+fig|83333.1.peg.327	b0330	GENE:prpR
+fig|83333.1.peg.4016	b4104	GENE:phnE
+fig|83333.1.peg.1987	b2013	GENE:yeeE
+fig|83333.1.peg.3111	b3166	GENE:truB
+fig|83333.1.peg.3706	b3778	GENE:rep
+fig|83333.1.peg.4023	b4111	GENE:proP
+fig|83333.1.peg.1085	b1100	GENE:ycfH
+fig|83333.1.peg.4198	b4289	GENE:fecC
+fig|83333.1.peg.1847	b1863	GENE:ruvC
+fig|83333.1.peg.79	b0078	GENE:ilvH
+fig|83333.1.peg.2847	b2895	GENE:fldB
+fig|83333.1.peg.3147	b3204	GENE:ptsN
+fig|83333.1.peg.1729	b1746
+fig|83333.1.peg.4039	b4127	GENE:yjdJ
+fig|83333.1.peg.315	b0318	GENE:yahD
+fig|83333.1.peg.738	b0752	GENE:ybgR
+fig|83333.1.peg.2891	b2940	GENE:yqgC
+fig|83333.1.peg.2472	b2503
+fig|83333.1.peg.2657	b2702	GENE:srlA
+fig|83333.1.peg.2882	b2931
+fig|83333.1.peg.772	b0786	GENE:ybhL
+fig|83333.1.peg.692	b0700	GENE:rhsC
+fig|83333.1.peg.3086	b3141	GENE:agaI
+fig|83333.1.peg.3844	b3925	GENE:glpX
+fig|83333.1.peg.330	b0333	GENE:prpC
+fig|83333.1.peg.3813	b3893	GENE:fdoH
+fig|83333.1.peg.3072	b3127	GENE:yhaU
+fig|83333.1.peg.2132	b2157	GENE:yeiE
+fig|83333.1.peg.2694	b2738	GENE:ygbL
+fig|83333.1.peg.2931	b2981
+fig|83333.1.peg.964	b0979a	GENE:yccB
+fig|83333.1.peg.1603	b1617	GENE:uidA
+fig|83333.1.peg.495	b0499
+fig|83333.1.peg.1498	b1511	GENE:ydeV
+fig|83333.1.peg.2676	b2721	GENE:hycE
+fig|83333.1.peg.145	b0145	GENE:dksA
+fig|83333.1.peg.1928	b1948	GENE:fliP
+fig|83333.1.peg.1466	b1479	GENE:sfcA
+fig|83333.1.peg.1265	b1278	GENE:pgpB
+fig|83333.1.peg.3303	b3368	GENE:cysG
+fig|83333.1.peg.106	b0107	GENE:hofB
+fig|83333.1.peg.1353	b1363	GENE:trkG
+fig|83333.1.peg.3929	b4020	GENE:yjbB
+fig|83333.1.peg.1133	b1148	GENE:ymfM
+fig|83333.1.peg.3584	b3648	GENE:gmk
+fig|83333.1.peg.152	b0151	GENE:fhuC
+fig|83333.1.peg.2011	b2035	GENE:wbbH
+fig|83333.1.peg.902	b0917	GENE:ycaR
+fig|83333.1.peg.4184	b4276	GENE:yjgY
+fig|83333.1.peg.1000	b1012
+fig|83333.1.peg.3346	b3411	GENE:yhgA
+fig|83333.1.peg.1701	b1717	GENE:rpmI
+fig|83333.1.peg.3159	b3216	GENE:yhcD
+fig|83333.1.peg.91	b0090	GENE:murG
+fig|83333.1.peg.1899	b1919
+fig|83333.1.peg.3996	b4084	GENE:yjcT
+fig|83333.1.peg.3166	b3222	GENE:yhcI
+fig|83333.1.peg.1660	b1676	GENE:pykF
+fig|83333.1.peg.1546	b1558	GENE:cspF
+fig|83333.1.peg.367	b0370
+fig|83333.1.peg.1993	b2018	GENE:hisL
+fig|83333.1.peg.2833	b2881
+fig|83333.1.peg.1821	b1837
+fig|83333.1.peg.3818	b3897	GENE:frvR
+fig|83333.1.peg.2541	b2570	GENE:rseC
+fig|83333.1.peg.3755	b3828	GENE:metR
+fig|83333.1.peg.3470	b3537	GENE:yhjT
+fig|83333.1.peg.3284	b4546
+fig|83333.1.peg.2054	b2078	GENE:baeS
+fig|83333.1.peg.2424	b2456	GENE:cchB
+fig|83333.1.peg.115	b0115	GENE:aceF
+fig|83333.1.peg.2935	b2985	GENE:yghS
+fig|83333.1.peg.4104	b4194	GENE:sgaB
+fig|83333.1.peg.4007	b4095	GENE:phnM
+fig|83333.1.peg.2615	b2654
+fig|83333.1.peg.2999	b3051
+fig|83333.1.peg.1036	b1050	GENE:yceK
+fig|83333.1.peg.2217	b2244	GENE:yfaD
+fig|83333.1.peg.355	b0358	GENE:yaiO
+fig|83333.1.peg.3772	b3846	GENE:fadB
+fig|83333.1.peg.2387	b2419	GENE:yfeK
+fig|83333.1.peg.2961	b3013	GENE:yqhG
+fig|83333.1.peg.411	b0414	GENE:ribD
+fig|83333.1.peg.637	b0636	GENE:ybeA
+fig|83333.1.peg.2743	b2787	GENE:ygcX
+fig|83333.1.peg.1622	b1636	GENE:pdxY
+fig|83333.1.peg.1169	b1183	GENE:umuD
+fig|83333.1.peg.3331	b3396	GENE:mrcA
+fig|83333.1.peg.3888	b3972	GENE:murB
+fig|83333.1.peg.3969	b4059	GENE:ssb
+fig|83333.1.peg.4281	b4373	GENE:rimI
+fig|83333.1.peg.3295	b3360	GENE:pabA
+fig|83333.1.peg.417	b0420	GENE:dxs
+fig|83333.1.peg.3371	b3439	GENE:yhhW
+fig|83333.1.peg.194	b0193	GENE:yaeF
+fig|83333.1.peg.3683	b4564
+fig|83333.1.peg.1856	b1872
+fig|83333.1.peg.364	b0367	GENE:tauC
+fig|83333.1.peg.1028	b1042	GENE:csgA
+fig|83333.1.peg.3836	b3917	GENE:sbp
+fig|83333.1.peg.1405	b1419	GENE:ydcA
+fig|83333.1.peg.288	b0292	GENE:yagY
+fig|83333.1.peg.3667	b3730	GENE:glmU
+fig|83333.1.peg.1815	b1831m	GENE:proQ
+fig|83333.1.peg.1532	b1544	GENE:ydfK
+fig|83333.1.peg.869	b0884	GENE:infA
+fig|83333.1.peg.207	b0212	GENE:gloB
+fig|83333.1.peg.2291	b2317	GENE:dedA
+fig|83333.1.peg.3355	b3421	GENE:rtcB
+fig|83333.1.peg.1581	b1595	GENE:ynfL
+fig|83333.1.peg.431	b0434	GENE:yajG
+fig|83333.1.peg.255	b0260	GENE:ykfD
+fig|83333.1.peg.2816	b2863
+fig|83333.1.peg.1337	b1348	GENE:lar
+fig|83333.1.peg.3775	b3849	GENE:trkH
+fig|83333.1.peg.612	b0611	GENE:rna
+fig|83333.1.peg.1746	b1763	GENE:topB
+fig|83333.1.peg.3685	b3747	GENE:kup
+fig|83333.1.peg.585	b4511
+fig|83333.1.peg.1440	b1454
+fig|83333.1.peg.1959	b1982	GENE:amn
+fig|83333.1.peg.2	b0002	GENE:thrA
+fig|83333.1.peg.4309	b4401	GENE:arcA
+fig|83333.1.peg.1226	b1239	GENE:ychG
+fig|83333.1.peg.1017	b1029	GENE:ycdU
+fig|83333.1.peg.131	b0131	GENE:panD
+fig|83333.1.peg.2802	b2849	GENE:yqeK
+fig|83333.1.peg.1150	b1165	GENE:ymgA
+fig|83333.1.peg.138	b0138	GENE:yadM
+fig|83333.1.peg.3380	b3447	GENE:ggt
+fig|83333.1.peg.275	b0279	GENE:yagM
+fig|83333.1.peg.4288	b4380	GENE:yjjI
+fig|83333.1.peg.4052	b4140
+fig|83333.1.peg.1690	b1706
+fig|83333.1.peg.2059	b2083
+fig|83333.1.peg.342	b0345	GENE:lacI
+fig|83333.1.peg.1884	b1901	GENE:araF
+fig|83333.1.peg.1781	b1798	GENE:yeaS
+fig|83333.1.peg.2362	b2389
+fig|83333.1.peg.2295	b2321	GENE:div
+fig|83333.1.peg.3174	b3230	GENE:rpsI
+fig|83333.1.peg.1871	b1887	GENE:cheW
+fig|83333.1.peg.2836	b2884	GENE:ygfQ
+fig|83333.1.peg.3127	b3184	GENE:yhbE
+fig|83333.1.peg.1802	b1819
+fig|83333.1.peg.957	b0973	GENE:hyaB
+fig|83333.1.peg.504	b0508	GENE:gip
+fig|83333.1.peg.165	b0164	GENE:yaeI
+fig|83333.1.peg.3458	b3525	GENE:yhjH
+fig|83333.1.peg.1769	b1786	GENE:yeaJ
+fig|83333.1.peg.3045	b3098	GENE:yqjD
+fig|83333.1.peg.3994	b4561
+fig|83333.1.peg.569	b0571	GENE:ylcA
+fig|83333.1.peg.763	b0777	GENE:bioC
+fig|83333.1.peg.2608	b2645	GENE:yfjZ
+fig|83333.1.peg.2018	b2042	GENE:galF
+fig|83333.1.peg.2066	b2091	GENE:gatD
+fig|83333.1.peg.1932	b1952	GENE:dsrB
+fig|83333.1.peg.4249	b4338	GENE:yjiP
+fig|83333.1.peg.2780	b2827	GENE:thyA
+fig|83333.1.peg.1162	b1176	GENE:minC
+fig|83333.1.peg.1907	b1927	GENE:amyA
+fig|83333.1.peg.2451	b2482	GENE:hyfB
+fig|83333.1.peg.1174	b1188	GENE:ycgB
+fig|83333.1.peg.4120	b4210	GENE:ytfF
+fig|83333.1.peg.1447	b1461	GENE:ydcE
+fig|83333.1.peg.579	b0581	GENE:ybdK
+fig|83333.1.peg.4187	b4279
+fig|83333.1.peg.2924	b2974
+fig|83333.1.peg.2201	b2226
+fig|83333.1.peg.2285	b2311	GENE:ubiX
+fig|83333.1.peg.4011	b4099	GENE:phnI
+fig|83333.1.peg.470	b0474	GENE:adk
+fig|83333.1.peg.1313	b1325	GENE:ycjG
+fig|83333.1.peg.1408	b1422
+fig|83333.1.peg.3938	b4029	GENE:yjbH
+fig|83333.1.peg.2149	b2174
+fig|83333.1.peg.4119	b4209	GENE:ytfE
+fig|83333.1.peg.1129	b1144	GENE:ymfJ
+fig|83333.1.peg.4048	b4137	GENE:cutA
+fig|83333.1.peg.49	b0048	GENE:folA
+fig|83333.1.peg.2650	b2696	GENE:csrA
+fig|83333.1.peg.3541	b3605	GENE:lldD
+fig|83333.1.peg.3899	b3987	GENE:rpoB
+fig|83333.1.peg.1728	b1745
+fig|83333.1.peg.1276	b1288	GENE:fabI
+fig|83333.1.peg.3795	b3875	GENE:yshA
+fig|83333.1.peg.858	b0872
+fig|83333.1.peg.1011	b1023	GENE:ycdR
+fig|83333.1.peg.3395	b3462	GENE:ftsX
+fig|83333.1.peg.2756	b2800	GENE:fucA
+fig|83333.1.peg.1075	b1090	GENE:plsX
+fig|83333.1.peg.522	b0525	GENE:ppiB
+fig|83333.1.peg.2576	b2609	GENE:rpsP
+fig|83333.1.peg.2114	b2139	GENE:yohH
+fig|83333.1.peg.2228	b2255
+fig|83333.1.peg.3022	b3075	GENE:ebgR
+fig|83333.1.peg.562	b0564	GENE:appY
+fig|83333.1.peg.3602	b3665	GENE:yicP
+fig|83333.1.peg.1917	b1937	GENE:fliE
+fig|83333.1.peg.2208	b2235	GENE:nrdB
+fig|83333.1.peg.862	b0876	GENE:ybjD
+fig|83333.1.peg.3575	b3639
+fig|83333.1.peg.1988	b2014	GENE:yeeF
+fig|83333.1.peg.224	b0229	GENE:fhiA
+fig|83333.1.peg.1438	b1452
+fig|83333.1.peg.22	insA1	b0022
+fig|83333.1.peg.3892	b3980	GENE:tufB
+fig|83333.1.peg.446	b0449	GENE:mdlB
+fig|83333.1.peg.1574	b1588
+fig|83333.1.peg.1005	b4517
+fig|83333.1.peg.2778	b2825	GENE:ppdB
+fig|83333.1.peg.1195	b1209	GENE:hemM
+fig|83333.1.peg.178	b0178	GENE:hlpA
+fig|83333.1.peg.2506	b2536	GENE:hcaT
+fig|83333.1.peg.896	b0911	GENE:rpsA
+fig|83333.1.peg.1635	b1649
+fig|83333.1.peg.528	b0531	GENE:sfmC
+fig|83333.1.peg.81	b0080	GENE:fruR
+fig|83333.1.peg.123	b0123	GENE:yacK
+fig|83333.1.peg.1455	b1469	GENE:narU
+fig|83333.1.peg.1273	b1285	GENE:yciR
+fig|83333.1.peg.2000	b2025	GENE:hisF
+fig|83333.1.peg.2204	b2231	GENE:gyrA
+fig|83333.1.peg.4036	b4124	GENE:yjdG
+fig|83333.1.peg.2557	b2586	GENE:yfiM
+fig|83333.1.peg.999	b1011
+fig|83333.1.peg.2544	b2573	GENE:rpoE
+fig|83333.1.peg.1381	b1391
+fig|83333.1.peg.2323	b2351
+fig|83333.1.peg.776	b0790	GENE:ybhP
+fig|83333.1.peg.924	b0939	GENE:ycbR
+fig|83333.1.peg.3921	b4012	GENE:yjaB
+fig|83333.1.peg.1327	b1338	GENE:ydaJ
+fig|83333.1.peg.3063	b3117	GENE:tdcB
+fig|83333.1.peg.179	b0179	GENE:lpxD
+fig|83333.1.peg.2137	b2162	GENE:yeiK
+fig|83333.1.peg.1738	b1755
+fig|83333.1.peg.1490	b1503
+fig|83333.1.peg.3335	b3400	GENE:yrfH
+fig|83333.1.peg.1639	b1653	GENE:lhr
+fig|83333.1.peg.1444	b1458
+fig|83333.1.peg.443	b0446	GENE:cof
+fig|83333.1.peg.2230	b2257
+fig|83333.1.peg.2486	b2516	GENE:yfgA
+fig|83333.1.peg.1212	b1223	GENE:narK
+fig|83333.1.peg.1314	b1326	GENE:ycjI
+fig|83333.1.peg.2755	b2799	GENE:fucO
+fig|83333.1.peg.2745	b2789
+fig|83333.1.peg.383	b0386	GENE:proC
+fig|83333.1.peg.993	b4516
+fig|83333.1.peg.3823	b3902	GENE:rhaD
+fig|83333.1.peg.2448	b2479
+fig|83333.1.peg.321	b0324	GENE:yahJ
+fig|83333.1.peg.1175	b1189	GENE:dadA
+fig|83333.1.peg.1224	b1237	GENE:hns
+fig|83333.1.peg.651	b0650	GENE:ybeW
+fig|83333.1.peg.3129	b3186	GENE:rplU
+fig|83333.1.peg.395	b0398	GENE:sbcD
+fig|83333.1.peg.3834	b3915	GENE:yiiP
+fig|83333.1.peg.2761	b2805	GENE:fucR
+fig|83333.1.peg.3349	b3414	GENE:yhgI
+fig|83333.1.peg.3436	b3503	GENE:arsC
+fig|83333.1.peg.960	b0976	GENE:hyaE
+fig|83333.1.peg.833	b0847
+fig|83333.1.peg.2717	b2761	GENE:ygcB
+fig|83333.1.peg.3576	b3640	GENE:dut
+fig|83333.1.peg.2572	b2605	GENE:yfiB
+fig|83333.1.peg.813	b0827	GENE:moeA
+fig|83333.1.peg.3193	b3251	GENE:mreB
+fig|83333.1.peg.7	b0007	GENE:yaaJ
+fig|83333.1.peg.720	b0728	GENE:sucC
+fig|83333.1.peg.3308	b3373	GENE:yhfP
+fig|83333.1.peg.3580	b3644	GENE:yicC
+fig|83333.1.peg.3537	b4550
+fig|83333.1.peg.3904	b3991a	GENE:thiS
+fig|83333.1.peg.1194	b1208	GENE:ychB
+fig|83333.1.peg.85	b0084	GENE:ftsI
+fig|83333.1.peg.3529	b3595	GENE:yibJ
+fig|83333.1.peg.641	b0640	GENE:holA
+fig|83333.1.peg.3306	b3371	GENE:yhfN
+fig|83333.1.peg.4233	b4323	GENE:uxuB
+fig|83333.1.peg.2239	b2265
+fig|83333.1.peg.3034	b3087	GENE:ygjR
+fig|83333.1.peg.1925	b1945	GENE:fliM
+fig|83333.1.peg.1391	b1402 LocusTag:yi222
+fig|83333.1.peg.2436	b2468	GENE:yffG
+fig|83333.1.peg.3168	b3224
+fig|83333.1.peg.1975	b2001
+fig|83333.1.peg.3885	b3965	GENE:trmA
+fig|83333.1.peg.1137	b1152
+fig|83333.1.peg.1045	b1060	GENE:yceP
+fig|83333.1.peg.1576	b1590
+fig|83333.1.peg.710	b0718	GENE:ybgQ
+fig|83333.1.peg.2868	b2917	GENE:sbm
+fig|83333.1.peg.918	b0933	GENE:ycbE
+fig|83333.1.peg.1778	b1795	GENE:yeaQ
+fig|83333.1.peg.1592	b1606	GENE:ydgB
+fig|83333.1.peg.3695	b3764	GENE:yifE
+fig|83333.1.peg.55	b0054	GENE:imp
+fig|83333.1.peg.3638	b3702	GENE:dnaA
+fig|83333.1.peg.2621	b2660	GENE:ygaF
+fig|83333.1.peg.2587	b2622	GENE:intA
+fig|83333.1.peg.1206	b1217	GENE:chaB
+fig|83333.1.peg.491	b0495	GENE:ybbA
+fig|83333.1.peg.2055	b2079	GENE:baeR
+fig|83333.1.peg.533	b0537	GENE:intD
+fig|83333.1.peg.4270	b4359	GENE:mdoB
+fig|83333.1.peg.3270	b3336	GENE:bfr
+fig|83333.1.peg.2911	b2960	GENE:yggH
+fig|83333.1.peg.483	b0487	GENE:ybbI
+fig|83333.1.peg.1302	b1314
+fig|83333.1.peg.3051	b3104	GENE:yhaI
+fig|83333.1.peg.2550	b2579	GENE:yfiD
+fig|83333.1.peg.1499	b1512	GENE:ydeW
+fig|83333.1.peg.3715	b3786	GENE:wecB
+fig|83333.1.peg.3609	b3672	GENE:ivbL
+fig|83333.1.peg.1183	b1197	GENE:treA
+fig|83333.1.peg.3221	b3288	GENE:fmt
+fig|83333.1.peg.3976	b4066	GENE:yjcF
+fig|83333.1.peg.1061	b1076	GENE:flgE
+fig|83333.1.peg.314	b0317	GENE:yahC
+fig|83333.1.peg.2696	b2740
+fig|83333.1.peg.3916	b4003	GENE:hydH
+fig|83333.1.peg.3816	b3895	GENE:fdhD
+fig|83333.1.peg.3852	b3933	GENE:ftsN
+fig|83333.1.peg.2945	b2995	GENE:hybB
+fig|83333.1.peg.3513	b3579	GENE:yiaO
+fig|83333.1.peg.4110	b4200	GENE:rpsF
+fig|83333.1.peg.3449	b3516	GENE:yhiX
+fig|83333.1.peg.1720	b1737	GENE:celB
+fig|83333.1.peg.3828	b3907	GENE:rhaT
+fig|83333.1.peg.3076	b3131	GENE:agaR
+fig|83333.1.peg.1241	b1254	GENE:yciB
+fig|83333.1.peg.238	b0243	GENE:proA
+fig|83333.1.peg.4031	b4119	GENE:melA
+fig|83333.1.peg.1223	b1236	GENE:galU
+fig|83333.1.peg.2085	b2110	GENE:yehC
+fig|83333.1.peg.1178	b1192
+fig|83333.1.peg.2438	b2470	GENE:acrD
+fig|83333.1.peg.59	b0058	GENE:yabO
+fig|83333.1.peg.2949	b3001
+fig|83333.1.peg.693	b0702	GENE:ybfB
+fig|83333.1.peg.343	b0346	GENE:mhpR
+fig|83333.1.peg.62	b0061	GENE:araD
+fig|83333.1.peg.1968	b1994 LocusTag:trs56
+fig|83333.1.peg.1105	b1120	GENE:cobB
+fig|83333.1.peg.4109	b4199	GENE:yjfY
+fig|83333.1.peg.2979	b3032	GENE:icc
+fig|83333.1.peg.1770	b1787	GENE:yeaK
+fig|83333.1.peg.1803	b1820
+fig|83333.1.peg.598	b0598	GENE:cstA
+fig|83333.1.peg.3014	b3066	GENE:dnaG
+fig|83333.1.peg.2873	b2922	GENE:yggE
+fig|83333.1.peg.2355	b2382
+fig|83333.1.peg.3280	b3346
+fig|83333.1.peg.1657	b1673
+fig|83333.1.peg.878	b0893	GENE:serS
+fig|83333.1.peg.2124	b2149	GENE:mglA
+fig|83333.1.peg.421	b0424	GENE:thiJ
+fig|83333.1.peg.2604	b2641
+fig|83333.1.peg.1519	b1532	GENE:marB
+fig|83333.1.peg.2335	b2363
+fig|83333.1.peg.203	b0208	GENE:yafC
+fig|83333.1.peg.2721	b2765	GENE:ygcM
+fig|83333.1.peg.4255	b4344	GENE:mcrD
+fig|83333.1.peg.3235	b3301	GENE:rplO
+fig|83333.1.peg.806	b0820	GENE:ybiT
+fig|83333.1.peg.265	b0269	GENE:yagF
+fig|83333.1.peg.3734	b3808a	GENE:yifL
+fig|83333.1.peg.2644	b2685	GENE:emrA
+fig|83333.1.peg.625	b0624	GENE:crcB
+fig|83333.1.peg.370	b0373
+fig|83333.1.peg.840	b0854	GENE:potF
+fig|83333.1.peg.1674	b1690
+fig|83333.1.peg.1752	b1769	GENE:ydjE
+fig|83333.1.peg.1934	b1955
+fig|83333.1.peg.3368	b3434	GENE:yhgN
+fig|83333.1.peg.2021	b2045	GENE:wcaK
+fig|83333.1.peg.3769	b3843	GENE:yigC
+fig|83333.1.peg.3518	b3584	GENE:yiaT
+fig|83333.1.peg.3321	b3386	GENE:rpe
+fig|83333.1.peg.1571	b1585	GENE:ynfC
+fig|83333.1.peg.792	b0806	GENE:ybiM
+fig|83333.1.peg.2570	b2603
+fig|83333.1.peg.3587	b3651	GENE:spoU
+fig|83333.1.peg.592	b0592	GENE:fepB
+fig|83333.1.peg.3319	b3384	GENE:trpS
+fig|83333.1.peg.4091	b4181	GENE:yjfI
+fig|83333.1.peg.2083	b2108	GENE:yehA
+fig|83333.1.peg.4199	b4290	GENE:fecB
+fig|83333.1.peg.2662	b2707	GENE:srlR
+fig|83333.1.peg.3254	b3320	GENE:rplC
+fig|83333.1.peg.834	b0848	GENE:ybjM
+fig|83333.1.peg.4161	b4250
+fig|83333.1.peg.1666	b1682	GENE:ynhD
+fig|83333.1.peg.379	b0382	GENE:yaiB
+fig|83333.1.peg.992	b1005	GENE:ycdF
+fig|83333.1.peg.4227	b4317	GENE:fimD
+fig|83333.1.peg.2103	b2129	GENE:yehX
+fig|83333.1.peg.2653	b2698	GENE:oraA
+fig|83333.1.peg.1930	b1950	GENE:fliR
+fig|83333.1.peg.1505	b1518
+fig|83333.1.peg.2528	b2558	GENE:yfhD
+fig|83333.1.peg.1363	b1373	GENE:ynaC
+fig|83333.1.peg.2243	b2269	GENE:elaD
+fig|83333.1.peg.1683	b1699	GENE:ydiS
+fig|83333.1.peg.4314
+fig|83333.1.peg.3560	b3624	GENE:rfaZ
+fig|83333.1.peg.4243	b4333	GENE:yjiK
+fig|83333.1.peg.604	b0603	GENE:ybdO
+fig|83333.1.peg.1614	b1628
+fig|83333.1.peg.3392	b3459	GENE:yhhK
+fig|83333.1.peg.284	b0288	GENE:ykgJ
+fig|83333.1.peg.740	b0754	GENE:aroG
+fig|83333.1.peg.2155	b2180	GENE:yejF
+fig|83333.1.peg.3010	b3062	GENE:ttdB
+fig|83333.1.peg.2800	b2847	GENE:yqeI
+fig|83333.1.peg.1256	b1269	GENE:yciL
+fig|83333.1.peg.3674	b3737	GENE:atpE
+fig|83333.1.peg.2579	b4540
+fig|83333.1.peg.2248	b2274
+fig|83333.1.peg.3312	b3377	GENE:yhfT
+fig|83333.1.peg.4214	b4567
+fig|83333.1.peg.2786	b2833
+fig|83333.1.peg.3863	b3944	GENE:yijF
+fig|83333.1.peg.1079	b1094	GENE:acpP
+fig|83333.1.peg.3473	b3540	GENE:dppF
+fig|83333.1.peg.2143	b2168	GENE:fruK
+fig|83333.1.peg.542	b0546	GENE:ybcM
+fig|83333.1.peg.2154	b2179	GENE:yejE
+fig|83333.1.peg.3421	b3488	GENE:yhiJ
+fig|83333.1.peg.1233	b1246	GENE:oppD
+fig|83333.1.peg.936	b0951	GENE:pqiB
+fig|83333.1.peg.1022	b1037	GENE:csgG
+fig|83333.1.peg.45	b0044	GENE:fixX
+fig|83333.1.peg.191	b0190	GENE:yaeQ
+fig|83333.1.peg.3384	b3451	GENE:ugpE
+fig|83333.1.peg.3506	b3572	GENE:avtA
+fig|83333.1.peg.2462	b2493	GENE:perM
+fig|83333.1.peg.1967	b1993	GENE:cobU
+fig|83333.1.peg.3721	b3792	GENE:wzxE
+fig|83333.1.peg.2750	b2794	GENE:yqcD
+fig|83333.1.peg.3746	b3821	GENE:pldA
+fig|83333.1.peg.1096	b1111	GENE:ycfQ
+fig|83333.1.peg.2972	b3025	GENE:qseB
+fig|83333.1.peg.780	b0794	GENE:ybhF
+fig|83333.1.peg.3985	b4075	GENE:nrfF
+fig|83333.1.peg.117	b0117	GENE:yacH
+fig|83333.1.peg.2048	b2072
+fig|83333.1.peg.3949	b4039	GENE:ubiC
+fig|83333.1.peg.2823	b2871	GENE:ygeX
+fig|83333.1.peg.273	b0277	GENE:yagK
+fig|83333.1.peg.2591	b2626	GENE:yfjJ
+fig|83333.1.peg.436	b0439	GENE:lon
+fig|83333.1.peg.1955	b1978
+fig|83333.1.peg.3403	b3470	GENE:yhhP
+fig|83333.1.peg.2890	b2939	GENE:yqgB
+fig|83333.1.peg.2929	b2979	GENE:glcD
+fig|83333.1.peg.2405	b2437	GENE:yfeG
+fig|83333.1.peg.3206	b3264	GENE:envR
+fig|83333.1.peg.753	b0767	GENE:ybhE
+fig|83333.1.peg.1116	b1131	GENE:purB
+fig|83333.1.peg.3913	b4000	GENE:hupA
+fig|83333.1.peg.188	b0188	GENE:mesJ
+fig|83333.1.peg.1744	b1761	GENE:gdhA
+fig|83333.1.peg.2017	b2041	GENE:rfbB
+fig|83333.1.peg.274	b0278	GENE:yagL
+fig|83333.1.peg.861	b0875	GENE:aqpZ
+fig|83333.1.peg.225	b0230	GENE:mbhA
+fig|83333.1.peg.2207	b2234	GENE:nrdA
+fig|83333.1.peg.4226	b4316
+fig|83333.1.peg.3939	b4030	GENE:yjbA
+fig|83333.1.peg.2189	b2214	GENE:yojL
+fig|83333.1.peg.3891	b3975
+fig|83333.1.peg.829	b0843	GENE:ybjH
+fig|83333.1.peg.2067	b2092	GENE:gatC
+fig|83333.1.peg.4118	b4208	GENE:cycA
+fig|83333.1.peg.2490	b2520
+fig|83333.1.peg.1888	b1905	GENE:ftn
+fig|83333.1.peg.3548	b3612	GENE:yibO
+fig|83333.1.peg.1870	b1886	GENE:tar
+fig|83333.1.peg.328	b0331	GENE:prpB
+fig|83333.1.peg.2859	b2907	GENE:ubiH
+fig|83333.1.peg.3047	b3100
+fig|83333.1.peg.2192	b2217	GENE:rcsB
+fig|83333.1.peg.26	b0026	GENE:ileS
+fig|83333.1.peg.2197	b2222	GENE:atoA
+fig|83333.1.peg.2450	b2481
+fig|83333.1.peg.3379	b3446	GENE:yrhB
+fig|83333.1.peg.3099	b3154	GENE:yhbP
+fig|83333.1.peg.4069	b4156	GENE:yjeM
+fig|83333.1.peg.4201	b4292	GENE:fecR
+fig|83333.1.peg.285	b0289	GENE:yagV
+fig|83333.1.peg.850	b0864	GENE:artP
+fig|83333.1.peg.3619	b4553
+fig|83333.1.peg.716	b0724	GENE:sdhB
+fig|83333.1.peg.1399	b1411	GENE:ynbD
+fig|83333.1.peg.2288	b2314	GENE:dedD
+fig|83333.1.peg.227	b0232	GENE:yafN
+fig|83333.1.peg.1407	b1421	GENE:trg
+fig|83333.1.peg.3640	b3704	GENE:rnpA
+fig|83333.1.peg.2609	b2646	GENE:ypjF
+fig|83333.1.peg.4170	b4260	GENE:pepA
+fig|83333.1.peg.4076	b4166	GENE:yjeS
+fig|83333.1.peg.130	b0130	GENE:yadE
+fig|83333.1.peg.3565	b3629	GENE:rfaS
+fig|83333.1.peg.1914	b1934	GENE:yedN
+fig|83333.1.peg.1550	b1562	GENE:relF
+fig|83333.1.peg.1296	b1308	GENE:pspE
+fig|83333.1.peg.1824	b1840
+fig|83333.1.peg.4049	b4138	GENE:dcuA
+fig|83333.1.peg.2425	b2457	GENE:cchA
+fig|83333.1.peg.1700	b1716	GENE:rplT
+fig|83333.1.peg.2503	b2533	GENE:suhB
+fig|83333.1.peg.2964	b3017	GENE:sufI
+fig|83333.1.peg.534	b0538
+fig|83333.1.peg.945	b0960
+fig|83333.1.peg.2292	b2318	GENE:truA
+fig|83333.1.peg.2118	b2143	GENE:cdd
+fig|83333.1.peg.3796	b3876
+fig|83333.1.peg.1014	b1026 LocusTag:tra53
+fig|83333.1.peg.3658	b3721	GENE:bglB
+fig|83333.1.peg.3843	b3924	GENE:fpr
+fig|83333.1.peg.1973	b1999	GENE:yeeP
+fig|83333.1.peg.1617	b1631
+fig|83333.1.peg.3080	b3135	GENE:agaA
+fig|83333.1.peg.3336	b3401	GENE:yrfI
+fig|83333.1.peg.1851	b1867	GENE:yecD
+fig|83333.1.peg.1380	b1390	GENE:ydbP
+fig|83333.1.peg.3294	b3359	GENE:argD
+fig|83333.1.peg.4150	b4240	GENE:treB
+fig|83333.1.peg.1545	b1557	GENE:cspB
+fig|83333.1.peg.1642	b1656	GENE:sodB
+fig|83333.1.peg.220	b0225	GENE:yafQ
+fig|83333.1.peg.3973	b4063	GENE:soxR
+fig|83333.1.peg.3993	b4082	GENE:yjcR
+fig|83333.1.peg.2709	b2753	GENE:iap
+fig|83333.1.peg.3919	b4006	GENE:purH
+fig|83333.1.peg.729	b0736	GENE:ybgC
+fig|83333.1.peg.1766	b1783	GENE:yeaG
+fig|83333.1.peg.147	b0147	GENE:yadP
+fig|83333.1.peg.3260	b3326	GENE:yheG
+fig|83333.1.peg.1918	b1938	GENE:fliF
+fig|83333.1.peg.2374	b2407	GENE:xapA
+fig|83333.1.peg.2144	b2169	GENE:fruB
+fig|83333.1.peg.1287	b1299	GENE:ycjC
+fig|83333.1.peg.3452	b3519	GENE:treF
+fig|83333.1.peg.1068	b1083	GENE:flgL
+fig|83333.1.peg.3895	b3983	GENE:rplK
+fig|83333.1.peg.4005	b4093	GENE:phnO
+fig|83333.1.peg.235	b0240	GENE:crl
+fig|83333.1.peg.1654	b1670	GENE:ydhU
+fig|83333.1.peg.3104	b3159	GENE:yhbV
+fig|83333.1.peg.4101	b4191	GENE:yjfQ
+fig|83333.1.peg.3635	b3699	GENE:gyrB
+fig|83333.1.peg.2222	b2249
+fig|83333.1.peg.354	b0357	GENE:yaiN
+fig|83333.1.peg.116	b0116	GENE:lpdA
+fig|83333.1.peg.2499	b2529
+fig|83333.1.peg.2218	b2245
+fig|83333.1.peg.3817	b3896	GENE:yiiG
+fig|83333.1.peg.4053	b4141	GENE:yjeH
+fig|83333.1.peg.3287	b3352	GENE:yheS
+fig|83333.1.peg.2605	b2642	GENE:yfjW
+fig|83333.1.peg.3786	b3866	GENE:yihI
+fig|83333.1.peg.402	b0405	GENE:queA
+fig|83333.1.peg.3499	b3565	GENE:xylA
+fig|83333.1.peg.551	b0553	GENE:nmpC
+fig|83333.1.peg.1153	b1168
+fig|83333.1.peg.881	b0896	GENE:dmsC
+fig|83333.1.peg.1958	b1981	GENE:shiA
+fig|83333.1.peg.573	b0575	GENE:ybdE
+fig|83333.1.peg.2180	b2206	GENE:napA
+fig|83333.1.peg.126	b0126	GENE:yadF
+fig|83333.1.peg.368	b0371	GENE:yaiT
+fig|83333.1.peg.1679	b1695
+fig|83333.1.peg.3229	b3295	GENE:rpoA
+fig|83333.1.peg.3244	b3310	GENE:rplN
+fig|83333.1.peg.3417	b3484	GENE:yhhI
+fig|83333.1.peg.507	b0511	GENE:ybbW
+fig|83333.1.peg.3212	b3271	GENE:yhdZ
+fig|83333.1.peg.4108	b4198	GENE:sgaE
+fig|83333.1.peg.1390	b1400
+fig|83333.1.peg.871	b0886	GENE:cydC
+fig|83333.1.peg.1168	b1182	GENE:hlyE
+fig|83333.1.peg.4282	b4374	GENE:yjjG
+fig|83333.1.peg.617	b0616	GENE:citE
+fig|83333.1.peg.210	b0215	GENE:dnaQ
+fig|83333.1.peg.44	b0043	GENE:fixC
+fig|83333.1.peg.164	b0163	GENE:yaeH
+fig|83333.1.peg.3000	b3052
+fig|83333.1.peg.3178	b3234	GENE:degQ
+fig|83333.1.peg.4159	b4249	GENE:yjgI
+fig|83333.1.peg.2519	b2549	GENE:yphG
+fig|83333.1.peg.412	b0415	GENE:ribH
+fig|83333.1.peg.2384	b2416	GENE:ptsI
+fig|83333.1.peg.2082	b2107
+fig|83333.1.peg.1510	b1523
+fig|83333.1.peg.467	b0471	GENE:ybaB
+fig|83333.1.peg.1035	b1049	GENE:mdoH
+fig|83333.1.peg.3623	b3687	GENE:ibpA
+fig|83333.1.peg.3137	b3194	GENE:yrbE
+fig|83333.1.peg.217	b0222	GENE:gmhA
+fig|83333.1.peg.3068	b3122
+fig|83333.1.peg.2936	b2986	GENE:yghT
+fig|83333.1.peg.888	b0903	GENE:pflB
+fig|83333.1.peg.4297	b4389	GENE:sms
+fig|83333.1.peg.1019	b1034	GENE:ycdX
+fig|83333.1.peg.2232	b2258
+fig|83333.1.peg.1165	b1179	GENE:ycgL
+fig|83333.1.peg.1816	b1832
+fig|83333.1.peg.2573	b2606	GENE:rplS
+fig|83333.1.peg.2805	b2852	GENE:ygeH
+fig|83333.1.peg.1874	b1890	GENE:motA
+fig|83333.1.peg.458	b0462	GENE:acrB
+fig|83333.1.peg.2411	b2443
+fig|83333.1.peg.1697	b1713	GENE:pheT
+fig|83333.1.peg.3756	b3829	GENE:metE
+fig|83333.1.peg.1896	b1916	GENE:sdiA
+fig|83333.1.peg.1559	b1572	GENE:ydfB
+fig|83333.1.peg.3297	b3362	GENE:yhfG
+fig|83333.1.peg.3461	b3528	GENE:dctA
+fig|83333.1.peg.4121	b4211	GENE:ytfG
+fig|83333.1.peg.2680	b2725	GENE:hycA
+fig|83333.1.peg.2815	b2862
+fig|83333.1.peg.1944	b1965
+fig|83333.1.peg.4092	b4182	GENE:yjfJ
+fig|83333.1.peg.3688	b3750	GENE:rbsC
+fig|83333.1.peg.2510	b2540	GENE:hcaC
+fig|83333.1.peg.3712	b4565
+fig|83333.1.peg.56	b0055	GENE:yabH
+fig|83333.1.peg.3930	b4021	GENE:pepE
+fig|83333.1.peg.820	b0834
+fig|83333.1.peg.1717	b1734	GENE:celF
+fig|83333.1.peg.460	b0464	GENE:acrR
+fig|83333.1.peg.514	b0518	GENE:fdrA
+fig|83333.1.peg.2932	b2982 LocusTag:trs59
+fig|83333.1.peg.18	b0018	GENE:gef
+fig|83333.1.peg.2810	b2857
+fig|83333.1.peg.2278	b2304
+fig|83333.1.peg.2260	b2286	GENE:nuoC
+fig|83333.1.peg.3194	b3252	GENE:yhdA
+fig|83333.1.peg.523	b0526	GENE:cysS
+fig|83333.1.peg.1482	b1495	GENE:yddB
+fig|83333.1.peg.3028	b3081	GENE:ygjL
+fig|83333.1.peg.766	b0780	GENE:ybhK
+fig|83333.1.peg.2789	b2836	GENE:aas
+fig|83333.1.peg.1523	b1535a	GENE:ydeG
+fig|83333.1.peg.2004	b2029	GENE:gnd
+fig|83333.1.peg.1760	b1777
+fig|83333.1.peg.3484	b3552	GENE:yiaD
+fig|83333.1.peg.2474	b2504
+fig|83333.1.peg.4060	b4147.1n
+fig|83333.1.peg.2162	b2187	GENE:yejL
+fig|83333.1.peg.2269	b2295
+fig|83333.1.peg.2860	b2908	GENE:pepP
+fig|83333.1.peg.2076	b2101	GENE:yegW
+fig|83333.1.peg.2473	b4538
+fig|83333.1.peg.3030	b3083	GENE:ygjN
+fig|83333.1.peg.4185	b4277	GENE:yjgZ
+fig|83333.1.peg.1372	b1382	GENE:ynbE
+fig|83333.1.peg.3289	b3354	GENE:yheU
+fig|83333.1.peg.2257	b2283
+fig|83333.1.peg.2695	b2739	GENE:ygbM
+fig|83333.1.peg.2487	b2517	GENE:yfgB
+fig|83333.1.peg.1837	b1853	GENE:yebK
+fig|83333.1.peg.3870	b3950	GENE:frwB
+fig|83333.1.peg.2625	b2664
+fig|83333.1.peg.2459	b2490
+fig|83333.1.peg.1986	b2012	GENE:yeeD
+fig|83333.1.peg.2060	b2084
+fig|83333.1.peg.4030	b4118	GENE:melR
+fig|83333.1.peg.1606	b1620	GENE:malI
+fig|83333.1.peg.901	b0916	GENE:ycaQ
+fig|83333.1.peg.1465	b1478	GENE:adhP
+fig|83333.1.peg.418	b0421	GENE:ispA
+fig|83333.1.peg.281	b0285	GENE:yagS
+fig|83333.1.peg.497	b0501
+fig|83333.1.peg.3345	b3410	GENE:yhgG
+fig|83333.1.peg.3414	b3481	GENE:yhhG
+fig|83333.1.peg.478	b0482	GENE:ybaP
+fig|83333.1.peg.1604	b1618	GENE:uidR
+fig|83333.1.peg.245	b0250	GENE:ykfB
+fig|83333.1.peg.3999	b4087	GENE:yjcW
+fig|83333.1.peg.2794	b2841	GENE:araE
+fig|83333.1.peg.2731	b2775	GENE:yqcE
+fig|83333.1.peg.3810	b3890	GENE:yiiF
+fig|83333.1.peg.4111	b4201	GENE:priB
+fig|83333.1.peg.1439	b1453	GENE:ansP
+fig|83333.1.peg.2807	b2854
+fig|83333.1.peg.2247	b2273	GENE:yfbN
+fig|83333.1.peg.3161	b3218 LocusTag:trs510
+fig|83333.1.peg.3261	b3327	GENE:hofF
+fig|83333.1.peg.3808	b3888	GENE:yiiD
+fig|83333.1.peg.4267	b4356	GENE:yjiZ
+fig|83333.1.peg.2311	b4534
+fig|83333.1.peg.13	b0013	GENE:yaaI
+fig|83333.1.peg.952	b0967
+fig|83333.1.peg.2535	b2565	GENE:recO
+fig|83333.1.peg.151	b0150	GENE:fhuA
+fig|83333.1.peg.1097	b1112	GENE:ycfR
+fig|83333.1.peg.3920	b4011	GENE:yjaA
+fig|83333.1.peg.2771	b2818	GENE:argA
+fig|83333.1.peg.1976	b2002	GENE:yeeS
+fig|83333.1.peg.3158	b3215	GENE:yhcA
+fig|83333.1.peg.923	b0938	GENE:ycbQ
+fig|83333.1.peg.337	b0340	GENE:cynS
+fig|83333.1.peg.3370	b3438	GENE:gntR
+fig|83333.1.peg.1027	b1041	GENE:csgB
+fig|83333.1.peg.3430	b3497	GENE:yhiQ
+fig|83333.1.peg.80	b0079	GENE:fruL
+fig|83333.1.peg.1798	b1815
+fig|83333.1.peg.1264	b1277	GENE:ribA
+fig|83333.1.peg.107	b0108	GENE:ppdD
+fig|83333.1.peg.3192	b3250	GENE:mreC
+fig|83333.1.peg.181	b0181	GENE:lpxA
+fig|83333.1.peg.3131	b3188	GENE:nlp
+fig|83333.1.peg.1090	b1105	GENE:ycfM
+fig|83333.1.peg.3928	b4019	GENE:metH
+fig|83333.1.peg.783	b0797	GENE:rhlE
+fig|83333.1.peg.2354	b2381
+fig|83333.1.peg.1906	b1926	GENE:fliT
+fig|83333.1.peg.2457	b2488	GENE:hyfH
+fig|83333.1.peg.2464	b2495
+fig|83333.1.peg.3646	b3709	GENE:tnaB
+fig|83333.1.peg.1684	b1700	GENE:ydiT
+fig|83333.1.peg.1561	b1575	GENE:dicB
+fig|83333.1.peg.3463	b3530
+fig|83333.1.peg.4135	b4225	GENE:chpB
+fig|83333.1.peg.3944	b4035	GENE:malK
+fig|83333.1.peg.1345	b1355
+fig|83333.1.peg.563	b0565	GENE:ompT
+fig|83333.1.peg.1424	b1438
+fig|83333.1.peg.3500	b3566	GENE:xylF
+fig|83333.1.peg.1421	b1435	GENE:ydcP
+fig|83333.1.peg.969	b0984	GENE:ymcA
+fig|83333.1.peg.3853	b3934	GENE:cytR
+fig|83333.1.peg.1585	b1599
+fig|83333.1.peg.3089	b3144	GENE:yraJ
+fig|83333.1.peg.3271	b3337	GENE:yheA
+fig|83333.1.peg.1531	b1543
+fig|83333.1.peg.1008	b1020	GENE:phoH
+fig|83333.1.peg.1829	b1845	GENE:ptrB
+fig|83333.1.peg.2028	b2052	GENE:wcaG
+fig|83333.1.peg.3801	b3881	GENE:yihT
+fig|83333.1.peg.3932	b4023	GENE:yjbD
+fig|83333.1.peg.631	b0630	GENE:lipB
+fig|83333.1.peg.3004	b3056	GENE:cca
+fig|83333.1.peg.1992	b2017	GENE:yefM
+fig|83333.1.peg.1400	b1412	GENE:acpD
+fig|83333.1.peg.701	b0709	GENE:ybgH
+fig|83333.1.peg.4024	b4112	GENE:basS
+fig|83333.1.peg.3157	b3214	GENE:gltF
+fig|83333.1.peg.2835	b2883	GENE:ygfP
+fig|83333.1.peg.308	b0311	GENE:betA
+fig|83333.1.peg.868	b0882	GENE:clpA
+fig|83333.1.peg.1356	b1366	GENE:ydaY
+fig|83333.1.peg.3300	b3365	GENE:nirB
+fig|83333.1.peg.3639	b3703	GENE:rpmH
+fig|83333.1.peg.2627	b2666
+fig|83333.1.peg.4232	b4322	GENE:uxuA
+fig|83333.1.peg.2497	b2527	GENE:yfhE
+fig|83333.1.peg.4149	b4239	GENE:treC
+fig|83333.1.peg.4113	b4203	GENE:rplI
+fig|83333.1.peg.3809	b3889	GENE:yiiE
+fig|83333.1.peg.2948	b2998
+fig|83333.1.peg.640	b0639	GENE:ybeN
+fig|83333.1.peg.980	b0993	GENE:torS
+fig|83333.1.peg.2533	b2563	GENE:acpS
+fig|83333.1.peg.150	b0149	GENE:mrcB
+fig|83333.1.peg.484	b0488	GENE:ybbJ
+fig|83333.1.peg.61	b0060	GENE:polB
+fig|83333.1.peg.3121	b3178	GENE:hflB
+fig|83333.1.peg.915	b0930	GENE:asnS
+fig|83333.1.peg.1146	b1161	GENE:ycgX
+fig|83333.1.peg.1205	b1216	GENE:chaA
+fig|83333.1.peg.3886	b3966	GENE:btuB
+fig|83333.1.peg.746	b0760	GENE:modF
+fig|83333.1.peg.2633	b2672
+fig|83333.1.peg.3035	b3088	GENE:ygjT
+fig|83333.1.peg.2437	b2469	GENE:narQ
+fig|83333.1.peg.1046	b1061	GENE:dinI
+fig|83333.1.peg.3877	b3957	GENE:argE
+fig|83333.1.peg.2242	b2268
+fig|83333.1.peg.1593	b1607	GENE:ydgC
+fig|83333.1.peg.3542	b3606	GENE:yibK
+fig|83333.1.peg.124	b0124	GENE:gcd
+fig|83333.1.peg.668	b0678	GENE:nagB
+fig|83333.1.peg.2869	b2918	GENE:ygfD
+fig|83333.1.peg.1069	b1084	GENE:rne
+fig|83333.1.peg.3955	b4045	GENE:yjbJ
+fig|83333.1.peg.3071	b3126	GENE:yhaF
+fig|83333.1.peg.2588	b2623	GENE:yfjH
+fig|83333.1.peg.1249	b1262	GENE:trpC
+fig|83333.1.peg.4054	b4142	GENE:mopB
+fig|83333.1.peg.3031	b3084
+fig|83333.1.peg.2944	b2994	GENE:hybC
+fig|83333.1.peg.382	b0385	GENE:yaiC
+fig|83333.1.peg.1737	b1754
+fig|83333.1.peg.2697	b2741	GENE:rpoS
+fig|83333.1.peg.159	b0158	GENE:yadT
+fig|83333.1.peg.1673	b1689
+fig|83333.1.peg.455	b0459	GENE:ylaD
+fig|83333.1.peg.1054	b1069	GENE:mviN
+fig|83333.1.peg.160	b0159	GENE:pfs
+fig|83333.1.peg.2287	b2313	GENE:cvpA
+fig|83333.1.peg.1179	b1193	GENE:mltE
+fig|83333.1.peg.2842	b2890	GENE:lysS
+fig|83333.1.peg.2070	b2095	GENE:gatZ
+fig|83333.1.peg.4025	b4113	GENE:basR
+fig|83333.1.peg.3512	b3578	GENE:yiaN
+fig|83333.1.peg.1879	b1895	GENE:yecG
+fig|83333.1.peg.2249	b2275
+fig|83333.1.peg.3696	b3765	GENE:yifB
+fig|83333.1.peg.1002	b1014	GENE:putA
+fig|83333.1.peg.4042	b4130	GENE:yjdL
+fig|83333.1.peg.732	b0739	GENE:tolA
+fig|83333.1.peg.1136	b1151	GENE:ymfO
+fig|83333.1.peg.3427	b3494	GENE:yhiO
+fig|83333.1.peg.987	b1000	GENE:cbpA
+fig|83333.1.peg.3908	b3995	GENE:yjaE
+fig|83333.1.peg.739	b0753
+fig|83333.1.peg.2845	b2893	GENE:dsbC
+fig|83333.1.peg.2956	b3008	GENE:metC
+fig|83333.1.peg.3528	b3594	GENE:yibA
+fig|83333.1.peg.3783	b3862	GENE:yihG
+fig|83333.1.peg.3964	b4054	GENE:tyrB
+fig|83333.1.peg.1863	b1879	GENE:flhA
+fig|83333.1.peg.3577	b3641
+fig|83333.1.peg.4140	b4230	GENE:ytfT
+fig|83333.1.peg.529	b0532	GENE:sfmD
+fig|83333.1.peg.1213	b1224	GENE:narG
+fig|83333.1.peg.1645	b1659	GENE:ydhB
+fig|83333.1.peg.2430	b2462
+fig|83333.1.peg.3264	b3330
+fig|83333.1.peg.897	b0912	GENE:himD
+fig|83333.1.peg.1095	b1110	GENE:ycfJ
+fig|83333.1.peg.2922	b2972
+fig|83333.1.peg.3549	b3613
+fig|83333.1.peg.680	b0690	GENE:ybfG
+fig|83333.1.peg.1458	b1472
+fig|83333.1.peg.994	b1006	GENE:ycdG
+fig|83333.1.peg.3483	b3551	GENE:bisC
+fig|83333.1.peg.1553	b1565
+fig|83333.1.peg.1634	b1648
+fig|83333.1.peg.3185	b3241	GENE:yhcQ
+fig|83333.1.peg.2919	b2969	GENE:yghE
+fig|83333.1.peg.777	b0791	GENE:ybhQ
+fig|83333.1.peg.2556	b2585
+fig|83333.1.peg.2231	b4533
+fig|83333.1.peg.1771	b1788
+fig|83333.1.peg.1240	b1253	GENE:yciA
+fig|83333.1.peg.1835	b1851	GENE:edd
+fig|83333.1.peg.944	b0959
+fig|83333.1.peg.2324	b2352
+fig|83333.1.peg.2077	b2102	GENE:yegX
+fig|83333.1.peg.420	b0423	GENE:yajK
+fig|83333.1.peg.3348	b3413	GENE:yhgH
+fig|83333.1.peg.1232	b1245	GENE:oppC
+fig|83333.1.peg.3440	b3507	GENE:yhiF
+fig|83333.1.peg.137	b0137	GENE:yadL
+fig|83333.1.peg.950	b0965
+fig|83333.1.peg.882	b0897	GENE:ycaC
+fig|83333.1.peg.2624	b2663	GENE:gabP
+fig|83333.1.peg.1817	b1833
+fig|83333.1.peg.322	b0325	GENE:yahK
+fig|83333.1.peg.1638	b1652	GENE:rnt
+fig|83333.1.peg.1120	b1135	GENE:ymfC
+fig|83333.1.peg.3114	b3169	GENE:nusA
+fig|83333.1.peg.4271	b4360	GENE:yjjA
+fig|83333.1.peg.1382	b1392
+fig|83333.1.peg.721	b0729	GENE:sucD
+fig|83333.1.peg.1073	b1088	GENE:yceD
+fig|83333.1.peg.2993	b3045 LocusTag:yi225
+fig|83333.1.peg.976	b0990	GENE:cspG
+fig|83333.1.peg.2356	b2383
+fig|83333.1.peg.3083	b3138	GENE:agaB
+fig|83333.1.peg.2116	b2141	GENE:yohJ
+fig|83333.1.peg.832	b0846
+fig|83333.1.peg.1299	b1311	GENE:ycjO
+fig|83333.1.peg.1846	b1862	GENE:yebB
+fig|83333.1.peg.3309	b3374	GENE:yhfQ
+fig|83333.1.peg.200	b0199	GENE:abc
+fig|83333.1.peg.2758	b2802	GENE:fucI
+fig|83333.1.peg.711	b0719	GENE:ybgD
+fig|83333.1.peg.1667	b1683	GENE:ynhE
+fig|83333.1.peg.86	b0085	GENE:murE
+fig|83333.1.peg.3905	b3992
+fig|83333.1.peg.294	b0297	GENE:eaeH
+fig|83333.1.peg.3709	b3781	GENE:trxA
+fig|83333.1.peg.82	b0081	GENE:yabB
+fig|83333.1.peg.3307	b3372
+fig|83333.1.peg.3393	b3460
+fig|83333.1.peg.1364	b1374
+fig|83333.1.peg.814	b0828	GENE:ybiK
+fig|83333.1.peg.4215	b4305	GENE:sgcX
+fig|83333.1.peg.2724	b2768	GENE:ygcP
+fig|83333.1.peg.2349	b2376
+fig|83333.1.peg.3747	b3822	GENE:recQ
+fig|83333.1.peg.1284	b1296	GENE:ycjJ
+fig|83333.1.peg.2156	b2181	GENE:yejG
+fig|83333.1.peg.2298	b2324
+fig|83333.1.peg.3402	b3469	GENE:zntA
+fig|83333.1.peg.4224	b4314	GENE:fimA
+fig|83333.1.peg.4242	b4332	GENE:yjiJ
+fig|83333.1.peg.634	b0633	GENE:rlpA
+fig|83333.1.peg.1682	b1698	GENE:ydiR
+fig|83333.1.peg.1441	b1455
+fig|83333.1.peg.2959	b3011	GENE:yqhD
+fig|83333.1.peg.741	b0755	GENE:gpmA
+fig|83333.1.peg.1159	b1173
+fig|83333.1.peg.3437	b3504	GENE:yhiS
+fig|83333.1.peg.1291	b1303	GENE:pspF
+fig|83333.1.peg.3369	b3437	GENE:gntK
+fig|83333.1.peg.2620	b2659
+fig|83333.1.peg.2463	b2494
+fig|83333.1.peg.1582	b1596	GENE:ynfM
+fig|83333.1.peg.550	b0552 LocusTag:trs52
+fig|83333.1.peg.394	b0397	GENE:sbcC
+fig|83333.1.peg.1329	b1340	GENE:ydaL
+fig|83333.1.peg.2901	b2950	GENE:yggR
+fig|83333.1.peg.3571	b3635	GENE:mutM
+fig|83333.1.peg.1257	b1270	GENE:btuR
+fig|83333.1.peg.603	b0602	GENE:ybdN
+fig|83333.1.peg.1577	b1591
+fig|83333.1.peg.3420	b3487	GENE:yhiI
+fig|83333.1.peg.2706	b2750	GENE:cysC
+fig|83333.1.peg.2921	b2971
+fig|83333.1.peg.1615	b1629
+fig|83333.1.peg.1840	b1856	GENE:yebA
+fig|83333.1.peg.466	b0470	GENE:dnaX
+fig|83333.1.peg.3222	b3289	GENE:sun
+fig|83333.1.peg.2729	b2773	GENE:ygcU
+fig|83333.1.peg.2398	b2430
+fig|83333.1.peg.1021	b1036	GENE:ycdZ
+fig|83333.1.peg.437	b0440	GENE:hupB
+fig|83333.1.peg.2592	b2627	GENE:yfjK
+fig|83333.1.peg.774	b0788	GENE:ybhN
+fig|83333.1.peg.2127	b2152	GENE:yeiB
+fig|83333.1.peg.3472	b3539	GENE:yhjV
+fig|83333.1.peg.2617	b2656
+fig|83333.1.peg.3975	b4065	GENE:yjcE
+fig|83333.1.peg.1117	b1132	GENE:ycfC
+fig|83333.1.peg.352	b0355	GENE:yaiM
+fig|83333.1.peg.492	b0496	GENE:ybbP
+fig|83333.1.peg.781	b0795
+fig|83333.1.peg.3617	b3680	GENE:yidL
+fig|83333.1.peg.2681	b2726	GENE:hypA
+fig|83333.1.peg.937	b0952	GENE:ymbA
+fig|83333.1.peg.16	b0016 LocusTag:yi811
+fig|83333.1.peg.1909	b1929	GENE:yedE
+fig|83333.1.peg.2406	b2438
+fig|83333.1.peg.3984	b4074	GENE:nrfE
+fig|83333.1.peg.2785	b2832
+fig|83333.1.peg.2363	b2390
+fig|83333.1.peg.4179	b4269
+fig|83333.1.peg.2906	b2955	GENE:yggW
+fig|83333.1.peg.3107	b3162	GENE:deaD
+fig|83333.1.peg.3136	b3193	GENE:yrbD
+fig|83333.1.peg.1699	b1715	GENE:pheM
+fig|83333.1.peg.209	b0214	GENE:rnhA
+fig|83333.1.peg.1309	b1321	GENE:ycjX
+fig|83333.1.peg.1946	b1967	GENE:yedU
+fig|83333.1.peg.649	b0648	GENE:ybeU
+fig|83333.1.peg.4089	b4179
+fig|83333.1.peg.1031	b1045
+fig|83333.1.peg.3665	b3728	GENE:pstS
+fig|83333.1.peg.2029	b2053	GENE:gmd
+fig|83333.1.peg.2396	b2428	GENE:yfeU
+fig|83333.1.peg.204	b0209	GENE:yafD
+fig|83333.1.peg.1656	b1672
+fig|83333.1.peg.910	b0925	GENE:ycbB
+fig|83333.1.peg.2104	b2130	GENE:yehY
+fig|83333.1.peg.1935	b1956
+fig|83333.1.peg.2447	b2478	GENE:dapA
+fig|83333.1.peg.2893	b2942	GENE:metK
+fig|83333.1.peg.1104	b1119	GENE:ycfX
+fig|83333.1.peg.3128	b3185	GENE:rpmA
+fig|83333.1.peg.4256	b4345	GENE:mcrC
+fig|83333.1.peg.3687	b3749	GENE:rbsA
+fig|83333.1.peg.2167	b2193	GENE:narP
+fig|83333.1.peg.2022	b2046	GENE:wzxC
+fig|83333.1.peg.3598	b4552
+fig|83333.1.peg.2646	b2687 GENE:luxS
+fig|83333.1.peg.1225	b1238	GENE:tdk
+fig|83333.1.peg.1354	b1364
+fig|83333.1.peg.587	b0587	GENE:fepE
+fig|83333.1.peg.2746	b2790
+fig|83333.1.peg.1415	b1429	GENE:tehA
+fig|83333.1.peg.4068	b4155	GENE:yjeA
+fig|83333.1.peg.1522	b1535	GENE:ydeH
+fig|83333.1.peg.3234	b3300	GENE:prlA
+fig|83333.1.peg.3652	b3715	GENE:yieH
+fig|83333.1.peg.1755	b1772
+fig|83333.1.peg.2181	b2207	GENE:napD
+fig|83333.1.peg.1530	b1542	GENE:ydfI
+fig|83333.1.peg.805	b0819	GENE:ybiS
+fig|83333.1.peg.4218	b4308	GENE:yjhR
+fig|83333.1.peg.627	b0626	GENE:ybeM
+fig|83333.1.peg.2426	b2458	GENE:eutI
+fig|83333.1.peg.3588	b3652	GENE:recG
+fig|83333.1.peg.2965	b3018	GENE:plsC
+fig|83333.1.peg.1931	b1951	GENE:rcsA
+fig|83333.1.peg.1267	b1280	GENE:yciM
+fig|83333.1.peg.4283	b4375	GENE:prfC
+fig|83333.1.peg.1301	b1313	GENE:ycjQ
+fig|83333.1.peg.2122	b2147
+fig|83333.1.peg.479	b0483	GENE:ybaQ
+fig|83333.1.peg.2645	b2686	GENE:emrB
+fig|83333.1.peg.2883	b2932	GENE:yggP
+fig|83333.1.peg.3105	b3160	GENE:yhbW
+fig|83333.1.peg.512	b0516	GENE:ylbB
+fig|83333.1.peg.1922	b1942	GENE:fliJ
+fig|83333.1.peg.1504	b1517	GENE:yneB
+fig|83333.1.peg.593	b0593	GENE:entC
+fig|83333.1.peg.378	b0381	GENE:ddlA
+fig|83333.1.peg.1985	b2011	GENE:sbcB
+fig|83333.1.peg.3768	b3842	GENE:rfaH
+fig|83333.1.peg.2123	b2148	GENE:mglC
+fig|83333.1.peg.108	b4500
+fig|83333.1.peg.3011	b3063	GENE:ygjE
+fig|83333.1.peg.2705	b2749	GENE:ygbE
+fig|83333.1.peg.2135	b2160	GENE:yeiI
+fig|83333.1.peg.1995	b2020	GENE:hisD
+fig|83333.1.peg.599	b0598a	GENE:ybdD
+fig|83333.1.peg.626	b0625	GENE:ybeH
+fig|83333.1.peg.3318	b3383	GENE:yhfZ
+fig|83333.1.peg.3701	b3771	GENE:ilvD
+fig|83333.1.peg.3286	b3351	GENE:yheR
+fig|83333.1.peg.1624	b1638	GENE:pdxH
+fig|83333.1.peg.501	b0505	GENE:ybbT
+fig|83333.1.peg.2219	b2246
+fig|83333.1.peg.357	b0360 LocusTag:yi211
+fig|83333.1.peg.2498	b2528	GENE:yfhF
+fig|83333.1.peg.2831	b2879
+fig|83333.1.peg.2772	b2819	GENE:recD
+fig|83333.1.peg.618	b0617	GENE:citD
+fig|83333.1.peg.2221	b2248
+fig|83333.1.peg.1698	b1714	GENE:pheS
+fig|83333.1.peg.2336	b4535
+fig|83333.1.peg.3179	b3235	GENE:degS
+fig|83333.1.peg.1322	b1333	GENE:ydaA
+fig|83333.1.peg.3634	b3698
+fig|83333.1.peg.870	b0885	GENE:aat
+fig|83333.1.peg.1839	b1855	GENE:msbB
+fig|83333.1.peg.506	b0510	GENE:ybbV
+fig|83333.1.peg.1152	b1167	GENE:ymgC
+fig|83333.1.peg.795	b0809	GENE:glnQ
+fig|83333.1.peg.572	b0574	GENE:ylcD
+fig|83333.1.peg.1511	b1524	GENE:yneH
+fig|83333.1.peg.3001	b3053	GENE:glnE
+fig|83333.1.peg.1977	b2003	GENE:yeeT
+fig|83333.1.peg.369	b0372 LocusTag:tra51
+fig|83333.1.peg.3824	b3903	GENE:rhaA
+fig|83333.1.peg.1197	b1211	GENE:prfA
+fig|83333.1.peg.3213	b3279
+fig|83333.1.peg.2119	b2144	GENE:sanA
+fig|83333.1.peg.2385	b2417	GENE:crr
+fig|83333.1.peg.2342	b2369	GENE:evgA
+fig|83333.1.peg.1895	b1915	GENE:yecF
+fig|83333.1.peg.1339	b1350	GENE:recE
+fig|83333.1.peg.2973	b3026	GENE:qseC
+fig|83333.1.peg.3777	b3856	GENE:mobB
+fig|83333.1.peg.413	b0416	GENE:nusB
+fig|83333.1.peg.889	b0904	GENE:focA
+fig|83333.1.peg.2543	b2572	GENE:rseA
+fig|83333.1.peg.1945	b1966
+fig|83333.1.peg.1450	b1464	GENE:yddE
+fig|83333.1.peg.3460	b3527	GENE:yhjJ
+fig|83333.1.peg.1940	b1961	GENE:dcm
+fig|83333.1.peg.2834	b2882	GENE:ygfO
+fig|83333.1.peg.48	b0047	GENE:kefC
+fig|83333.1.peg.717	b0725
+fig|83333.1.peg.218	b0223	GENE:yafJ
+fig|83333.1.peg.1398	b1410
+fig|83333.1.peg.2700	b2744	GENE:surE
+fig|83333.1.peg.1887	b1904
+fig|83333.1.peg.3737	b3811	GENE:xerC
+fig|83333.1.peg.1873	b1889	GENE:motB
+fig|83333.1.peg.3176	b3232	GENE:yhcM
+fig|83333.1.peg.4296	b4388	GENE:serB
+fig|83333.1.peg.2613	b2650
+fig|83333.1.peg.3624	b3688	GENE:yidQ
+fig|83333.1.peg.1854	b1870	GENE:yecO
+fig|83333.1.peg.1180	b1194	GENE:ycgR
+fig|83333.1.peg.2937	b2987	GENE:pitB
+fig|83333.1.peg.3015	b3067	GENE:rpoD
+fig|83333.1.peg.1859	b1875
+fig|83333.1.peg.2630	b2669	GENE:stpA
+fig|83333.1.peg.4098	b4188
+fig|83333.1.peg.951	b0966	GENE:yccV
+fig|83333.1.peg.192	b0191	GENE:yaeJ
+fig|83333.1.peg.3570	b3634	GENE:kdtB
+fig|83333.1.peg.3878	b3958	GENE:argC
+fig|83333.1.peg.4004	b4092	GENE:phnP
+fig|83333.1.peg.3894	b3982	GENE:nusG
+fig|83333.1.peg.559	b0561	GENE:ybcX
+fig|83333.1.peg.1164	b1178	GENE:ycgK
+fig|83333.1.peg.564	b0566	GENE:envY
+fig|83333.1.peg.189	b0189	GENE:yaeO
+fig|83333.1.peg.348	b0351	GENE:mhpF
+fig|83333.1.peg.2364	b2391
+fig|83333.1.peg.1804	b1821
+fig|83333.1.peg.860	b0874	GENE:ybjE
+fig|83333.1.peg.2824	b2872	GENE:ygeY
+fig|83333.1.peg.2198	b2223	GENE:atoE
+fig|83333.1.peg.3378	b4547
+fig|83333.1.peg.2616	b2655
+fig|83333.1.peg.3195	b3253	GENE:yhdH
+fig|83333.1.peg.228	b0233	GENE:yafO
+fig|83333.1.peg.286	b0290	GENE:yagW
+fig|83333.1.peg.1311	b1323	GENE:tyrR
+fig|83333.1.peg.3209	b3267	GENE:yhdV
+fig|83333.1.peg.3256	b3322	GENE:pinO
+fig|83333.1.peg.3992	b4081	GENE:yjcQ
+fig|83333.1.peg.1983	b2009	GENE:sbmC
+fig|83333.1.peg.4077	b4167	GENE:yjeF
+fig|83333.1.peg.4202	b4293	GENE:fecI
+fig|83333.1.peg.1823	b1839
+fig|83333.1.peg.226	b0231	GENE:dinP
+fig|83333.1.peg.3310	b3375
+fig|83333.1.peg.2856	b2904	GENE:gcvH
+fig|83333.1.peg.1429	b1443
+fig|83333.1.peg.1258	b1271	GENE:yciK
+fig|83333.1.peg.1013	b1025	GENE:ycdT
+fig|83333.1.peg.765	b0779	GENE:uvrB
+fig|83333.1.peg.2521	b2551	GENE:glyA
+fig|83333.1.peg.3890	b3974	GENE:coaA
+fig|83333.1.peg.472	b0476	GENE:ybaC
+fig|83333.1.peg.3600	b3663	GENE:yicN
+fig|83333.1.peg.24	b0024
+fig|83333.1.peg.1449	b1463
+fig|83333.1.peg.688	b0697	GENE:kdpB
+fig|83333.1.peg.1418	b1432
+fig|83333.1.peg.3543	b3607	GENE:cysE
+fig|83333.1.peg.2710	b2754	GENE:ygbF
+fig|83333.1.peg.2293	b2319	GENE:usg
+fig|83333.1.peg.2206	b2233	GENE:yfaL
+fig|83333.1.peg.1442	b1456	GENE:rhsE
+fig|83333.1.peg.118	b0118	GENE:acnB
+fig|83333.1.peg.2504	b2534
+fig|83333.1.peg.1430	b1444
+fig|83333.1.peg.2509	hcaA2	b2539
+fig|83333.1.peg.1422	b1436
+fig|83333.1.peg.2056	b2080
+fig|83333.1.peg.3797	b3877
+fig|83333.1.peg.3713	b3784	GENE:rfe
+fig|83333.1.peg.961	b0977	GENE:hyaF
+fig|83333.1.peg.3098	b3153	GENE:yhbO
+fig|83333.1.peg.3451	b3518	GENE:yhjA
+fig|83333.1.peg.1539	b1551
+fig|83333.1.peg.1915	b1935	GENE:yedM
+fig|83333.1.peg.3757	b3830	GENE:ysgA
+fig|83333.1.peg.1278	b1290	GENE:sapF
+fig|83333.1.peg.2168	b2194	GENE:ccmH
+fig|83333.1.peg.1373	b1383	GENE:ydbL
+fig|83333.1.peg.3657	b3720	GENE:yieC
+fig|83333.1.peg.2170	b2196	GENE:ccmF
+fig|83333.1.peg.444	b0447	GENE:ybaO
+fig|83333.1.peg.3322	b3387	GENE:dam
+fig|83333.1.peg.2602	b2638
+fig|83333.1.peg.2312	b2339
+fig|83333.1.peg.1860	b1876	GENE:argS
+fig|83333.1.peg.2212	b2239	GENE:glpQ
+fig|83333.1.peg.1767	b1784	GENE:yeaH
+fig|83333.1.peg.1889	b1906	GENE:yecH
+fig|83333.1.peg.3415	b3482	GENE:rhsB
+fig|83333.1.peg.857	b0871	GENE:poxB
+fig|83333.1.peg.1491	b1504
+fig|83333.1.peg.2599	b2634	GENE:yfjR
+fig|83333.1.peg.3091	b3146	GENE:yraL
+fig|83333.1.peg.2529	b2559	GENE:yfhC
+fig|83333.1.peg.1919	b1939	GENE:fliG
+fig|83333.1.peg.975	b0989	GENE:cspH
+fig|83333.1.peg.4266	b4355	GENE:tsr
+fig|83333.1.peg.3324	b3389	GENE:aroB
+fig|83333.1.peg.2511	b2541	GENE:hcaB
+fig|83333.1.peg.929	b0944	GENE:ycbF
+fig|83333.1.peg.473	b0477	GENE:gsk
+fig|83333.1.peg.3150	b3207	GENE:yrbL
+fig|83333.1.peg.3356	b3422	GENE:rtcR
+fig|83333.1.peg.2134	b2159	GENE:nfo
+fig|83333.1.peg.3387	b3454
+fig|83333.1.peg.2990	b3042
+fig|83333.1.peg.2375	b2408	GENE:yfeN
+fig|83333.1.peg.4300	b4392	GENE:slt
+fig|83333.1.peg.161	b0160	GENE:dgt
+fig|83333.1.peg.3462	b3529	GENE:yhjK
+fig|83333.1.peg.660	b0659	GENE:ybeY
+fig|83333.1.peg.1053	b1068	GENE:mviM
+fig|83333.1.peg.1566	b1580	GENE:rspB
+fig|83333.1.peg.3431	b3498	GENE:prlC
+fig|83333.1.peg.1007	b1019	GENE:ycdB
+fig|83333.1.peg.1799	b1816	GENE:yoaE
+fig|83333.1.peg.2419	b2451
+fig|83333.1.peg.2380	b2412	GENE:zipA
+fig|83333.1.peg.1034	b1048	GENE:mdoG
+fig|83333.1.peg.3339	b3404	GENE:envZ
+fig|83333.1.peg.907	b0922	GENE:mukF
+fig|83333.1.peg.2534	b2564	GENE:pdxJ
+fig|83333.1.peg.373	b0376	GENE:yaiH
+fig|83333.1.peg.3501	b3567	GENE:xylG
+fig|83333.1.peg.72	b0071	GENE:leuD
+fig|83333.1.peg.336	b0339	GENE:cynT
+fig|83333.1.peg.541	b0545	GENE:ybcL
+fig|83333.1.peg.3438	b3505 LocusTag:trs511
+fig|83333.1.peg.2456	b2487	GENE:hyfG
+fig|83333.1.peg.3088	b3143	GENE:yraI
+fig|83333.1.peg.349	b0352	GENE:mhpE
+fig|83333.1.peg.700	b0708	GENE:phrB
+fig|83333.1.peg.313	b0316	GENE:yahB
+fig|83333.1.peg.2233	b2259	GENE:pmrD
+fig|83333.1.peg.3130	b3187	GENE:ispB
+fig|83333.1.peg.2739	b2783	GENE:chpR
+fig|83333.1.peg.2147	b2172	GENE:yeiQ
+fig|83333.1.peg.2092	b2119	GENE:yehL
+fig|83333.1.peg.665	b0675	GENE:nagD
+fig|83333.1.peg.694	b0703
+fig|83333.1.peg.1788	b1805	GENE:fadD
+fig|83333.1.peg.309	b0312	GENE:betB
+fig|83333.1.peg.197	b0196	GENE:rcsF
+fig|83333.1.peg.3243	b3309	GENE:rplX
+fig|83333.1.peg.3854	b3935	GENE:priA
+fig|83333.1.peg.3113	b3168	GENE:infB
+fig|83333.1.peg.2372	b2405	GENE:xapR
+fig|83333.1.peg.1457	b1471
+fig|83333.1.peg.39	b0038	GENE:caiB
+fig|83333.1.peg.3963	b4053	GENE:alr
+fig|83333.1.peg.136	b0136	GENE:yadK
+fig|83333.1.peg.3005	b3057	GENE:bacA
+fig|83333.1.peg.1558	b1571	GENE:ydfA
+fig|83333.1.peg.2307	b2333
+fig|83333.1.peg.1355	b1365
+fig|83333.1.peg.1024	b1039	GENE:csgE
+fig|83333.1.peg.3864	b3945
+fig|83333.1.peg.1721	b1738	GENE:celA
+fig|83333.1.peg.3708	b3780	GENE:rhlB
+fig|83333.1.peg.3933	b4024	GENE:lysC
+fig|83333.1.peg.3145	b3202	GENE:rpoN
+fig|83333.1.peg.166	b0166	GENE:dapD
+fig|83333.1.peg.2861	b2909
+fig|83333.1.peg.4037	b4125	GENE:yjdH
+fig|83333.1.peg.2933	b2983
+fig|83333.1.peg.2465	b2496
+fig|83333.1.peg.515	b4507
+fig|83333.1.peg.2718	b2762	GENE:cysH
+fig|83333.1.peg.1845	b1861	GENE:ruvA
+fig|83333.1.peg.3728	b3803	GENE:hemX
+fig|83333.1.peg.2880	b2929	GENE:yggD
+fig|83333.1.peg.419	b0422	GENE:xseB
+fig|83333.1.peg.2675	b2720	GENE:hycF
+fig|83333.1.peg.2655	b2700	GENE:ygaD
+fig|83333.1.peg.2261	b2287	GENE:nuoB
+fig|83333.1.peg.2957	b3009	GENE:yghB
+fig|83333.1.peg.3344	b3409	GENE:feoB
+fig|83333.1.peg.2475	b2505
+fig|83333.1.peg.2665	b2710
+fig|83333.1.peg.3070	b3125	GENE:yhaE
+fig|83333.1.peg.2412	b2444
+fig|83333.1.peg.1761	b1778	GENE:yeaA
+fig|83333.1.peg.752	b0766	GENE:ybhA
+fig|83333.1.peg.3534	b3599	GENE:mtlA
+fig|83333.1.peg.3931	b4022	GENE:yjbC
+fig|83333.1.peg.498	b0502
+fig|83333.1.peg.1147	b1162	GENE:ycgE
+fig|83333.1.peg.2408	b2440	GENE:eutC
+fig|83333.1.peg.3301	b3366	GENE:nirD
+fig|83333.1.peg.2003	b2028	GENE:ugd
+fig|83333.1.peg.1605	b1619	GENE:hdhA
+fig|83333.1.peg.2255	b2281	GENE:nuoI
+fig|83333.1.peg.3607	b3670	GENE:ilvN
+fig|83333.1.peg.4074	b4161
+fig|83333.1.peg.2175	b2201	GENE:ccmA
+fig|83333.1.peg.2256	b2282	GENE:nuoH
+fig|83333.1.peg.3288	b3353	GENE:yheT
+fig|83333.1.peg.3343	b3408	GENE:feoA
+fig|83333.1.peg.3262	b3328	GENE:hofG
+fig|83333.1.peg.2061	b2085
+fig|83333.1.peg.1836	b1852	GENE:zwf
+fig|83333.1.peg.821	b0835	GENE:yliG
+fig|83333.1.peg.2793	b2840	GENE:ygeA
+fig|83333.1.peg.900	b0915	GENE:ycaH
+fig|83333.1.peg.3160	b3217	GENE:yhcE
+fig|83333.1.peg.3998	b4086	GENE:yjcV
+fig|83333.1.peg.2458	b2489	GENE:hyfI
+fig|83333.1.peg.654	b0653	GENE:gltK
+fig|83333.1.peg.1607	b1621	GENE:malX
+fig|83333.1.peg.959	b0975	GENE:hyaD
+fig|83333.1.peg.77	b0076	GENE:leuO
+fig|83333.1.peg.2734	b2778
+fig|83333.1.peg.1779	b1796	GENE:yoaG
+fig|83333.1.peg.3645	b3708	GENE:tnaA
+fig|83333.1.peg.1436	b1450	GENE:yncC
+fig|83333.1.peg.1587	b1601	GENE:ydgG
+fig|83333.1.peg.822	b0836	GENE:yliH
+fig|83333.1.rna.159	b0000	GENE:ryhB

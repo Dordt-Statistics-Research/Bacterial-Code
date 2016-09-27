@@ -1,0 +1,356 @@
+Category	Subcategory	Subsystem	Role	Features
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	L-asparaginase I, cytoplasmic (EC 3.5.1.1)	fig|83333.1.peg.1750
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	L-asparaginase (EC 3.5.1.1)	fig|83333.1.peg.2908
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Aspartate--ammonia ligase (EC 6.3.1.1)	fig|83333.1.peg.3681
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Aspartate aminotransferase (EC 2.6.1.1)	fig|83333.1.peg.913
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Glutamate racemase (EC 5.1.1.3)	fig|83333.1.peg.3887
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)	fig|83333.1.peg.664
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Glutaminase (EC 3.5.1.2)	fig|83333.1.peg.1511, fig|83333.1.peg.481
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)	fig|83333.1.peg.3155
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Glutamine synthetase type I (EC 6.3.1.2)	fig|83333.1.peg.3790
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	fig|83333.1.peg.2436, fig|83333.1.peg.3156
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	fig|83333.1.peg.1744
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system	fig|83333.1.peg.874
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Aspartate ammonia-lyase (EC 4.3.1.1)	fig|83333.1.peg.4050
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Aspartate racemase (EC 5.1.1.13)	fig|83333.1.peg.2793
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamate dehydrogenases	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	fig|83333.1.peg.1744
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine synthetases	Glutamine synthetase type I (EC 6.3.1.2)	fig|83333.1.peg.3790
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	PII Superfamily	Glutamine synthetase type I (EC 6.3.1.2)	fig|83333.1.peg.3790
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	PII Superfamily	Cobalt/zinc/cadmium efflux RND transporter, membrane fusion protein, CzcB family	fig|83333.1.peg.572
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	PII Superfamily	Cobalt-zinc-cadmium resistance protein CzcA	fig|83333.1.peg.573
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	PII Superfamily	Nitrogen regulatory protein P-II	fig|83333.1.peg.2523
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	PII Superfamily	Cation efflux system protein CusA	fig|83333.1.peg.573
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamate and Aspartate uptake in Bacteria	Glutamate Aspartate transport system permease protein GltJ (TC 3.A.1.3.4)	fig|83333.1.peg.655
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamate and Aspartate uptake in Bacteria	Glutamate Aspartate transport ATP-binding protein GltL (TC 3.A.1.3.4)	fig|83333.1.peg.653
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamate and Aspartate uptake in Bacteria	Glutamate Aspartate transport system permease protein GltK (TC 3.A.1.3.4)	fig|83333.1.peg.654
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamate and Aspartate uptake in Bacteria	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)	fig|83333.1.peg.664
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamate and Aspartate uptake in Bacteria	Glutamate Aspartate periplasmic binding protein precursor GltI (TC 3.A.1.3.4)	fig|83333.1.peg.656
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis in plants	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)	fig|83333.1.peg.1999
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis in plants	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)	fig|83333.1.peg.2001
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis in plants	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)	fig|83333.1.peg.1998
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis in plants	Histidinol-phosphate aminotransferase (EC 2.6.1.9)	fig|83333.1.peg.1996
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis in plants	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	fig|83333.1.peg.1997
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis in plants	Imidazole glycerol phosphate synthase cyclase subunit (EC 4.1.3.-)	fig|83333.1.peg.2000
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis in plants	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	fig|83333.1.peg.2001
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis in plants	ATP phosphoribosyltransferase (EC 2.4.2.17)	fig|83333.1.peg.1994
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis in plants	Histidinol dehydrogenase (EC 1.1.1.23)	fig|83333.1.peg.1995
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis in plants	Histidinol-phosphatase (EC 3.1.3.15)	fig|83333.1.peg.1997
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)	fig|83333.1.peg.1999
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)	fig|83333.1.peg.2001
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Adenylosuccinate synthetase (EC 6.3.4.4)	fig|83333.1.peg.4087
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)	fig|83333.1.peg.1998
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Histidinol-phosphate aminotransferase (EC 2.6.1.9)	fig|83333.1.peg.1996
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	fig|83333.1.peg.1997
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	fig|83333.1.peg.2001
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Imidazole glycerol phosphate synthase cyclase subunit (EC 4.1.3.-)	fig|83333.1.peg.2000
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	ATP phosphoribosyltransferase (EC 2.4.2.17)	fig|83333.1.peg.1994
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Histidinol dehydrogenase (EC 1.1.1.23)	fig|83333.1.peg.1995
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Histidinol-phosphatase (EC 3.1.3.15)	fig|83333.1.peg.1997
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Histidyl-tRNA synthetase (EC 6.1.1.21)	fig|83333.1.peg.2484
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Putrescine utilization pathways	Gamma-glutamyl-aminobutyraldehyde dehydrogenase (EC 1.2.1.-)	fig|83333.1.peg.1288
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Putrescine utilization pathways	Putrescine importer	fig|83333.1.peg.1284, fig|83333.1.peg.1988
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Putrescine utilization pathways	4-aminobutyraldehyde dehydrogenase (EC 1.2.1.19)	fig|83333.1.peg.1430
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Putrescine utilization pathways	Putrescine aminotransferase (EC 2.6.1.82)	fig|83333.1.peg.3020
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Putrescine utilization pathways	Gamma-glutamyl-putrescine oxidase (EC1.4.3.-)	fig|83333.1.peg.1289
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Putrescine utilization pathways	Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase (EC 2.6.1.19)	fig|83333.1.peg.1290, fig|83333.1.peg.2623
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Putrescine utilization pathways	Putrescine utilization regulator	fig|83333.1.peg.1287
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Putrescine utilization pathways	Gamma-glutamyl-GABA hydrolase (EC 3.5.1.94)	fig|83333.1.peg.1286
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Putrescine utilization pathways	Gamma-glutamyl-putrescine synthetase (EC 6.3.1.11)	fig|83333.1.peg.1285
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Deiminase Pathway	Arginine/ornithine antiporter ArcD	fig|83333.1.peg.1591
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Deiminase Pathway	Arginine pathway regulatory protein ArgR, repressor of arg regulon	fig|83333.1.peg.3181
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Deiminase Pathway	Carbamate kinase (EC 2.7.2.2)	fig|83333.1.peg.320, fig|83333.1.peg.518
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Deiminase Pathway	Ornithine carbamoyltransferase (EC 2.1.3.3)	fig|83333.1.peg.269, fig|83333.1.peg.4164
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Arginine/ornithine antiporter ArcD	fig|83333.1.peg.1591
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Putrescine transport ATP-binding protein PotG (TC 3.A.1.11.2)	fig|83333.1.peg.841
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Putrescine transport system permease protein PotH (TC 3.A.1.11.2)	fig|83333.1.peg.842
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Putrescine transport ATP-binding protein PotA (TC 3.A.1.11.1)	fig|83333.1.peg.1111, fig|83333.1.peg.1427
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Arginine/agmatine antiporter	fig|83333.1.peg.4027
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Ornithine decarboxylase (EC 4.1.1.17)	fig|83333.1.peg.2916, fig|83333.1.peg.683
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	5'-methylthioadenosine nucleosidase (EC 3.2.2.16)	fig|83333.1.peg.160
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Spermidine synthase (EC 2.5.1.16)	fig|83333.1.peg.121
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	4-aminobutyraldehyde dehydrogenase (EC 1.2.1.19)	fig|83333.1.peg.1430
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Carbamate kinase (EC 2.7.2.2)	fig|83333.1.peg.320, fig|83333.1.peg.518
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Putrescine/proton symporter, putrescine/ornithine antiporter PotE	fig|83333.1.peg.682
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1A	fig|83333.1.peg.120
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Spermidine Putrescine ABC transporter permease component potC (TC_3.A.1.11.1)	fig|83333.1.peg.1109, fig|83333.1.peg.1429
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Biosynthetic arginine decarboxylase (EC 4.1.1.19)	fig|83333.1.peg.2889
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Spermidine Putrescine ABC transporter permease component PotB (TC 3.A.1.11.1)	fig|83333.1.peg.1110, fig|83333.1.peg.1428
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Spermidine N1-acetyltransferase (EC 2.3.1.57)	fig|83333.1.peg.1570
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Agmatinase (EC 3.5.3.11)	fig|83333.1.peg.2888
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Transcriptional regulator of catabolic arginine decarboxylase (adiA)	fig|83333.1.peg.4028, fig|83333.1.peg.564
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Arginine decarboxylase, catabolic (EC 4.1.1.19)	fig|83333.1.peg.4029
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Predicted chaperone lipoprotein YacC, potentially involved in protein secretion	fig|83333.1.peg.122
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Putrescine transport system permease protein PotI (TC 3.A.1.11.2)	fig|83333.1.peg.843
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	Putrescine ABC transporter putrescine-binding protein PotF (TC 3.A.1.11.2)	fig|83333.1.peg.840
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Polyamine Metabolism	ABC transporter, periplasmic spermidine putrescine-binding protein PotD (TC 3.A.1.11.1)	fig|83333.1.peg.1108, fig|83333.1.peg.1426
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Arginine/ornithine antiporter ArcD	fig|83333.1.peg.1591
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Arginine ABC transporter, permease protein ArtQ	fig|83333.1.peg.848
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Histidine ABC transporter, histidine-binding periplasmic protein precursor HisJ (TC 3.A.1.3.1)	fig|83333.1.peg.2283
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.5.1.12)	fig|83333.1.peg.1002
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Succinylornithine transaminase (EC 2.6.1.81)	fig|83333.1.peg.1731
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Succinylglutamic semialdehyde dehydrogenase (EC 1.2.1.71)	fig|83333.1.peg.1729
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Arginine/agmatine antiporter	fig|83333.1.peg.4027
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Ornithine decarboxylase (EC 4.1.1.17)	fig|83333.1.peg.2916, fig|83333.1.peg.683
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Succinylarginine dihydrolase (EC 3.5.3.23)	fig|83333.1.peg.1728
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	fig|83333.1.peg.1744
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Histidine ABC transporter, permease protein HisQ (TC 3.A.1.3.1)	fig|83333.1.peg.2282
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Arginine ABC transporter, periplasmic arginine-binding protein ArtJ	fig|83333.1.peg.846
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Carbamate kinase (EC 2.7.2.2)	fig|83333.1.peg.320, fig|83333.1.peg.518
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Putrescine aminotransferase (EC 2.6.1.82)	fig|83333.1.peg.3020
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Arginine ABC transporter, permease protein ArtM	fig|83333.1.peg.847
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Biosynthetic arginine decarboxylase (EC 4.1.1.19)	fig|83333.1.peg.2889
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Agmatinase (EC 3.5.3.11)	fig|83333.1.peg.2888
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Arginine ABC transporter, ATP-binding protein ArtP	fig|83333.1.peg.850
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Arginine ABC transporter, periplasmic arginine-binding protein ArtI	fig|83333.1.peg.849
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Arginine N-succinyltransferase (EC 2.3.1.109)	fig|83333.1.peg.1730
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Histidine ABC transporter, ATP-binding protein HisP (TC 3.A.1.3.1)	fig|83333.1.peg.2280
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Histidine ABC transporter, permease protein HisM (TC 3.A.1.3.1)	fig|83333.1.peg.2281
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Transcriptional regulator of catabolic arginine decarboxylase (adiA)	fig|83333.1.peg.4028, fig|83333.1.peg.564
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Arginine pathway regulatory protein ArgR, repressor of arg regulon	fig|83333.1.peg.3181
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Arginine decarboxylase, catabolic (EC 4.1.1.19)	fig|83333.1.peg.4029
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Succinylglutamate desuccinylase (EC 3.5.1.96)	fig|83333.1.peg.1727
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Ornithine carbamoyltransferase (EC 2.1.3.3)	fig|83333.1.peg.269, fig|83333.1.peg.4164
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine and Ornithine Degradation	Lysine-arginine-ornithine-binding periplasmic protein precursor (TC 3.A.1.3.1)	fig|83333.1.peg.2284
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)	fig|83333.1.peg.2440
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	Acetylornithine deacetylase (EC 3.5.1.16)	fig|83333.1.peg.3877
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	Acetylglutamate kinase (EC 2.7.2.8)	fig|83333.1.peg.3879
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	Arginine pathway regulatory protein ArgR, repressor of arg regulon	fig|83333.1.peg.3181
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	Argininosuccinate lyase (EC 4.3.2.1)	fig|83333.1.peg.3880
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	N-acetylglutamate synthase (EC 2.3.1.1)	fig|83333.1.peg.2771
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	Argininosuccinate synthase (EC 6.3.4.5)	fig|83333.1.peg.3116
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	fig|83333.1.peg.3878
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	Ornithine carbamoyltransferase (EC 2.1.3.3)	fig|83333.1.peg.269, fig|83333.1.peg.4164
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	Acetylornithine aminotransferase (EC 2.6.1.11)	fig|83333.1.peg.3294
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Methionine ABC transporter ATP-binding protein	fig|83333.1.peg.200
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	S-adenosylmethionine synthetase (EC 2.5.1.6)	fig|83333.1.peg.2893
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Serine acetyltransferase (EC 2.3.1.30)	fig|83333.1.peg.3543
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Homoserine kinase (EC 2.7.1.39)	fig|83333.1.peg.3
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Homoserine O-succinyltransferase (EC 2.3.1.46)	fig|83333.1.peg.3922
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)	fig|83333.1.peg.3756
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)	fig|83333.1.peg.3928
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Cysteine synthase (EC 2.5.1.47)	fig|83333.1.peg.2382
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	S-ribosylhomocysteine lyase (EC 4.4.1.21)	fig|83333.1.peg.2646
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	fig|83333.1.peg.3860
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Homocysteine S-methyltransferase (EC 2.1.1.10)	fig|83333.1.peg.256
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Homoserine dehydrogenase (EC 1.1.1.3)	fig|83333.1.peg.2, fig|83333.1.peg.3859
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Methionine ABC transporter substrate-binding protein	fig|83333.1.peg.198, fig|83333.1.peg.3597
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Cystathionine gamma-synthase (EC 2.5.1.48)	fig|83333.1.peg.3858
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Cystathionine beta-lyase (EC 4.4.1.8)	fig|83333.1.peg.2956
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)	fig|83333.1.peg.160
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Methionine ABC transporter permease protein	fig|83333.1.peg.199
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Transcriptional activator MetR	fig|83333.1.peg.3755
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Methionine repressor MetJ	fig|83333.1.peg.3857
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine degradation	Monoamine oxidase (1.4.3.4)	fig|83333.1.peg.1376
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine degradation	L-threonine transporter, anaerobically inducible	fig|83333.1.peg.3062
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine degradation	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)	fig|83333.1.peg.3553
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine degradation	Threonine catabolic operon transcriptional activator TdcR	fig|83333.1.peg.3065
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine degradation	Threonine dehydratase, catabolic (EC 4.3.1.19)	fig|83333.1.peg.3063
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine degradation	L-threonine 3-dehydrogenase (EC 1.1.1.103)	fig|83333.1.peg.3552
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine degradation	Low-specificity L-threonine aldolase (EC 4.1.2.48)	fig|83333.1.peg.856
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Degradation	Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)	fig|83333.1.peg.1368
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Degradation	Methionine ABC transporter substrate-binding protein	fig|83333.1.peg.198, fig|83333.1.peg.3597
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Degradation	Methionine ABC transporter ATP-binding protein	fig|83333.1.peg.200
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Degradation	S-adenosylmethionine synthetase (EC 2.5.1.6)	fig|83333.1.peg.2893
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Degradation	Pyruvate dehydrogenase E1 component (EC 1.2.4.1)	fig|83333.1.peg.114
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Degradation	S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)	fig|83333.1.peg.160
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Degradation	Methionine ABC transporter permease protein	fig|83333.1.peg.199
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Degradation	S-ribosylhomocysteine lyase (EC 4.4.1.21)	fig|83333.1.peg.2646
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine and Homoserine Biosynthesis	Homoserine dehydrogenase (EC 1.1.1.3)	fig|83333.1.peg.2, fig|83333.1.peg.3859
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine and Homoserine Biosynthesis	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	fig|83333.1.peg.2293, fig|83333.1.peg.3367
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine and Homoserine Biosynthesis	Aspartate aminotransferase (EC 2.6.1.1)	fig|83333.1.peg.913
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine and Homoserine Biosynthesis	Threonine synthase (EC 4.2.3.1)	fig|83333.1.peg.4
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine and Homoserine Biosynthesis	Homoserine kinase (EC 2.7.1.39)	fig|83333.1.peg.3
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine and Homoserine Biosynthesis	Aspartokinase (EC 2.7.2.4)	fig|83333.1.peg.2, fig|83333.1.peg.3859, fig|83333.1.peg.3933
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Cysteine synthase B (EC 2.5.1.47)	fig|83333.1.peg.2389
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Cys regulon transcriptional activator CysB	fig|83333.1.peg.1262
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Adenylylsulfate kinase (EC 2.7.1.25)	fig|83333.1.peg.2706
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Sulfate and thiosulfate binding protein CysP	fig|83333.1.peg.2393
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Serine acetyltransferase (EC 2.3.1.30)	fig|83333.1.peg.3543
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Sulfate transport system permease protein CysW	fig|83333.1.peg.2391
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Sulfate transport system permease protein CysT	fig|83333.1.peg.2392
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Cysteine synthase (EC 2.5.1.47)	fig|83333.1.peg.2382
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Phosphoadenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.8)	fig|83333.1.peg.2718
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)	fig|83333.1.peg.2707
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)	fig|83333.1.peg.2708
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)	fig|83333.1.peg.2719
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Sulfate transporter, CysZ-type	fig|83333.1.peg.2381
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	fig|83333.1.peg.2390
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Sulfite reductase [NADPH] flavoprotein alpha-component (EC 1.8.1.2)	fig|83333.1.peg.2720
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway	N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)	fig|83333.1.peg.2440
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)	fig|83333.1.peg.166
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway	Diaminopimelate epimerase (EC 5.1.1.7)	fig|83333.1.peg.3735
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	fig|83333.1.peg.2293, fig|83333.1.peg.3367
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)	fig|83333.1.peg.2447
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway	Diaminopimelate decarboxylase (EC 4.1.1.20)	fig|83333.1.peg.2791
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)	fig|83333.1.peg.31
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway	Aspartokinase (EC 2.7.2.4)	fig|83333.1.peg.2, fig|83333.1.peg.3859, fig|83333.1.peg.3933
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway	N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17)	fig|83333.1.peg.3294
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine degradation	Lysine decarboxylase, inducible (EC 4.1.1.18)	fig|83333.1.peg.4043
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine degradation	Lysine/cadaverine antiporter membrane protein CadB	fig|83333.1.peg.4044
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine degradation	Transcriptional activator of cad operon	fig|83333.1.peg.4045
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine degradation	Lysine decarboxylase 2, constitutive (EC 4.1.1.18)	fig|83333.1.peg.186, fig|83333.1.peg.4043
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine anaerobic catabolism gene cluster	Threonine catabolic operon transcriptional activator TdcA	fig|83333.1.peg.3064
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine anaerobic catabolism gene cluster	2-ketobutyrate formate-lyase (EC 2.3.1.-)	fig|83333.1.peg.3060
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine anaerobic catabolism gene cluster	Threonine dehydratase, catabolic (EC 4.3.1.19)	fig|83333.1.peg.3063
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine anaerobic catabolism gene cluster	Serine transporter	fig|83333.1.peg.2752, fig|83333.1.peg.2798, fig|83333.1.peg.3056, fig|83333.1.peg.3472
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine anaerobic catabolism gene cluster	Pyruvate formate-lyase activating enzyme (EC 1.97.1.4)	fig|83333.1.peg.3872, fig|83333.1.peg.810, fig|83333.1.peg.887
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine anaerobic catabolism gene cluster	Predicted L-serine dehydratase (EC 4.3.1.17) TdcG	fig|83333.1.peg.3057, fig|83333.1.peg.3058
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine anaerobic catabolism gene cluster	Hypothetical protein TdcF in cluster with anaerobic degradation of L-threonine to propionate	fig|83333.1.peg.3059
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine anaerobic catabolism gene cluster	Pyruvate formate-lyase (EC 2.3.1.54)	fig|83333.1.peg.3060, fig|83333.1.peg.3871, fig|83333.1.peg.809, fig|83333.1.peg.888
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine anaerobic catabolism gene cluster	L-threonine transporter, anaerobically inducible	fig|83333.1.peg.3062
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine anaerobic catabolism gene cluster	Threonine catabolic operon transcriptional activator TdcR	fig|83333.1.peg.3065
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine anaerobic catabolism gene cluster	Acetate kinase (EC 2.7.2.1)	fig|83333.1.peg.2270, fig|83333.1.peg.3061
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine anaerobic catabolism gene cluster	Phosphate acetyltransferase (EC 2.3.1.8)	fig|83333.1.peg.2271
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine anaerobic catabolism gene cluster	Propionate kinase (EC 2.7.2.15)	fig|83333.1.peg.3061
+Amino Acids and Derivatives	Amino Acids and Derivatives - no subcategory	Creatine and Creatinine Degradation	Cytosine permease	fig|83333.1.peg.333
+Amino Acids and Derivatives	Amino Acids and Derivatives - no subcategory	Creatine and Creatinine Degradation	Cytosine deaminase (EC 3.5.4.1)	fig|83333.1.peg.321, fig|83333.1.peg.334
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)	fig|83333.1.peg.72
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	2-isopropylmalate synthase (EC 2.3.3.13)	fig|83333.1.peg.75
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	Branched-chain amino acid aminotransferase (EC 2.6.1.42)	fig|83333.1.peg.3700
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	3-isopropylmalate dehydrogenase (EC 1.1.1.85)	fig|83333.1.peg.74
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	Valine--pyruvate aminotransferase (EC 2.6.1.66)	fig|83333.1.peg.3506
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	Threonine dehydratase, catabolic (EC 4.3.1.19)	fig|83333.1.peg.3063
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)	fig|83333.1.peg.73
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	Ketol-acid reductoisomerase (EC 1.1.1.86)	fig|83333.1.peg.3704
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	Threonine dehydratase biosynthetic (EC 4.3.1.19)	fig|83333.1.peg.3702
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	Acetolactate synthase large subunit (EC 2.2.1.6)	fig|83333.1.peg.3608, fig|83333.1.peg.3698, fig|83333.1.peg.78
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	Dihydroxy-acid dehydratase (EC 4.2.1.9)	fig|83333.1.peg.265, fig|83333.1.peg.3701, fig|83333.1.peg.4206
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	Leucine-responsive regulatory protein, regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system	fig|83333.1.peg.874
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	Acetolactate synthase small subunit (EC 2.2.1.6)	fig|83333.1.peg.3607, fig|83333.1.peg.3699, fig|83333.1.peg.79
+Amino Acids and Derivatives	Branched-chain amino acids	Leucine Biosynthesis	Leu operon leader peptide	fig|83333.1.peg.76
+Amino Acids and Derivatives	Branched-chain amino acids	Leucine Biosynthesis	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)	fig|83333.1.peg.72
+Amino Acids and Derivatives	Branched-chain amino acids	Leucine Biosynthesis	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)	fig|83333.1.peg.73
+Amino Acids and Derivatives	Branched-chain amino acids	Leucine Biosynthesis	2-isopropylmalate synthase (EC 2.3.3.13)	fig|83333.1.peg.75
+Amino Acids and Derivatives	Branched-chain amino acids	Leucine Biosynthesis	Branched-chain amino acid aminotransferase (EC 2.6.1.42)	fig|83333.1.peg.3700
+Amino Acids and Derivatives	Branched-chain amino acids	Leucine Biosynthesis	Probable transcriptional activator for leuABCD operon	fig|83333.1.peg.77
+Amino Acids and Derivatives	Branched-chain amino acids	Leucine Biosynthesis	3-isopropylmalate dehydrogenase (EC 1.1.1.85)	fig|83333.1.peg.74
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	fig|83333.1.peg.893
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha (EC 2.5.1.54)	fig|83333.1.peg.1688, fig|83333.1.peg.2568, fig|83333.1.peg.740
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	Transcriptional repressor protein TyrR	fig|83333.1.peg.1311
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19) beta sub-homology division	fig|83333.1.peg.893
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	3-dehydroquinate synthase (EC 4.2.3.4)	fig|83333.1.peg.3324
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	Chorismate synthase (EC 4.2.3.5)	fig|83333.1.peg.2303
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	3-dehydroquinate dehydratase I (EC 4.2.1.10)	fig|83333.1.peg.1677
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	Shikimate kinase I (EC 2.7.1.71)	fig|83333.1.peg.3325
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)	fig|83333.1.peg.3215
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	Shikimate/quinate 5-dehydrogenase I beta (EC 1.1.1.282)	fig|83333.1.peg.1676
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	Transcriptional repressor protein TrpR	fig|83333.1.peg.4301
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	Shikimate kinase III (EC 2.7.1.71)	fig|83333.1.peg.385
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)	fig|83333.1.peg.1201
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate Synthesis	5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	fig|83333.1.peg.893
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate Synthesis	Chorismate mutase I (EC 5.4.99.5)	fig|83333.1.peg.2566, fig|83333.1.peg.2567
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate Synthesis	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha (EC 2.5.1.54)	fig|83333.1.peg.1688, fig|83333.1.peg.2568, fig|83333.1.peg.740
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate Synthesis	Prephenate dehydratase (EC 4.2.1.51)	fig|83333.1.peg.2566
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate Synthesis	3-dehydroquinate synthase (EC 4.2.3.4)	fig|83333.1.peg.3324
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate Synthesis	Chorismate synthase (EC 4.2.3.5)	fig|83333.1.peg.2303
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate Synthesis	3-dehydroquinate dehydratase I (EC 4.2.1.10)	fig|83333.1.peg.1677
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate Synthesis	Shikimate kinase I (EC 2.7.1.71)	fig|83333.1.peg.3325
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate Synthesis	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)	fig|83333.1.peg.3215
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate Synthesis	Shikimate/quinate 5-dehydrogenase I beta (EC 1.1.1.282)	fig|83333.1.peg.1676
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate Synthesis	Shikimate kinase III (EC 2.7.1.71)	fig|83333.1.peg.385
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate Synthesis	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)	fig|83333.1.peg.1201
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate Synthesis	Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)	fig|83333.1.peg.2567
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Phenylalanine and Tyrosine Branches from Chorismate	Chorismate mutase I (EC 5.4.99.5)	fig|83333.1.peg.2566, fig|83333.1.peg.2567
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Phenylalanine and Tyrosine Branches from Chorismate	Prephenate dehydratase (EC 4.2.1.51)	fig|83333.1.peg.2566
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Phenylalanine and Tyrosine Branches from Chorismate	Transcriptional repressor protein TyrR	fig|83333.1.peg.1311
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Phenylalanine and Tyrosine Branches from Chorismate	Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57)	fig|83333.1.peg.3964, fig|83333.1.peg.913
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Phenylalanine and Tyrosine Branches from Chorismate	Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43)	fig|83333.1.peg.2567
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Tryptophan synthesis	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)	fig|83333.1.peg.1999
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Tryptophan synthesis	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	fig|83333.1.peg.1250
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Tryptophan synthesis	Aminodeoxychorismate lyase (EC 4.1.3.38)	fig|83333.1.peg.1081
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Tryptophan synthesis	Tryptophan synthase alpha chain (EC 4.2.1.20)	fig|83333.1.peg.1247
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Tryptophan synthesis	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	fig|83333.1.peg.1250
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Tryptophan synthesis	Tryptophan synthase beta chain (EC 4.2.1.20)	fig|83333.1.peg.1248
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Tryptophan synthesis	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)	fig|83333.1.peg.1249
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Tryptophan synthesis	Anthranilate synthase, aminase component (EC 4.1.3.27)	fig|83333.1.peg.1251
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Tryptophan synthesis	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)	fig|83333.1.peg.1249
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Tryptophan synthesis	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)	fig|83333.1.peg.1795
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Tryptophan synthesis	Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)	fig|83333.1.peg.3295
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline Synthesis	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	fig|83333.1.peg.383
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline Synthesis	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	fig|83333.1.peg.238
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline Synthesis	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	fig|83333.1.peg.1744
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline Synthesis	Glutamate 5-kinase (EC 2.7.2.11)	fig|83333.1.peg.237
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	A Hypothetical Protein Related to Proline Metabolism	Hypothetical protein YggS, proline synthase co-transcribed bacterial homolog PROSC	fig|83333.1.peg.2902
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	A Hypothetical Protein Related to Proline Metabolism	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	fig|83333.1.peg.383
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	L-Proline/Glycine betaine transporter ProP	fig|83333.1.peg.4023
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	fig|83333.1.peg.238
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	Aspartate aminotransferase (EC 2.6.1.1)	fig|83333.1.peg.913
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	D-amino acid dehydrogenase small subunit (EC 1.4.99.1)	fig|83333.1.peg.1175
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	Proline-specific permease proY	fig|83333.1.peg.399
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.5.1.12)	fig|83333.1.peg.1002
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	Proline/sodium symporter PutP (TC 2.A.21.2.1)	fig|83333.1.peg.1003
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	Iojap protein	fig|83333.1.peg.638
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	fig|83333.1.peg.383
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	Transcriptional repressor of PutA and PutP	fig|83333.1.peg.1002
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	fig|83333.1.peg.1744
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	RNA-binding C-terminal domain PUA	fig|83333.1.peg.237
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	Ribosomal silencing factor RsfA (former Iojap)	fig|83333.1.peg.638
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	ProQ: influences osmotic activation of compatible solute ProP	fig|83333.1.peg.1815
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	Proline dehydrogenase (EC 1.5.99.8) (Proline oxidase)	fig|83333.1.peg.1002
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	4-Hydroxy-2-oxoglutarate aldolase (EC 4.1.3.16)	fig|83333.1.peg.1834
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline, 4-hydroxyproline uptake and utilization	Glutamate 5-kinase (EC 2.7.2.11)	fig|83333.1.peg.237
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Evolution of Proline Biosynthesis (for review by Fichman et al)	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	fig|83333.1.peg.238
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Evolution of Proline Biosynthesis (for review by Fichman et al)	Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.5.1.12)	fig|83333.1.peg.1002
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Evolution of Proline Biosynthesis (for review by Fichman et al)	Acetylglutamate kinase (EC 2.7.2.8)	fig|83333.1.peg.3879
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Evolution of Proline Biosynthesis (for review by Fichman et al)	N-acetylglutamate synthase (EC 2.3.1.1)	fig|83333.1.peg.2771
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Evolution of Proline Biosynthesis (for review by Fichman et al)	Argininosuccinate lyase (EC 4.3.2.1)	fig|83333.1.peg.3880
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Evolution of Proline Biosynthesis (for review by Fichman et al)	Proline/sodium symporter PutP (TC 2.A.21.2.1)	fig|83333.1.peg.1003
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Evolution of Proline Biosynthesis (for review by Fichman et al)	Argininosuccinate synthase (EC 6.3.4.5)	fig|83333.1.peg.3116
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Evolution of Proline Biosynthesis (for review by Fichman et al)	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	fig|83333.1.peg.3878
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Evolution of Proline Biosynthesis (for review by Fichman et al)	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	fig|83333.1.peg.383
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Evolution of Proline Biosynthesis (for review by Fichman et al)	RNA-binding C-terminal domain PUA	fig|83333.1.peg.237
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Evolution of Proline Biosynthesis (for review by Fichman et al)	Acetylornithine aminotransferase (EC 2.6.1.11)	fig|83333.1.peg.3294
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Evolution of Proline Biosynthesis (for review by Fichman et al)	Glutamate 5-kinase (EC 2.7.2.11)	fig|83333.1.peg.237
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine Biosynthesis	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)	fig|83333.1.peg.3553
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine Biosynthesis	Serine hydroxymethyltransferase (EC 2.1.2.1)	fig|83333.1.peg.2521
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine Biosynthesis	L-threonine 3-dehydrogenase (EC 1.1.1.103)	fig|83333.1.peg.3552
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine Biosynthesis	Low-specificity L-threonine aldolase (EC 4.1.2.48)	fig|83333.1.peg.856
+Amino Acids and Derivatives	Alanine, serine, and glycine	Alanine biosynthesis	Branched-chain amino acid aminotransferase (EC 2.6.1.42)	fig|83333.1.peg.3700
+Amino Acids and Derivatives	Alanine, serine, and glycine	Alanine biosynthesis	Valine--pyruvate aminotransferase (EC 2.6.1.66)	fig|83333.1.peg.3506
+Amino Acids and Derivatives	Alanine, serine, and glycine	Alanine biosynthesis	Alanine racemase (EC 5.1.1.1)	fig|83333.1.peg.1176, fig|83333.1.peg.3963
+Amino Acids and Derivatives	Alanine, serine, and glycine	Alanine biosynthesis	Cysteine desulfurase CsdA-CsdE (EC 2.8.1.7), main protein CsdA	fig|83333.1.peg.2766
+Amino Acids and Derivatives	Alanine, serine, and glycine	Alanine biosynthesis	HTH-type transcriptional regulator IlvY	fig|83333.1.peg.3703
+Amino Acids and Derivatives	Alanine, serine, and glycine	Alanine biosynthesis	Cysteine desulfurase (EC 2.8.1.7), IscS subfamily	fig|83333.1.peg.2500
+Amino Acids and Derivatives	Alanine, serine, and glycine	Alanine biosynthesis	Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	fig|83333.1.peg.1664
+Amino Acids and Derivatives	Alanine, serine, and glycine	Alanine biosynthesis	Alanine transaminase (EC 2.6.1.2)	fig|83333.1.peg.2264
+Amino Acids and Derivatives	Alanine, serine, and glycine	Serine Biosynthesis	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	fig|83333.1.peg.2864
+Amino Acids and Derivatives	Alanine, serine, and glycine	Serine Biosynthesis	Phosphoserine phosphatase (EC 3.1.3.3)	fig|83333.1.peg.4296
+Amino Acids and Derivatives	Alanine, serine, and glycine	Serine Biosynthesis	Serine hydroxymethyltransferase (EC 2.1.2.1)	fig|83333.1.peg.2521
+Amino Acids and Derivatives	Alanine, serine, and glycine	Serine Biosynthesis	Phosphoserine aminotransferase (EC 2.6.1.52)	fig|83333.1.peg.892
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine cleavage system	Glycine cleavage system H protein	fig|83333.1.peg.2856
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine cleavage system	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)	fig|83333.1.peg.2855
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine cleavage system	Glycine cleavage system transcriptional activator GcvA	fig|83333.1.peg.2764
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine cleavage system	Serine hydroxymethyltransferase (EC 2.1.2.1)	fig|83333.1.peg.2521
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine cleavage system	Glycine cleavage system transcriptional antiactivator GcvR	fig|83333.1.peg.2448
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine cleavage system	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	fig|83333.1.peg.116
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine cleavage system	Lipoate-protein ligase A	fig|83333.1.peg.4294, fig|83333.1.peg.4295
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine cleavage system	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)	fig|83333.1.peg.2857
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	D-serine/D-alanine/glycine transporter	fig|83333.1.peg.4118
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	L-serine dehydratase, alpha subunit (EC 4.3.1.17)	fig|83333.1.peg.1797, fig|83333.1.peg.2753
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	Phosphoserine phosphatase (EC 3.1.3.3)	fig|83333.1.peg.4296
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	L-serine dehydratase, beta subunit (EC 4.3.1.17)	fig|83333.1.peg.1797, fig|83333.1.peg.2753
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	Serine hydroxymethyltransferase (EC 2.1.2.1)	fig|83333.1.peg.2521
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	Threonine dehydratase, catabolic (EC 4.3.1.19)	fig|83333.1.peg.3063
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	Serine transporter	fig|83333.1.peg.2752, fig|83333.1.peg.2798, fig|83333.1.peg.3056, fig|83333.1.peg.3472
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	D-serine dehydratase transcriptional activator	fig|83333.1.peg.2337
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	L-serine dehydratase 1 (EC 4.3.1.17)	fig|83333.1.peg.1797
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	Monoamine oxidase (1.4.3.4)	fig|83333.1.peg.1376
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	D-serine dehydratase (EC 4.3.1.18)	fig|83333.1.peg.2339
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)	fig|83333.1.peg.2857
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	fig|83333.1.peg.2864
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	Seryl-tRNA synthetase (EC 6.1.1.11)	fig|83333.1.peg.878
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	Phosphoserine aminotransferase (EC 2.6.1.52)	fig|83333.1.peg.892
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	D-serine permease DsdX	fig|83333.1.peg.2338
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	Glycine cleavage system H protein	fig|83333.1.peg.2856
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)	fig|83333.1.peg.2855
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)	fig|83333.1.peg.3553
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	L-serine dehydratase (EC 4.3.1.17)	fig|83333.1.peg.2753
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	D-serine ammonia-lyase (EC 4.3.1.18)	fig|83333.1.peg.2339
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	Glycerate kinase (EC 2.7.1.31)	fig|83333.1.peg.3069, fig|83333.1.peg.510
+Amino Acids and Derivatives	Alanine, serine, and glycine	Alr Ahuja	HTH-type transcriptional regulator IlvY	fig|83333.1.peg.3703
+Amino Acids and Derivatives	Alanine, serine, and glycine	Alr Ahuja	Branched-chain amino acid aminotransferase (EC 2.6.1.42)	fig|83333.1.peg.3700
+Amino Acids and Derivatives	Alanine, serine, and glycine	Alr Ahuja	Valine--pyruvate aminotransferase (EC 2.6.1.66)	fig|83333.1.peg.3506
+Amino Acids and Derivatives	Alanine, serine, and glycine	Alr Ahuja	Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	fig|83333.1.peg.1664
+Amino Acids and Derivatives	Alanine, serine, and glycine	Alr Ahuja	Cysteine desulfurase (EC 2.8.1.7), IscS subfamily	fig|83333.1.peg.2500
+Amino Acids and Derivatives	Alanine, serine, and glycine	Alr Ahuja	Alanine racemase (EC 5.1.1.1)	fig|83333.1.peg.1176, fig|83333.1.peg.3963
+Amino Acids and Derivatives	Alanine, serine, and glycine	Alr Ahuja	Cysteine desulfurase CsdA-CsdE (EC 2.8.1.7), main protein CsdA	fig|83333.1.peg.2766
