@@ -11,6 +11,7 @@ hope.pegnum <- function(hope.genes) withoutNames(sapply(hope.genes, function(gen
 load("overallmap.Rdata")
 fig_to_b <- function(genevec) overallmap$b[match(genevec, overallmap$fig)]
 b_to_fig <- function(genevec) overallmap$fig[match(genevec, overallmap$b)]
+com_to_fig <- function(genevec) overallmap$fig[match(genevec, overallmap$common.x)] 
 
 # Get the index in get.operons(context) [NOT get.valOperons(context)] of the operon containing a given gene
 get.operon.num <- function(context, gene) which(sapply(get.operons(context), function(op) gene %in% op))
