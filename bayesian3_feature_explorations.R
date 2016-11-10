@@ -1,7 +1,13 @@
 setwd("/home/jason/Documents/School/College/Fall Junior/STAT RESEARCH/MyWD/Bacterial-Code")
 source("expnameMaps.R")
 source("Aij_utility_funcs.R")
+source("E_coli_v4_Build_6_6-23-15_parser.R")
+source("/home/jason/Documents/School/College/Fall Junior/STAT RESEARCH/MyWD/Bacterial-Code/expnameMaps.R")
+cel_chip_map = get.expname.map("/home/jason/Documents/School/College/Fall Junior/STAT RESEARCH/MyWD/Bacterial-Code/inputs/Ecoli_Cel_to_chip_fromClaire_edited.tab")
+load("/home/jason/Documents/School/College/Fall Junior/STAT RESEARCH/MyWD/Bacterial-Code/bayesian3_exploratory_inputs/aijResults.Rdata")
+multiaijs <- aijResults$aijs
 
+#Returns a character vector of chip names for experiments where all functions in FUNs return true given the properties of the experiment
 #FUNs should be a function or list of functions each with five feature parameters (name, value, units, type, url) that returns a boolean
 get.by.features <- function(FUNs) {
   if (typeof(FUNs)=="closure") {
@@ -18,13 +24,29 @@ get.by.features <- function(FUNs) {
   }
 }
 
-# 
+#Given a matrix of lists, a matrix of the same dimensions will be returned with each entry 
+#representing the length of the list in the same index of the parameter matrix
+list_to_length <- function(list_matrix) {
+  nrows <- dim(list_matrix)[1]
+  ncols <- dim(list_matrix)[2]
+  matrix <- matrix(nrow=nrows, ncol=ncols)
+  for (r in 1:nrows){
+    for (c in 1:(ncols)){
+      matrix[r,c] <- length(list_matrix[[r,c]])
+    }
+  }
+  return(matrix)
+}
+
+#Prints a table to the console with a fisher p-value
 print.table.and.fisher <- function(aijs,rowFUNs,colFUNs,rowfun_names,colfun_names,default_name="Other") {
-  matrix <- get.table(aijs,rowFUNs,colFUNs)
-  p <- fisher.test(matrix)$p
+  list_matrix <- get.table(aijs,rowFUNs,colFUNs)
+  matrix <- list_to_length(list_matrix)
   
   nrows <- length(rowFUNs)+1
   ncols <- length(colFUNs)+1
+
+  p <- fisher.test(matrix)$p
   
   frame <- as.data.frame(matrix)
   frame[,ncols+1] <- 0 #add a column of 0's
@@ -43,11 +65,17 @@ print.table.and.fisher <- function(aijs,rowFUNs,colFUNs,rowfun_names,colfun_name
   return(table)
 }
 
-#FUN_MAT is a matrix of functions
+#Given a data.frame (I think a matrix should also work) of aijs where the column names are CEL names and row names are ped IDs 
+#and two lists of boolean functions, a matrix of size (length(rowFUNs)+1, length(colFUNs)+1) will be returned.
+#Index [r,c] is a list of CEL names of experiments where both rowFUNs[[r]] and colFUNs[[c]] return true.
+#where the 'extra functions' for rows and columns is true for all experiments for which no other function was true and false otherwise.
+#To get desired behavior, it is the caller's responsibility to choose mutually exclusive functions within rowFUNs and within colFUNs
+#rowFUNs and colFUNs should be lists of functions of two parameters (aijs, cel) that returns a boolean
+#aijs will be a named numeric vector and cel will be the CEL name for the experiment (the CEL name is unique to each experiment)
 get.table <- function(aijs,rowFUNs,colFUNs) {
   colnames <- colnames(aijs)
   rownames <- rownames(aijs)
-  m <- matrix(c(0), nrow=length(rowFUNs)+1, ncol=length(colFUNs)+1)
+  m <- matrix(list(), nrow=length(rowFUNs)+1, ncol=length(colFUNs)+1)
   row_solutions <- rep(list(c()),length(rowFUNs)+1)
   col_solutions <- rep(list(c()),length(colFUNs)+1)
   all_row_solutions <- c()
@@ -73,7 +101,7 @@ get.table <- function(aijs,rowFUNs,colFUNs) {
   col_solutions[[length(colFUNs)+1]] <- setdiff(colnames, all_col_solutions)
   for (r in 1:(length(rowFUNs)+1)) {
     for (c in 1:(length(colFUNs)+1)) {
-      m[r,c] <- length(intersect(row_solutions[[r]], col_solutions[[c]]))
+      m[r,c] <- list(intersect(row_solutions[[r]], col_solutions[[c]]))
     }
   }
   return(m)
@@ -242,18 +270,48 @@ test.feature.arabinose.perturbation_gene.ccdB.activity.araC <- function() {
   )
 }
 
-plot.distributions <- function(gene) {
+plot.distributions <- function(aijs, gene, FUN, condition) {
+  cel_names <- colnames(aijs)
+  experiments <- aijs[com_to_fig(gene),]
+  bools <- vector(length=length(cel_names))
+  for (i in 1:length(cel_names)) {
+    if (FUN(aijs[,i], cel_names[i])) {
+      bools[i] <- TRUE
+    }
+  }
+  true <- experiments[bools]
+  false <- experiments[!bools]
+  minimum <- min(experiments)
+  maximum <- max(experiments)
   
+  layout(matrix(c(1,2,3,3),ncol=2,byrow=TRUE),heights=c(0.8,0.2))
+  plot(density(true), main=paste("Activity Density for",gene), xlim=c(0,1), col="darkred")
+  lines(density(false), col="darkblue")
+  boxplot(true, false, main=paste("Activity Levels for",gene), col=c("darkred","darkblue"))
+  oldmar<-par(mar=c(1,1,1,1)) 
+  plot.new() 
+  legend(0.45,1,c(condition, "Other"),fill=c("darkred","darkblue")) 
+  par(oldmar)
+  
+}
+
+plot.feature.strain.bw25113.inactivty.araB.araA.araD.rhaD.rhaA.rhaB.lacZ.hsdR.rph <- function() {
+  for (gene in c("araB", "araA", "araD", "rhaD", "rhaA", "rhaB", "lacZ", "hsdR", "rph")) {
+    plot.distributions(multiaijs, gene, feature.strain.bw25113, "BW25113 strain")
+  }
 }
 
 
 
+
 # MAIN CODE TO RUN
-#   test.feature.arabinose.perturbation_gene.ccdB.activity.araC()
+#  test.feature.arabinose.perturbation_gene.ccdB.activity.araC()
 #   test.feature.strain.bw25113.activty.2way.araB.araA.araD.rhaD.rhaA.rhaB.lacZ.hsdR.rph()
 #   test.feature.strain.bw25113.activty.araB.araA.araD.rhaD.rhaA.rhaB.lacZ.hsdR.rph()
-
-
+#   plot.distributions(multiaijs, "araB", feature.strain.bw25113)
+    #pdf("Activity Depending on BW25113 Strain.pdf", width=11, height=8.5)
+    plot.feature.strain.bw25113.inactivty.araB.araA.araD.rhaD.rhaA.rhaB.lacZ.hsdR.rph()
+    #dev.off()
 
 
 #Verification notes:
