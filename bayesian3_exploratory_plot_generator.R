@@ -6,7 +6,8 @@ load("bayesian3_exploratory_inputs/aijResults.Rdata")  # Includes both aijs and 
 multiaijs <- aijResults$aijs
 load("bayesian3_exploratory_inputs/uniaijs.Rdata")  # aijs from the UniMM-MI method
 source("expnameMaps.R")
-load("/home/jason/Documents/School/College/Fall Junior/STAT RESEARCH/MyWD/Data/NamingConversions.Rda")
+source("Aij_utility_funcs.R")
+
 cel_chip_map = get.expname.map("inputs/Ecoli_Cel_to_chip_fromClaire_edited.tab")
 
 exp_data_for <- function(gene) as.matrix(eijs)[gene,]
@@ -27,6 +28,26 @@ hist_with_overlay <- function(pegnum,figure) {
   curve(dnormOff(gene(pegnum),x), add=T, col="darkblue", lwd=3)
   curve(dnormOn(gene(pegnum),x), add=T, col="darkred", lwd=3)
   legend("topright", c("Inactive prediction", "Active prediction"), fill=c("darkblue", "darkred"))
+}
+
+hist_with_overlay_gene <- function(gene,figure,range,...) {
+  fig_id <- com_to_fig(gene)
+  off <- list(seq(0,16,0.1),(dnormOff(fig_id,seq(0,16,0.1))))
+  on <- list(seq(0,16,0.1),(dnormOn(fig_id,seq(0,16,0.1))))
+  names(off) <- c("x","y")
+  names(on) <- c("x","y")
+  plot(off$x,off$y, col="darkblue", lwd=5,type="l",main="", xlab="", ylab=paste(gene,"Density"), xlim=range,bty="n",...)
+  lines(on$x,on$y, col="darkred", lwd=5)
+}
+
+hist_with_overlay_gene_vert <- function(gene,figure,range,...) {
+  fig_id <- com_to_fig(gene)
+  off <- list(seq(0,16,0.1),(dnormOff(fig_id,seq(0,16,0.1))))
+  on <- list(seq(0,16,0.1),(dnormOn(fig_id,seq(0,16,0.1))))
+  names(off) <- c("x","y")
+  names(on) <- c("x","y")
+  plot(off$y,off$x, col="darkblue", lwd=5,type="l",main="", xlab=paste(gene,"Density"), ylab="", ylim=range,bty="n",...)
+  lines(on$y,on$x, col="darkred", lwd=5)
 }
 
 #Save histograms overlays for all transcription factors in regprecise
@@ -174,6 +195,84 @@ get_pegnum <- function(gene_name, map) {
   return(s[4])
 }
 
+
+
+plot.elaborate <- function(gene1,gene2,low,high) {
+  fig1 <- com_to_fig(gene1)
+  fig2 <- com_to_fig(gene2)
+  
+  data1 <- exp_data_for(fig1)
+  data2 <- exp_data_for(fig2)
+  
+  xlimit = c(min(data1)-1, max(data1)+1)
+  ylimit = c(min(data2)-1, max(data2)+1)
+  
+  aijs1 <- multiaijs[fig1,]
+  aijs2 <- multiaijs[fig2,]
+  
+  inact1=which(aijs1<low);
+  act1=which(aijs1>=high);
+  other1=intersect(which(aijs1>=low),which(aijs1<high));
+  
+  inact2=which(aijs2<low);
+  act2=which(aijs2>=high);
+  other2=intersect(which(aijs2>=low),which(aijs2<high));
+  
+  regions <- list(intersect(inact1,inact2),
+                  intersect(other1,inact2),
+                  intersect(act1,inact2),
+                  intersect(inact1,other2),
+                  intersect(other1,other2),
+                  intersect(act1,other2),
+                  intersect(inact1,act2),
+                  intersect(other1,act2),
+                  intersect(act1,act2))
+  
+  colors <- c("darkblue","darkgrey","black","darkgrey","darkgrey","darkgrey","forestgreen","darkgrey","darkred")
+  symbols <- c(16,18,4,18,18,18,15,18,17)
+  
+  layout(matrix(c(2,4,1,3),ncol=2,byrow=TRUE),heights=c(0.3,0.7), widths=c(0.7,0.3))
+  
+  sym_cex = 1.25
+  font_cex = 1.75
+  
+  par(oma=c(0,0,2,0), mar=c(5,5,0,0))
+  plot(c(),c(),main="",xlim=xlimit,ylim=ylimit,xlab=paste(gene1,"Expression Levels"),ylab=paste(gene2,"Expression Levels"),cex.lab=font_cex,cex.axis=font_cex)
+  for (i in 1:length(regions)) {
+    x_cex = sym_cex
+    if (symbols[i]==4) {
+      x_cex = sym_cex+1.25
+    }
+    points(data1[regions[[i]]], data2[regions[[i]]],col=colors[i],pch=symbols[i],cex=x_cex)
+  }
+  #box("plot", col="red")
+  #box("figure", col="blue")
+  
+  
+  par(mar=c(0,5,2,0)) 
+  hist_with_overlay_gene(gene1,"",xlimit,cex.lab=font_cex,xaxt="n",yaxt="n",cex.axis=font_cex)
+  #box("plot", col="red")
+  #box("figure", col="blue")
+  
+  
+  par(mar=c(5,0,0,2))
+  hist_with_overlay_gene_vert(gene2,"",ylimit,cex.lab=font_cex,xaxt="n",yaxt="n",cex.axis=font_cex)
+  #box("plot", col="red")
+  #box("figure", col="blue")
+  
+  par(mar=c(0.1,0.1,2,0.1)) 
+  plot.new()
+  legend("center",c(paste(gene1,"inact.,",gene2,"inact."),
+                  paste(gene1,"inact.,",gene2,"act."),
+                  paste(gene1,"act.,",gene2,"inact."),
+                  paste(gene1,"act.,",gene2,"act.")
+                  ),col=c("darkblue","forestgreen","black","darkred"),pch=c(16,15,4,17),cex=font_cex,bty="n")
+  #box("plot", col="red")
+  #box("figure", col="blue")
+  
+  mtext(paste("Expression distribution for",gene1,"and",gene2), adj=0.5, side=3, outer=TRUE, cex=font_cex)
+}
+
 ### Format:
 ### compare_genes(transcription_factor, target, transcription_factor_name, target_name)
 #pdf(file="/home/jason/Documents/School/College/Fall Junior/STAT RESEARCH/crp", width=13, height=8)
@@ -186,15 +285,17 @@ get_pegnum <- function(gene_name, map) {
 #compare_genes(1323,725,'fnr','cydA')
 #compare_genes(502,501,'allR','allA')
 
-#pdf(file="/home/jason/Documents/School/College/Fall Junior/STAT RESEARCH/TRN Conflicts UniMM ", width=13, height=8)
-compare_genes(name_map,'araC','araA','crp')
-compare_genes(name_map,'araC','araB','crp')
-compare_genes(name_map,'araC','araD','crp')
-compare_genes(name_map,'araC','araF','crp')
-compare_genes(name_map,'araC','araG','crp')
-#compare_genes(name_map,'araC','araH','crp') no peg id
-compare_genes(name_map,'araC','ytfQ','crp')
-#compare_genes(name_map,'araC','ytfR','crp') no peg id
-compare_genes(name_map,'araC','ytfT','crp')
-compare_genes(name_map,'araC','yjfF','crp') 
-#dev.off()
+# #pdf(file="/home/jason/Documents/School/College/Fall Junior/STAT RESEARCH/TRN Conflicts UniMM ", width=13, height=8)
+# compare_genes(name_map,'araC','araA','crp')
+# compare_genes(name_map,'araC','araB','crp')
+# compare_genes(name_map,'araC','araD','crp')
+# compare_genes(name_map,'araC','araF','crp')
+# compare_genes(name_map,'araC','araG','crp')
+# #compare_genes(name_map,'araC','araH','crp') no peg id
+# compare_genes(name_map,'araC','ytfQ','crp')
+# #compare_genes(name_map,'araC','ytfR','crp') no peg id
+# compare_genes(name_map,'araC','ytfT','crp')
+# compare_genes(name_map,'araC','yjfF','crp') 
+# #dev.off()
+
+plot.elaborate("araC","araD",0.5,0.5)

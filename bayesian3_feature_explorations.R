@@ -46,7 +46,7 @@ print.table.and.fisher <- function(aijs,rowFUNs,colFUNs,rowfun_names,colfun_name
   nrows <- length(rowFUNs)+1
   ncols <- length(colFUNs)+1
 
-  p <- fisher.test(matrix)$p
+  p <- fisher.test(matrix,hybrid=TRUE,simulate.p.value=TRUE)$p
   
   frame <- as.data.frame(matrix)
   frame[,ncols+1] <- 0 #add a column of 0's
@@ -121,6 +121,10 @@ inactive.gene <- function(gene, aijs, cel, threshold=0.2) {
   return(aijs[com_to_fig(gene)] <= threshold)
 }
 
+activity.gene <- function(gene, aijs, cel, thresholds=c(0.2,0.8)) {
+  return((thresholds[1] < aijs[com_to_fig(gene)]) & (aijs[com_to_fig(gene)] <= thresholds[2]))
+}
+
 conflict.tf.tg <- function(tf, tg, aijs, cel, threshold_lo=0.2, threshold_hi=0.8) {
   return(aijs[com_to_fig(tf)] >= threshold_hi & aijs[com_to_fig(tg)] <= threshold_lo)
 }
@@ -137,11 +141,17 @@ inactive.araB <- function(aijs, cel) {return(inactive.gene("araB", aijs, cel))}
 inactive.araA <- function(aijs, cel) {return(inactive.gene("araA", aijs, cel))}
 inactive.araD <- function(aijs, cel) {return(inactive.gene("araD", aijs, cel))}
 
+# mid activity functions for specific genes
+activity.4.6.araC <- function(aijs, cel) {return(activity.gene("araC", aijs, cel, c(0.4,0.6)))}
+
 # functions based on feature constraints
 chips.strain.bw25113 <- get.by.features(function(nam,val,uts,typ,url) {nam=="strain" & val=="BW25113"})
 chips.perturbation_gene.ccdB <- get.by.features(function(nam,val,uts,typ,url) {nam=="perturbation_gene" & val=="ccdB"})
 chips.arabinose <- get.by.features(function(nam,val,uts,typ,url) {nam=="arabinose"})
-    
+chips.arabinose.high <- get.by.features(function(nam,val,uts,typ,url) {nam=="arabinose" & (val=="6.66" | val=="6.6609")})
+chips.arabinose.mid <- get.by.features(function(nam,val,uts,typ,url) {nam=="arabinose" & val=="8.3261"})
+chips.arabinose.low <- get.by.features(function(nam,val,uts,typ,url) {nam=="arabinose" & (val=="13.32" | val=="16.6522")})
+
 chips.strain.bw25113.perturbation_gene.ccdB <- intersect(chips.strain.bw25113, chips.perturbation_gene.ccdB)
 chips.arabinose.perturbation_gene.ccdB <- intersect(chips.arabinose, chips.perturbation_gene.ccdB)
     
@@ -149,6 +159,9 @@ feature.strain.bw25113 <- function(aijs, cel) {return(in.chips(chips.strain.bw25
 feature.strain.bw25113.perturbation_gene.ccdB <- function(aijs, cel) {return(in.chips(chips.strain.bw25113.perturbation_gene.ccdB, aijs, cel))}
 feature.arabinose <- function(aijs,cel) {return(in.chips(chips.arabinose, aijs, cel))}
 feature.arabinose.perturbation_gene.ccdB <- function(aijs,cel) {return(in.chips(chips.arabinose.perturbation_gene.ccdB, aijs, cel))}
+feature.arabinose.high <- function(aijs,cel) {return(in.chips(chips.arabinose.high, aijs, cel))}
+feature.arabinose.mid <- function(aijs,cel) {return(in.chips(chips.arabinose.mid, aijs, cel))}
+feature.arabinose.low <- function(aijs,cel) {return(in.chips(chips.arabinose.low, aijs, cel))}
 
 # conflict functions for tf and tg
 conflict.araC.araA <- function(aijs, cel) {return(conflict.tf.tg("araC","araA",aijs,cel))}
@@ -288,7 +301,7 @@ plot.distributions <- function(aijs, gene, FUN, condition) {
   plot(density(true), main=paste("Activity Density for",gene), xlim=c(0,1), col="darkred")
   lines(density(false), col="darkblue")
   boxplot(true, false, main=paste("Activity Levels for",gene), col=c("darkred","darkblue"))
-  oldmar<-par(mar=c(1,1,1,1)) 
+  oldmar<-par(mar=c(1,1,1,1))
   plot.new() 
   legend(0.45,1,c(condition, "Other"),fill=c("darkred","darkblue")) 
   par(oldmar)
@@ -301,21 +314,31 @@ plot.feature.strain.bw25113.inactivty.araB.araA.araD.rhaD.rhaA.rhaB.lacZ.hsdR.rp
   }
 }
 
+plot.feature.arabinose.3levels <- function() {
+  print.table.and.fisher(multiaijs,
+                         c(
+                           function(aijs, cel) {return(active.gene("araC", aijs, cel, threshold=0.9))},
+                           function(aijs, cel) {return(inactive.gene("araC", aijs, cel, threshold=0.15))}
+                         ),
+                         c(
+                           feature.arabinose.high,
+                           feature.arabinose.mid,
+                           feature.arabinose.low
+                         ),
+                         c("araC is active (aij>=0.9)", "araC is inactive (aij<=0.15)"),
+                         c("High Arabinose Content","Medium Arabinose Content","Low Arabinose Content")
+  )
+}
+
 
 
 
 # MAIN CODE TO RUN
-#  test.feature.arabinose.perturbation_gene.ccdB.activity.araC()
-#   test.feature.strain.bw25113.activty.2way.araB.araA.araD.rhaD.rhaA.rhaB.lacZ.hsdR.rph()
-#   test.feature.strain.bw25113.activty.araB.araA.araD.rhaD.rhaA.rhaB.lacZ.hsdR.rph()
-#   plot.distributions(multiaijs, "araB", feature.strain.bw25113)
-    #pdf("Activity Depending on BW25113 Strain.pdf", width=11, height=8.5)
-    plot.feature.strain.bw25113.inactivty.araB.araA.araD.rhaD.rhaA.rhaB.lacZ.hsdR.rph()
-    #dev.off()
+    # test.feature.arabinose.perturbation_gene.ccdB.activity.araC()
+    # test.feature.strain.bw25113.activty.2way.araB.araA.araD.rhaD.rhaA.rhaB.lacZ.hsdR.rph()
+    # test.feature.strain.bw25113.activty.araB.araA.araD.rhaD.rhaA.rhaB.lacZ.hsdR.rph()
+    # plot.distributions(multiaijs, "araB", feature.strain.bw25113)
+    # plot.feature.strain.bw25113.inactivty.araB.araA.araD.rhaD.rhaA.rhaB.lacZ.hsdR.rph()
+    plot.feature.arabinose.3levels()
 
-
-#Verification notes:
-#   there are 18 experiments where araC aij >= 0.8
-#   there are 5 experiments with BW25113 strain and ccdB perturbation gene
-#   there are 10 experiments where araC conflicts with araA at 0.8 and 0.2 level
 
