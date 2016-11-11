@@ -1,10 +1,11 @@
-setwd("/home/jason/Documents/School/College/Fall Junior/STAT RESEARCH/MyWD/Bacterial-Code/")
+root_dir = "/home/jason/Documents/School/College/Fall Junior/STAT RESEARCH/MyWD/Bacterial-Code/"
+setwd(root_dir)
 
 load("bayesian3_exploratory_inputs/eijs.Rdata")
 load("bayesian3_exploratory_inputs/operons.Rdata")
+load("bayesian3_exploratory_inputs/uniaijs.Rdata")  # aijs from the UniMM-MI method
 load("bayesian3_exploratory_inputs/aijResults.Rdata")  # Includes both aijs and fits from the MultiMM-MI method
 multiaijs <- aijResults$aijs
-load("bayesian3_exploratory_inputs/uniaijs.Rdata")  # aijs from the UniMM-MI method
 source("expnameMaps.R")
 source("Aij_utility_funcs.R")
 

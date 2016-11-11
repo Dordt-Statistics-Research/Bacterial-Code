@@ -1,11 +1,12 @@
-setwd("/home/jason/Documents/School/College/Fall Junior/STAT RESEARCH/MyWD/Bacterial-Code")
+root_dir = "/home/jason/Documents/School/College/Fall Junior/STAT RESEARCH/MyWD/Bacterial-Code/"
+setwd(root_dir)
+
+load("bayesian3_exploratory_inputs/aijResults.Rdata")
 source("expnameMaps.R")
 source("Aij_utility_funcs.R")
 source("E_coli_v4_Build_6_6-23-15_parser.R")
-source("/home/jason/Documents/School/College/Fall Junior/STAT RESEARCH/MyWD/Bacterial-Code/expnameMaps.R")
-cel_chip_map = get.expname.map("/home/jason/Documents/School/College/Fall Junior/STAT RESEARCH/MyWD/Bacterial-Code/inputs/Ecoli_Cel_to_chip_fromClaire_edited.tab")
-load("/home/jason/Documents/School/College/Fall Junior/STAT RESEARCH/MyWD/Bacterial-Code/bayesian3_exploratory_inputs/aijResults.Rdata")
 multiaijs <- aijResults$aijs
+cel_chip_map = get.expname.map(paste0(root_dir,"/inputs/Ecoli_Cel_to_chip_fromClaire_edited.tab"))
 
 #Returns a character vector of chip names for experiments where all functions in FUNs return true given the properties of the experiment
 #FUNs should be a function or list of functions each with five feature parameters (name, value, units, type, url) that returns a boolean
